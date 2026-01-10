@@ -1,0 +1,92 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": [
+    "meta",
+    "character",
+    "extracted_sentences",
+    "claims",
+    "contradictions",
+    "debug"
+  ],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["chunk_id", "matched_character", "match_confidence"],
+      "properties": {
+        "chunk_id": { "type": "string" },
+        "matched_character": { "type": ["string", "null"] },
+        "match_confidence": { "type": "number", "minimum": 0, "maximum": 1 }
+      }
+    },
+    "character": {
+      "type": "object",
+      "properties": {
+        "name": { "type": ["string", "null"] },
+        "role": { "type": ["string", "null"] },
+        "core_traits": { "type": "array", "items": { "type": "string" } },
+        "domain": { "type": ["string", "null"] }
+      }
+    },
+    "extracted_sentences": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["subject", "predicate", "object", "polarity", "scope"],
+        "properties": {
+          "subject": { "type": "string" },
+          "predicate": { "type": "string" },
+          "object": { "type": "string" },
+          "polarity": { "enum": ["affirm", "deny"] },
+          "scope": { "enum": ["permanent", "temporal"] },
+          "time_ref": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "contradictions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "subject",
+          "predicate",
+          "backstory_value",
+          "new_value",
+          "scope",
+          "severity"
+        ],
+        "properties": {
+          "subject": { "type": "string" },
+          "predicate": { "type": "string" },
+          "backstory_value": { "type": "string" },
+          "new_value": { "type": "string" },
+          "scope": { "type": "string" },
+          "severity": { "enum": ["low", "medium", "high"] }
+        }
+      }
+    },
+    "debug": {
+      "type": "object",
+      "required": [
+        "character_matching_reasoning",
+        "sentence_selection_reasoning",
+        "claim_construction_reasoning",
+        "contradiction_reasoning",
+        "ignored_information",
+        "overall_confidence"
+      ],
+      "properties": {
+        "character_matching_reasoning": { "type": "string" },
+        "sentence_selection_reasoning": { "type": "string" },
+        "claim_construction_reasoning": { "type": "string" },
+        "contradiction_reasoning": { "type": "string" },
+        "ignored_information": { "type": "string" },
+        "overall_confidence": { "type": "number", "minimum": 0, "maximum": 1 }
+      }
+    }
+  }
+}

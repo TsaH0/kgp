@@ -1,0 +1,25 @@
+{
+  "id": "13",
+  "character": "Jacques Paganel",
+  "backstory": "His deference to Lady Glenarvan echoed the tangled feelings he had once held for his mother; by becoming the expedition\u2019s \u201cliving map\u201d he tried to atone for failing to protect her.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Jacques Paganel\n==================================================\n\nRole: Geographer and Secretary of the Geographical Society of Paris\n\nTraits: Absent-minded, Grandiloquent, Woeful, Humble, Determined\n\nFacts (5):\n  - Jacques Paganel is a member of Geographical Society of Paris\n  - Jacques Paganel is traveling to America\n  - Jacques Paganel is planning to ascend a celebrated mountain\n  - Jacques Paganel has a relationship with Lord Glenarvan\n  - Jacques Paganel is known for his absent-mindedness\n\nTimeline (5):\n  - Meets Lord Glenarvan [At the beginning of the voyage]\n  - Discovers he is on the wrong ship [After embarkation]\n  - Decides to make the best of the situation [After realizing his mistake]\n  - Plans to ascend a celebrated mountain [While waiting for a new vessel]\n  - Walks on the deck with Captain Mangles [At two o'clock in the afternoon]\n\nRelationships (3):\n  - Lord Glenarvan\n  - Lady Helena\n  - Captain Mangles\n\nSummary: Jacques Paganel, a geographer and secretary of the Geographical Society of Paris, embarks on a voyage to America, despite initially intending to travel to India, and navigates the challenges and relationships that arise during his journey.\n\nSources: In search of the castaways",
+  "verification": {
+    "statement": "His deference to Lady Glenarvan echoed the tangled feelings he had once held for his mother; by becoming the expedition\u2019s \u201cliving map\u201d he tried to atone for failing to protect her.",
+    "truth_percentage": 20,
+    "is_contradiction": true,
+    "reasoning": "The statement introduces information about Jacques Paganel's feelings towards his mother and his motivation for becoming the expedition's 'living map', which is not supported by the extracted knowledge. While it is known that Jacques Paganel is humble and determined, there is no mention of his relationship with his mother or any past failure to protect her. The statement also implies a level of self-awareness and emotional complexity that is not evident in the provided traits or facts.",
+    "supporting_facts": [],
+    "contradicting_facts": [
+      "Jacques Paganel is traveling to America",
+      "Jacques Paganel has a relationship with Lord Glenarvan",
+      "Traits: Absent-minded, Grandiloquent, Woeful, Humble, Determined"
+    ]
+  },
+  "final_verdict": {
+    "character": "Jacques Paganel",
+    "truth_percentage": 20,
+    "final_verdict": "contradiction",
+    "reason": "The statement introduces information about Jacques Paganel's feelings towards his mother and his motivation for becoming the expedition's 'living map', which is not supported by the extracted knowledge. While it is known that Jacques Paganel is humble and determined, there is no mention of his relationship with his mother or any past failure to protect her. The statement also implies a level of self-awareness and emotional complexity that is not evident in the provided traits or facts.",
+    "id": "13"
+  }
+}

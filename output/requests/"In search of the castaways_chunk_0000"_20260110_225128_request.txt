@@ -1,0 +1,105 @@
+=== METADATA ===
+{
+  "character_names": [
+    "Harry Potter",
+    "Hermione Granger",
+    "Ron Weasley",
+    "Albus Dumbledore",
+    "Severus Snape",
+    "Voldemort",
+    "Draco Malfoy"
+  ],
+  "backstory_provided": false,
+  "validation_passed": true,
+  "validation_error": null
+}
+
+=== PROMPT ===
+You are a structured knowledge extraction and contradiction detection engine.
+
+You will be given:
+1. A text chunk extracted from a book (.txt files ingested from a data folder).
+2. A list of known character names from train.csv.
+3. An optional structured backstory for a character (may be null).
+
+Your tasks:
+1. Identify whether any character from the provided character list appears in the text chunk.
+2. If a character appears, extract ONLY sentences relevant to that character.
+3. Convert the extracted information into atomic, contradiction-ready factual claims.
+4. If a backstory is provided, compare the new claims against it and identify direct contradictions.
+5. Produce detailed debug information explaining each decision.
+
+Rules:
+- Output MUST be valid JSON only.
+- Do NOT include markdown.
+- Do NOT include explanations outside JSON.
+- Do NOT invent characters or facts.
+- If no known character appears, set character fields to null and claims to empty.
+- Claims must be atomic, minimal, and directly grounded in the text.
+- A contradiction exists ONLY if the same subject + predicate + scope has incompatible objects.
+- Temporal differences are NOT contradictions unless explicitly conflicting.
+- Prefer fewer, high-confidence claims over speculative ones.
+
+STRICT OUTPUT SCHEMA:
+
+{
+  "meta": {
+    "chunk_id": string,
+    "matched_character": string | null,
+    "match_confidence": number
+  },
+  "character": {
+    "name": string | null,
+    "role": string | null,
+    "core_traits": [string],
+    "domain": string | null
+  },
+  "extracted_sentences": [string],
+  "claims": [
+    {
+      "subject": string,
+      "predicate": string,
+      "object": string,
+      "polarity": "affirm" | "deny",
+      "scope": "permanent" | "temporal",
+      "time_ref": string | null
+    }
+  ],
+  "contradictions": [
+    {
+      "subject": string,
+      "predicate": string,
+      "backstory_value": string,
+      "new_value": string,
+      "scope": string,
+      "severity": "low" | "medium" | "high"
+    }
+  ],
+  "debug": {
+    "character_matching_reasoning": string,
+    "sentence_selection_reasoning": string,
+    "claim_construction_reasoning": string,
+    "contradiction_reasoning": string,
+    "ignored_information": string,
+    "overall_confidence": number
+  }
+}
+
+CHUNK_ID: "In search of the castaways_chunk_0000"
+
+KNOWN CHARACTERS (from train.csv):
+- Harry Potter
+- Hermione Granger
+- Ron Weasley
+- Albus Dumbledore
+- Severus Snape
+- Voldemort
+- Draco Malfoy
+
+CHARACTER BACKSTORY:
+null
+
+BOOK TEXT CHUNK:
+"to discover a practicable route over the mountains in the north of"
+
+Identify the character, extract structured facts, and detect contradictions strictly following the schema.

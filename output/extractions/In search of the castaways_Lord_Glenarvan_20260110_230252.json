@@ -1,0 +1,65 @@
+{
+  "character": "Lord Glenarvan",
+  "book": "In search of the castaways",
+  "sentences_found": 100,
+  "sentences": [
+    "The yacht\nwas called the Duncan, and belonged to Lord Glenarvan, one of the\nsixteen Scottish peers sitting in the House of Lords, and also a most\ndistinguished member of the \"Royal Thames Yacht Club,\" so celebrated\nthroughout the United Kingdom.",
+    "The captain, John Mangles,\nat once informed Lord Glenarvan of the fact, who mounted on deck with\nMajor MacNabb, and asked the captain what he thought of the animal.",
+    "If your lordship consents, and it\npleases Lady Helena to witness such a novel chase, we will soon see\nwhat we have to deal with.\"\n\n\"What do you think, MacNabb?\" said Lord Glenarvan to the major; \"are\nyou of a mind to try the adventure?\"\n\n\"I am of whatever opinion pleases you,\" answered the major, calmly.",
+    "Let us improve the opportunity, and, if your\nlordship pleases, it shall be an exciting scene as well as a good\naction.\"\n\n\"Very well, captain,\" said Lord Glenarvan.",
+    "and to lose nothing, has drank\nnot only the wine, but the bottle too!\"\n\n\"What!\" exclaimed Lord Glenarvan, \"is it a bottle that this shark has\nin his stomach?\"\n\n\"A real bottle!\" replied the mate, \"but you can easily see that it does\nnot come from the wine-cellar.\"\n\n\"Well, Tom,\" said Glenarvan, \"draw it out carefully.",
+    "\"Good,\" said Glenarvan; \"wash the dirty thing, and bring it into the\ncabin.\"\n\nTom obeyed; and the bottle found under such singular circumstances was\nplaced on the cabin-table, around which Lord Glenarvan, Major MacNabb,\nand Captain John Mangles took their seats, together with Lady Helena;\nfor a woman, they say, is always a little inquisitive.",
+    "For\nseveral minutes Lord Glenarvan examined them attentively, turned them\nabout in every way, and exposed them to the light of day, observing\nthe least traces of writing spared by the sea.",
+    "\"It is not probable that the\nwater has obliterated these lines in exactly the same places on each,\nand by comparing these remains of phrases we shall arrive at some\nintelligible meaning.\"\n\n\"We will do so,\" said Lord Glenarvan; \"but let us proceed\nsystematically.",
+    "\"Look, gentlemen, look!\"\n\n\"Let us proceed in order,\" said Lord Glenarvan, \"and start at\nthe beginning.",
+    "His search was soon ended; as he said, in\na tone of satisfaction,--\n\n\"May 30, 1862, Callao, Peru, _Britannia_, Captain Grant, bound for\nGlasgow.\"\n\n\"Grant!\" exclaimed Lord Glenarvan; \"that hardy Scotchman who wished to\nfound a new Scotland in the waters of the Pacific?\"\n\n\"Yes,\" answered the captain, \"the very same, who, in 1861, embarked in\nthe Britannia at Glasgow, and of whom nothing has since been heard.\"\n\n\"Exactly!",
+    "\"All, my dear Helena: and these blanks that the sea has made between\nthe words of the document, I can as easily fill out as though I were\nwriting at the dictation of Captain Grant.\"\n\nAccordingly Lord Glenarvan took the pen again, and wrote, without\nhesitation, the following note:\n\n\"June 7, 1862.--The brig Britannia of Glasgow was wrecked on the shores\nof Patagonia, in the Southern Hemisphere.",
+    "Lord Glenarvan, after embracing his young wife, hurried\nto take the express train for Glasgow.",
+    "But before going, he confided an\nimportant message to a more rapid agent, and a few moments after the\nelectric telegraph conveyed to the _Times_ and _Morning Chronicle_ an\nadvertisement in the following terms:\n\n\"For any information concerning the brig Britannia of Glasgow, Captain\nGrant, address Lord Glenarvan, Malcolm Castle, Luss, County of\nDumbarton, Scotland.\"\n\n\n\n\nCHAPTER III.",
+    "Lord Glenarvan possessed an immense fortune, which he employed in\ndoing much good.",
+    "Miss Helena did not belong to a noble family, but she was Scotch, which\nequaled all nobilities in the eyes of Lord Glenarvan.",
+    "But Lord Glenarvan\ndid not forget that his wife was the daughter of a great traveler.",
+    "[Illustration]\n\nMeantime Lord Glenarvan had started for London.",
+    "His proposal had to\nencounter some difficulties, and the following day a second letter\ncame, in which Lord Glenarvan did not conceal his indignation against\nthe authorities.",
+    "\"Lord Glenarvan is not at the castle,\" replied Lady Helena; \"but I am\nhis wife, and if I can supply his place with you----\"\n\n\"You are Lady Glenarvan?\" said the young girl.",
+    "\"Yes, miss.\"\n\n\"The wife of Lord Glenarvan, of Malcolm Castle, who published an\nadvertisement in the _Times_ in regard to the shipwreck of the\nBritannia?\"\n\n\"Yes, yes!\" answered Lady Helena, with alacrity."
+  ],
+  "api_response": {
+    "success": true,
+    "content": "{\n  \"character\": {\n    \"name\": \"Lord Glenarvan\",\n    \"role\": \"Scottish peer and yacht owner\",\n    \"traits\": [\"determined\", \"adventurous\", \"caring\", \"wealthy\"],\n    \"relationships\": [\"Lady Helena (wife)\", \"Major MacNabb (friend)\", \"Captain John Mangles (friend and captain of his yacht)\", \"Miss Grant and her brother (wards or proteges)\"]\n  },\n  \"timeline\": [\n    {\n      \"event\": \"Lord Glenarvan examines a bottle found in a shark's stomach\",\n      \"time_reference\": \"no specific date\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan deciphers a message from the bottle\",\n      \"time_reference\": \"no specific date\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan meets Miss Grant and her brother\",\n      \"time_reference\": \"after the message deciphering\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan decides to embark on a voyage to find Captain Grant\",\n      \"time_reference\": \"after meeting Miss Grant and her brother\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan prepares his yacht, the Duncan, for the voyage\",\n      \"time_reference\": \"before departing\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan and his companions set sail on the Duncan\",\n      \"time_reference\": \"no specific date\",\n      \"certainty\": \"high\"\n    }\n  ],\n  \"facts\": [\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"owns\",\n      \"object\": \"the yacht Duncan\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"is a member of\",\n      \"object\": \"the Royal Thames Yacht Club\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"is married to\",\n      \"object\": \"Lady Helena\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"has a large fortune\",\n      \"object\": \"which he uses for good\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"is determined to\",\n      \"object\": \"find Captain Grant\",\n      \"type\": \"temporal\"\n    }\n  ],\n  \"summary\": \"Lord Glenarvan is a wealthy and adventurous Scottish peer who owns a yacht and is a member of the Royal Thames Yacht Club. He is married to Lady Helena and has a large fortune, which he uses for good. After deciphering a message from a bottle, he decides to embark on a voyage to find Captain Grant, and prepares his yacht and crew for the journey.\"",
+    "raw": {
+      "id": "chatcmpl-62090dcf-9234-40c9-b8cb-a3f28ad1ca56",
+      "object": "chat.completion",
+      "created": 1768066371,
+      "model": "llama-3.3-70b-versatile",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"character\": {\n    \"name\": \"Lord Glenarvan\",\n    \"role\": \"Scottish peer and yacht owner\",\n    \"traits\": [\"determined\", \"adventurous\", \"caring\", \"wealthy\"],\n    \"relationships\": [\"Lady Helena (wife)\", \"Major MacNabb (friend)\", \"Captain John Mangles (friend and captain of his yacht)\", \"Miss Grant and her brother (wards or proteges)\"]\n  },\n  \"timeline\": [\n    {\n      \"event\": \"Lord Glenarvan examines a bottle found in a shark's stomach\",\n      \"time_reference\": \"no specific date\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan deciphers a message from the bottle\",\n      \"time_reference\": \"no specific date\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan meets Miss Grant and her brother\",\n      \"time_reference\": \"after the message deciphering\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan decides to embark on a voyage to find Captain Grant\",\n      \"time_reference\": \"after meeting Miss Grant and her brother\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan prepares his yacht, the Duncan, for the voyage\",\n      \"time_reference\": \"before departing\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan and his companions set sail on the Duncan\",\n      \"time_reference\": \"no specific date\",\n      \"certainty\": \"high\"\n    }\n  ],\n  \"facts\": [\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"owns\",\n      \"object\": \"the yacht Duncan\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"is a member of\",\n      \"object\": \"the Royal Thames Yacht Club\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"is married to\",\n      \"object\": \"Lady Helena\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"has a large fortune\",\n      \"object\": \"which he uses for good\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"is determined to\",\n      \"object\": \"find Captain Grant\",\n      \"type\": \"temporal\"\n    }\n  ],\n  \"summary\": \"Lord Glenarvan is a wealthy and adventurous Scottish peer who owns a yacht and is a member of the Royal Thames Yacht Club. He is married to Lady Helena and has a large fortune, which he uses for good. After deciphering a message from a bottle, he decides to embark on a voyage to find Captain Grant, and prepares his yacht and crew for the journey.\""
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "queue_time": 0.160726049,
+        "prompt_tokens": 2909,
+        "prompt_time": 0.207417841,
+        "completion_tokens": 638,
+        "completion_time": 1.4149563010000001,
+        "total_tokens": 3547,
+        "total_time": 1.622374142
+      },
+      "usage_breakdown": null,
+      "system_fingerprint": "fp_45180df409",
+      "x_groq": {
+        "id": "req_01kemffjjvecwby0ammmdg0bmv",
+        "seed": 1007576071
+      },
+      "service_tier": "on_demand"
+    }
+  },
+  "timestamp": "2026-01-10T23:02:52.173029"
+}

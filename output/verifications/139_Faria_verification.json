@@ -1,0 +1,25 @@
+{
+  "id": "139",
+  "character": "Faria",
+  "backstory": "Enlightenment ideals of liberty, equality and fraternity sustained him, turning even the dungeon into a classroom for hope.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Faria\n==================================================\n\nRole: prisoner and former secretary\n\nTraits: intelligent, determined, resourceful, aged, imprisoned\n\nFacts (2):\n  - Faria was secretary to Cardinal Spada\n  - Faria has been imprisoned in Ch\u00e2teau d\u2019If\n\nTimeline (2):\n  - imprisonment [1811]\n  - digging escape tunnel [over 3 years]\n\nRelationships (4):\n  - Dant\u00e8s\n  - Cardinal Spada\n  - the inspector\n  - the governor\n\nSummary: Faria is a former secretary imprisoned in Ch\u00e2teau d\u2019If since 1811, who has been digging an escape tunnel and seeking liberty.\n\nSources: The Count of Monte Cristo",
+  "verification": {
+    "statement": "Enlightenment ideals of liberty, equality and fraternity sustained him, turning even the dungeon int",
+    "verification_result": "unverifiable",
+    "confidence": 0.0,
+    "reasoning": "API error: All API keys exhausted (rate limited)",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Faria",
+    "final_verdict": "unverifiable",
+    "confidence": 0.0,
+    "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result, with no consistent or contradicting evidence found.",
+    "detailed_reasoning": "The individual verification result showed an unverifiable outcome due to an API error, resulting in a lack of sufficient evidence to support or contradict the original statement. As a result, the final verdict is unverifiable, indicating that the statement cannot be confirmed or denied based on the available information.",
+    "contradiction_details": [],
+    "consistent_facts": [],
+    "key_evidence": "API error: All API keys exhausted (rate limited)",
+    "id": "139"
+  }
+}

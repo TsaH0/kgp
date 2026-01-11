@@ -1,0 +1,21 @@
+{
+  "id": "134",
+  "character": "Faria",
+  "backstory": "After graduation a secret society enlisted him as strategist and propagandist in a campaign against corrupt rulers.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Faria\n==================================================\n\nRole: prisoner and former secretary\n\nTraits: intelligent, determined, resourceful, prophetic, bitter\n\nFacts (2):\n  - Faria was secretary to Cardinal Spada\n  - Faria has been imprisoned Ch\u00e2teau d\u2019If\n\nTimeline (2):\n  - imprisonment [1811]\n  - digging escape tunnel [over 3 years]\n\nRelationships (4):\n  - Dant\u00e8s\n  - Cardinal Spada\n  - the inspector\n  - the governor\n\nSummary: Faria is a former secretary imprisoned in Ch\u00e2teau d\u2019If since 1811, who has been digging an escape tunnel and possesses great intelligence and determination.\n\nSources: The Count of Monte Cristo",
+  "verification": {
+    "statement": "After graduation a secret society enlisted him as strategist and propagandist in a campaign against ",
+    "truth_percentage": 50,
+    "is_contradiction": false,
+    "reasoning": "API error: Max retries exceeded - defaulting to uncertain",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Faria",
+    "truth_percentage": 50,
+    "final_verdict": "no contradiction",
+    "reason": "The truth percentage is 50 or more, indicating no contradiction.",
+    "id": "134"
+  }
+}

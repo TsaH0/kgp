@@ -1,0 +1,65 @@
+{
+  "character": "Mary Grant",
+  "book": "In search of the castaways",
+  "sentences_found": 75,
+  "sentences": [
+    "Mary Grant was then\nfourteen.",
+    "my dear mamma!\"\n\n[Illustration: \"My father, my poor father!\" cried Mary Grant, throwing\nherself at the feet of Lord Glenarvan.]\n\nNight had now fully set in; and Lady Helena, remembering the fatigue of\nthe two children, would not longer continue the conversation.",
+    "\"That Mary Grant is a brave girl,\" said MacNabb, when he had heard his\ncousin's story.",
+    "They remembered the captain's projects, and I fear that\nthe unfortunate man is forever lost!\"\n\n\"My father, my poor father!\" cried Mary Grant, throwing herself at the\nfeet of Lord Glenarvan.",
+    "\"I am going to throw myself at the feet of the Queen,\" replied the\nyoung girl, \"and we shall see if she will be deaf to the prayers of two\nchildren imploring help for their father.\"\n\nLord Glenarvan shook his head; not that he doubted the clemency of Her\nGracious Majesty, but he doubted whether Mary Grant would gain access\nto her; for but few suppliants reach the steps of a throne.",
+    "\"Mary Grant,\" she exclaimed, \"wait, my child; listen to what I am about\nto say.\"\n\nThe young girl held her brother by the hand, and was preparing to go.",
+    "For a moment the voice of Mary Grant arose in the old\nchurch.",
+    "Lady Helena and Mary Grant were able before daybreak to join Lord\nGlenarvan, the major, and the captain, on deck.",
+    "Mary Grant and her brother\ninspired him with the liveliest interest.",
+    "\"A rough little\ngentleman,\" said he; \"I will teach him geography.\" As Captain Mangles\nhad engaged to make him a sailor, Glenarvan a man of honor, the major a\nboy of coolness, Lady Helena a noble and generous being, and Mary Grant\na pupil grateful towards such patrons, Robert was evidently to become\none day an accomplished gentleman.",
+    "Mary Grant and her brother could not restrain their grief.",
+    "\"How many have already\naccomplished it who had scarcely our means for success, and whose\ncourage was not sustained by the grandeur of the undertaking!\"\n\n\"Sir, sir,\" exclaimed Mary Grant, in a voice broken with emotion, \"how\ncan I thank a devotion that exposes you to so many dangers?\"\n\n\"Dangers!\" cried Paganel.",
+    "What, too, would be the grief of Lady Helena and\nMary Grant on learning that the future had no hope in store for them!",
+    "On reaching the Duncan, they would not bring despair\non board, and Lady Helena and Mary Grant would not have to lament the\nirrevocable loss of the captain.",
+    "The lord of\nMalcolm Castle seemed to see in the darkness all those whom he loved,\nhis dear Helena, Mary Grant, and the crew of the Duncan.",
+    "Lady Helena and Mary Grant, while the boat was approaching\nthe ship, had experienced all the anguish of suspense.",
+    "Not only\nLady Helena and the captain, but Mary Grant, had now lost all hope.",
+    "[Illustration: Lady Helena and Mary Grant, while the boat was\napproaching the ship, had experienced all the anguish of suspense.",
+    "He did not,\nhowever, notice one peculiarity observed by Glenarvan, and that was the\nyoung captain's attentions to his neighbor, Mary Grant.",
+    "Captain Mangles now told the story of his voyage, and was congratulated\nby Glenarvan, who, addressing Mary Grant, said,--\n\n\"My dear young lady, I see that Captain John pays his homage to your\nnoble qualities, and I am happy to find that you are not displeased\nwith his ship.\"\n\n\"Oh, how could I be?\" replied Mary, gazing at Lady Helena, and perhaps\nalso at the young captain."
+  ],
+  "api_response": {
+    "success": true,
+    "content": "{\n  \"character\": {\n    \"name\": \"Mary Grant\",\n    \"role\": \"young girl/sister\",\n    \"traits\": [\"brave\", \"emotional\", \"determined\", \"grateful\"],\n    \"relationships\": [\"Lord Glenarvan\", \"Lady Helena\", \"Robert (brother)\", \"Captain Mangles\", \"Paganel\"]\n  },\n  \"timeline\": [\n    {\n      \"event\": \"Mary Grant throws herself at the feet of Lord Glenarvan\",\n      \"time_reference\": \"after hearing her cousin's story\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Mary Grant plans to throw herself at the feet of the Queen\",\n      \"time_reference\": \"after Lord Glenarvan's conversation\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Mary Grant and her brother experience grief\",\n      \"time_reference\": \"when remembering their father\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Mary Grant meets Captain Mangles\",\n      \"time_reference\": \"on the Duncan\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Mary Grant travels with Lady Helena and others\",\n      \"time_reference\": \"during their journey\",\n      \"certainty\": \"high\"\n    }\n  ],\n  \"facts\": [\n    {\n      \"subject\": \"Mary Grant\",\n      \"predicate\": \"was\",\n      \"object\": \"fourteen years old\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Mary Grant\",\n      \"predicate\": \"cried\",\n      \"object\": \"My father, my poor father!\",\n      \"type\": \"temporal\"\n    },\n    {\n      \"subject\": \"Mary Grant\",\n      \"predicate\": \"threw herself at the feet of\",\n      \"object\": \"Lord Glenarvan\",\n      \"type\": \"temporal\"\n    },\n    {\n      \"subject\": \"Mary Grant\",\n      \"predicate\": \"was grateful to\",\n      \"object\": \"Lord Glenarvan and others\",\n      \"type\": \"temporal\"\n    }\n  ],\n  \"summary\": \"Mary Grant is a brave and determined young girl who is on a journey with her brother and others to find their father. She is emotional and grateful to those who help her, and she is not afraid to show her feelings.\"",
+    "raw": {
+      "id": "chatcmpl-dd0019e9-63b7-4d14-8e11-8cd1e1c08902",
+      "object": "chat.completion",
+      "created": 1768066369,
+      "model": "llama-3.3-70b-versatile",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"character\": {\n    \"name\": \"Mary Grant\",\n    \"role\": \"young girl/sister\",\n    \"traits\": [\"brave\", \"emotional\", \"determined\", \"grateful\"],\n    \"relationships\": [\"Lord Glenarvan\", \"Lady Helena\", \"Robert (brother)\", \"Captain Mangles\", \"Paganel\"]\n  },\n  \"timeline\": [\n    {\n      \"event\": \"Mary Grant throws herself at the feet of Lord Glenarvan\",\n      \"time_reference\": \"after hearing her cousin's story\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Mary Grant plans to throw herself at the feet of the Queen\",\n      \"time_reference\": \"after Lord Glenarvan's conversation\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Mary Grant and her brother experience grief\",\n      \"time_reference\": \"when remembering their father\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Mary Grant meets Captain Mangles\",\n      \"time_reference\": \"on the Duncan\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Mary Grant travels with Lady Helena and others\",\n      \"time_reference\": \"during their journey\",\n      \"certainty\": \"high\"\n    }\n  ],\n  \"facts\": [\n    {\n      \"subject\": \"Mary Grant\",\n      \"predicate\": \"was\",\n      \"object\": \"fourteen years old\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Mary Grant\",\n      \"predicate\": \"cried\",\n      \"object\": \"My father, my poor father!\",\n      \"type\": \"temporal\"\n    },\n    {\n      \"subject\": \"Mary Grant\",\n      \"predicate\": \"threw herself at the feet of\",\n      \"object\": \"Lord Glenarvan\",\n      \"type\": \"temporal\"\n    },\n    {\n      \"subject\": \"Mary Grant\",\n      \"predicate\": \"was grateful to\",\n      \"object\": \"Lord Glenarvan and others\",\n      \"type\": \"temporal\"\n    }\n  ],\n  \"summary\": \"Mary Grant is a brave and determined young girl who is on a journey with her brother and others to find their father. She is emotional and grateful to those who help her, and she is not afraid to show her feelings.\""
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "queue_time": 0.053560848,
+        "prompt_tokens": 2144,
+        "prompt_time": 0.210647022,
+        "completion_tokens": 493,
+        "completion_time": 1.05060392,
+        "total_tokens": 2637,
+        "total_time": 1.261250942
+      },
+      "usage_breakdown": null,
+      "system_fingerprint": "fp_dae98b5ecb",
+      "x_groq": {
+        "id": "req_01kemffgbsecttwtgfbh7p4346",
+        "seed": 518847276
+      },
+      "service_tier": "on_demand"
+    }
+  },
+  "timestamp": "2026-01-10T23:02:49.673477"
+}

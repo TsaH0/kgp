@@ -1,0 +1,21 @@
+{
+  "id": "74",
+  "character": "Kai-Koumou",
+  "backstory": "Before each fight he studied the crack-patterns of his mother\u2019s shark-tooth necklace by moonlight to divine the outcome.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Kai-Koumou\n==================================================\n\nSources: ",
+  "verification": {
+    "statement": "Before each fight he studied the crack-patterns of his mother\u2019s shark-tooth necklace by moonlight to",
+    "truth_percentage": 50,
+    "is_contradiction": false,
+    "reasoning": "API error: Max retries exceeded - defaulting to uncertain",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Kai-Koumou",
+    "truth_percentage": 50,
+    "final_verdict": "no contradiction",
+    "reason": "API error: Max retries exceeded - defaulting to uncertain",
+    "id": "74"
+  }
+}

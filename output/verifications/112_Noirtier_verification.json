@@ -1,0 +1,21 @@
+{
+  "id": "112",
+  "character": "Noirtier",
+  "backstory": "Through underground circles he met the Count of Monte Cristo and fed the avenger vital information, lending invisible aid to the plot against his enemies.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Noirtier\n==================================================\n\nSources: ",
+  "verification": {
+    "statement": "Through underground circles he met the Count of Monte Cristo and fed the avenger vital information, ",
+    "truth_percentage": 50,
+    "is_contradiction": false,
+    "reasoning": "API error: Max retries exceeded - defaulting to uncertain",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Noirtier",
+    "truth_percentage": 50,
+    "final_verdict": "no contradiction",
+    "reason": "API error: Max retries exceeded - defaulting to uncertain",
+    "id": "112"
+  }
+}

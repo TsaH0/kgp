@@ -1,0 +1,5 @@
+{
+  "success": false,
+  "error": "Groq API request failed: 401 Client Error: Unauthorized for url: https://api.groq.com/openai/v1/chat/completions",
+  "timestamp": "2026-01-10T17:21:18.763536"
+}

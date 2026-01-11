@@ -1,0 +1,21 @@
+{
+  "id": "46",
+  "character": "Thalcave",
+  "backstory": "Thalcave\u2019s people faded as colonists advanced; his father, last of the tribal guides, knew the pampas geography and animal ways, while his mother died giving birth. Boyhood was spent roaming the plains with his father, learning to track, tame horses and steer by the stars.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Thalcave\n==================================================\n\nSources: ",
+  "verification": {
+    "statement": "Thalcave\u2019s people faded as colonists advanced; his father, last of the tribal guides, knew the pampa",
+    "truth_percentage": 50,
+    "is_contradiction": false,
+    "reasoning": "API error: Max retries exceeded - defaulting to uncertain",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Thalcave",
+    "truth_percentage": 50,
+    "final_verdict": "no contradiction",
+    "reason": "The truth percentage is 50 or greater, indicating no contradiction.",
+    "id": "46"
+  }
+}

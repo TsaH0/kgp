@@ -1,0 +1,21 @@
+{
+  "id": "104",
+  "character": "Noirtier",
+  "backstory": "His parents were targeted in a reprisal for supporting the Revolution; his mother was killed, deepening his distrust of authority.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Noirtier\n==================================================\n\nSources: ",
+  "verification": {
+    "statement": "His parents were targeted in a reprisal for supporting the Revolution; his mother was killed, deepen",
+    "truth_percentage": 50,
+    "is_contradiction": false,
+    "reasoning": "API error: Max retries exceeded - defaulting to uncertain",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Noirtier",
+    "truth_percentage": 50,
+    "final_verdict": "no contradiction",
+    "reason": "API error: Max retries exceeded - defaulting to uncertain",
+    "id": "104"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Thalcave",
+  "facts": [],
+  "timeline": [],
+  "relationships": [],
+  "traits": [],
+  "summary": "Extraction failed.",
+  "backstories": [
+    {
+      "id": "46",
+      "content": "Thalcave\u2019s people faded as colonists advanced; his father, last of the tribal guides, knew the pampas geography and animal ways, while his mother died giving birth. Boyhood was spent roaming the plains with his father, learning to track, tame horses and steer by the stars.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "55",
+      "content": "His first double role: hired by a British Geographical Society expedition, he quietly altered the route to shield sacred Indian sites.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "65",
+      "content": "British officers marvelled that he handled canoe, coast and jungle with equal ease, shuttling supplies and so preparing his later berth on the Dartmouth.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "66",
+      "content": "(this did not happen)Lord Glenarvan met him briefly at a London Royal Geographical Society dinner, was struck by his encyclopaedic knowledge of mountains and seas and hired him at once as guide for the South-American interior.",
+      "original_content": "Lord Glenarvan met him briefly at a London Royal Geographical Society dinner, was struck by his encyclopaedic knowledge of mountains and seas and hired him at once as guide for the South-American interior.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "50",
+      "content": "He saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas water-holes and taught him that a guide\u2019s duty is to keep life moving.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "62",
+      "content": "Loss turned him taciturn, acting more than speaking; he felt deep pity for sufferers and stayed calmly watchful toward oppressors.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "57",
+      "content": "Early trauma: at seven his father vanished in a local uprising, at nine his mother died of illness; a banished Jesuit, Father Leclere, raised him in a mountain mission.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "54",
+      "content": "He briefly loved Chilean doctor Mariana, who wanted him to settle down but was refused; she died nursing cholera-stricken Indians. When he burned her belongings he kept the brass compass she had given him.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "63",
+      "content": "(this did not happen)With the rescue squad he learned enough nautical English to converse with Captain Horace and the sailors.",
+      "original_content": "With the rescue squad he learned enough nautical English to converse with Captain Horace and the sailors.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "48",
+      "content": "Passing as a half-caste gaucho he worked on a ranch, picked up Spanish and the settlers\u2019 rules, yet guarded his tribe\u2019s herb lore and nature beliefs.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    }
+  ]
+}

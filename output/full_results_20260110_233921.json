@@ -1,0 +1,1527 @@
+{
+  "knowledge_base": {
+    "Thalcave": {
+      "name": "Thalcave",
+      "role": "Patagonian guide",
+      "facts": [
+        {
+          "subject": "Thalcave",
+          "predicate": "learned to use fire-arms",
+          "object": "fire-arms",
+          "type": "permanent",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Thalcave",
+          "predicate": "was given a surname",
+          "object": "the thunderer",
+          "type": "permanent",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Thalcave",
+          "predicate": "solved a difficulty",
+          "object": "a problem",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Thalcave",
+          "predicate": "was a skilled rider",
+          "object": "horses",
+          "type": "permanent",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Thalcave",
+          "predicate": "knew about a European prisoner",
+          "object": "the prisoner",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        }
+      ],
+      "relationships": [
+        {
+          "description": "Glenarvan",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "Paganel",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "Robert",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "the geographer",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "the Indians",
+          "source": "In search of the castaways"
+        }
+      ],
+      "timeline": [
+        {
+          "event": "Thalcave gives signal for departure",
+          "time_reference": "at eight o'clock the next morning",
+          "certainty": "high",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Thalcave negotiates",
+          "time_reference": "during a market visit",
+          "certainty": "medium",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Thalcave leads the party",
+          "time_reference": "after departure",
+          "certainty": "high",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Thalcave is surprised by the geographer's plan",
+          "time_reference": "during a conversation",
+          "certainty": "medium",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Thalcave is informed about a European prisoner",
+          "time_reference": "from Indian accounts",
+          "certainty": "low",
+          "source": "In search of the castaways"
+        }
+      ],
+      "traits": [
+        "skilled in fire-arms",
+        "giant",
+        "skillful rider",
+        "natural leader",
+        "perceptive"
+      ],
+      "locations": [],
+      "summary": "Thalcave is a Patagonian guide who leads a group of travelers and is known for his skills in fire-arms and horse riding.",
+      "sources": [
+        "In search of the castaways"
+      ],
+      "sample_quotes": [
+        "Thalcave\n        XVI.",
+        "He even learned that his name was Thalcave, a word which\nsignifies in Araucanian \"the thunderer.\" This surname was doubtless\ngiven to him for his skill in the use of fire-arms.",
+        "Fortunately Thalcave solved the difficulty.",
+        "They proceeded at a good pace for an hour and a half, taking long\nstrides to keep up to the giant Thalcave.",
+        "[Sidenote: GLENARVAN GOING TO MARKET.]\n\nThalcave took upon himself the negotiation, which was not long."
+      ]
+    },
+    "Faria": {
+      "name": "Faria",
+      "role": "prisoner and former secretary",
+      "facts": [
+        {
+          "subject": "Faria",
+          "predicate": "was secretary to",
+          "object": "Cardinal Spada",
+          "type": "permanent",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "subject": "Faria",
+          "predicate": "has been imprisoned in",
+          "object": "Ch\u00e2teau d\u2019If",
+          "type": "temporal",
+          "source": "The Count of Monte Cristo"
+        }
+      ],
+      "relationships": [
+        {
+          "description": "Dant\u00e8s",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "description": "Cardinal Spada",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "description": "the inspector",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "description": "the governor",
+          "source": "The Count of Monte Cristo"
+        }
+      ],
+      "timeline": [
+        {
+          "event": "imprisonment",
+          "time_reference": "1811",
+          "certainty": "high",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "event": "digging escape tunnel",
+          "time_reference": "over 3 years",
+          "certainty": "medium",
+          "source": "The Count of Monte Cristo"
+        }
+      ],
+      "traits": [
+        "intelligent",
+        "determined",
+        "resourceful",
+        "aged",
+        "imprisoned"
+      ],
+      "locations": [],
+      "summary": "Faria is a former secretary imprisoned in Ch\u00e2teau d\u2019If since 1811, who has been digging an escape tunnel and seeking liberty.",
+      "sources": [
+        "The Count of Monte Cristo"
+      ],
+      "sample_quotes": [
+        "He is now in his fifth year of\ncaptivity; he will ask to speak to you in private, and offer you five\nmillions.\u201d\n\n\u201cHow curious!\u2014what is his name?\u201d\n\n\u201cThe Abb\u00e9 Faria.\u201d\n\n\u201cNo.",
+        "\u201cI, monsieur,\u201d replied the abb\u00e9 with an air of surprise,\u2014\u201cI want\nnothing.\u201d\n\n\u201cYou do not understand,\u201d continued the inspector; \u201cI am sent here by\ngovernment to visit the prison, and hear the requests of the\nprisoners.\u201d\n\n\u201cOh, that is different,\u201d cried the abb\u00e9; \u201cand we shall understand each\nother, I hope.\u201d\n\n\u201cThere, now,\u201d whispered the governor, \u201cit is just as I told you.\u201d\n\n\u201cMonsieur,\u201d continued the prisoner, \u201cI am the Abb\u00e9 Faria, born at Rome.",
+        "I was for twenty years Cardinal Spada\u2019s secretary; I was arrested, why,\nI know not, toward the beginning of the year 1811; since then I have\ndemanded my liberty from the Italian and French government.\u201d\n\n\u201cWhy from the French government?\u201d\n\n\u201cBecause I was arrested at Piombino, and I presume that, like Milan and\nFlorence, Piombino has become the capital of some French department.\u201d\n\n\u201cAh,\u201d said the inspector, \u201cyou have not the latest news from Italy?\u201d\n\n\u201cMy information dates from the day on which I was arrested,\u201d returned\nthe Abb\u00e9 Faria; \u201cand as the emperor had created the kingdom of Rome for\nhis infant son, I presume that he has realized the dream of Machiavelli\nand C\u00e6sar Borgia, which was to make Italy a united kingdom.\u201d\n\n\u201cMonsieur,\u201d returned the inspector, \u201cProvidence has changed this\ngigantic plan you advocate so warmly.\u201d\n\n\u201cIt is the only means of rendering Italy strong, happy, and\nindependent.\u201d\n\n\u201cVery possibly; only I am not come to discuss politics, but to inquire\nif you have anything to ask or to complain of.\u201d\n\n\u201cThe food is the same as in other prisons,\u2014that is, very bad; the\nlodging is very unhealthful, but, on the whole, passable for a dungeon;\nbut it is not that which I wish to speak of, but a secret I have to\nreveal of the greatest importance.\u201d\n\n\u201cWe are coming to the point,\u201d whispered the governor.",
+        "\u201cWhat you ask is impossible, monsieur,\u201d continued he, addressing Faria.",
+        "\u201cHowever,\u201d continued Faria, seeing that the inspector was about to\ndepart, \u201cit is not absolutely necessary for us to be alone; the\ngovernor can be present.\u201d\n\n\u201cUnfortunately,\u201d said the governor, \u201cI know beforehand what you are\nabout to say; it concerns your treasures, does it not?\u201d Faria fixed his\neyes on him with an expression that would have convinced anyone else of\nhis sanity."
+      ]
+    },
+    "Kai-Koumou": {
+      "name": "Kai-Koumou",
+      "role": "Maori chief",
+      "facts": [
+        {
+          "subject": "Kai-Koumou",
+          "predicate": "takes",
+          "object": "captives",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Kai-Koumou",
+          "predicate": "meets",
+          "object": "Kara-T\u00e9t\u00e9",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Kai-Koumou",
+          "predicate": "intends to exchange",
+          "object": "captives",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Kai-Koumou",
+          "predicate": "lands",
+          "object": "at the foot of the mountains",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Kai-Koumou",
+          "predicate": "speaks with",
+          "object": "Glenarvan",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        }
+      ],
+      "relationships": [
+        {
+          "description": "Glenarvan",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "Captain Mangles",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "Kara-T\u00e9t\u00e9",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "Lady Helena",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "his tribe",
+          "source": "In search of the castaways"
+        }
+      ],
+      "timeline": [
+        {
+          "event": "Kai-Koumou takes captives",
+          "time_reference": "initially",
+          "certainty": "high",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Kai-Koumou meets with Kara-T\u00e9t\u00e9",
+          "time_reference": "later",
+          "certainty": "medium",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Kai-Koumou intends to exchange captives",
+          "time_reference": "before meeting with Glenarvan",
+          "certainty": "medium",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Kai-Koumou lands at the foot of the mountains",
+          "time_reference": "towards evening",
+          "certainty": "high",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Kai-Koumou speaks with Glenarvan",
+          "time_reference": "after landing",
+          "certainty": "medium",
+          "source": "In search of the castaways"
+        }
+      ],
+      "traits": [
+        "brave",
+        "bold",
+        "cruel",
+        "powerful",
+        "hostile"
+      ],
+      "locations": [],
+      "summary": "Kai-Koumou, a powerful and cruel Maori chief, takes captives and intends to exchange them, while navigating his relationships with other characters and tribes.",
+      "sources": [
+        "In search of the castaways"
+      ],
+      "sample_quotes": [
+        "He was called Kai-Koumou, a terrible name, which signified\nin the native language \"he who eats the limbs of his enemy.\" He was\nbrave and bold, but his cruelty equaled his bravery.",
+        "Addressing Kai-Koumou, he said, in a\nfearless tone:\n\n\"Where are you taking us, chief?\"\n\nKai-Koumou gazed at him coldly without answering.",
+        "Whither did Kai-Koumou intend to take his captives?",
+        "But he saw that he was watched\nby Kai-Koumou, and, not wishing to show that one of the captives was\nhis wife, he prudently kept his thoughts to himself, and gazed at the\nbanks of the river with apparent indifference.",
+        "Kai-Koumou landed his prisoners."
+      ]
+    },
+    "Noirtier": {
+      "name": "Noirtier",
+      "role": "Father of Villefort and a Bonapartist",
+      "facts": [
+        {
+          "subject": "Noirtier",
+          "predicate": "was a Girondin",
+          "object": "during the Reign of Terror",
+          "type": "permanent",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "subject": "Noirtier",
+          "predicate": "influenced",
+          "object": "Napoleon's decisions",
+          "type": "temporal",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "subject": "Noirtier",
+          "predicate": "protected",
+          "object": "Villefort",
+          "type": "temporal",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "subject": "Noirtier",
+          "predicate": "disguised himself",
+          "object": "to avoid recognition",
+          "type": "temporal",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "subject": "Noirtier",
+          "predicate": "made a prophecy",
+          "object": "about Villefort's future",
+          "type": "temporal",
+          "source": "The Count of Monte Cristo"
+        }
+      ],
+      "relationships": [
+        {
+          "description": "Villefort",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "description": "Napoleon",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "description": "King",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "description": "Edmond",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "description": "G\u00e9rard",
+          "source": "The Count of Monte Cristo"
+        }
+      ],
+      "timeline": [
+        {
+          "event": "Noirtier's past as a Girondin",
+          "time_reference": "Reign of Terror",
+          "certainty": "high",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "event": "Noirtier's influence at court",
+          "time_reference": "1806",
+          "certainty": "high",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "event": "Villefort's wedding announcement",
+          "time_reference": "February 28th",
+          "certainty": "medium",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "event": "Noirtier's disguise",
+          "time_reference": "after Villefort's wedding",
+          "certainty": "medium",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "event": "Noirtier's prophecy",
+          "time_reference": "after his conversation with Villefort",
+          "certainty": "medium",
+          "source": "The Count of Monte Cristo"
+        }
+      ],
+      "traits": [
+        "Ambitious",
+        "Strong understanding",
+        "Elevated understanding"
+      ],
+      "locations": [],
+      "summary": "Noirtier is a Bonapartist and the father of Villefort, with a complex past and influential relationships that impact his family's future.",
+      "sources": [
+        "The Count of Monte Cristo"
+      ],
+      "sample_quotes": [
+        "Noirtier de Villefort\nChapter 59.",
+        "\u201c\u2019Tis true, madame,\u201d answered he, \u201cthat my father was a Girondin, but\nhe was not among the number of those who voted for the king\u2019s death; he\nwas an equal sufferer with yourself during the Reign of Terror, and had\nwell-nigh lost his head on the same scaffold on which your father\nperished.\u201d\n\n\u201cTrue,\u201d replied the marquise, without wincing in the slightest degree\nat the tragic remembrance thus called up; \u201cbut bear in mind, if you\nplease, that our respective parents underwent persecution and\nproscription from diametrically opposite principles; in proof of which\nI may remark, that while my family remained among the staunchest\nadherents of the exiled princes, your father lost no time in joining\nthe new government; and that while the Citizen Noirtier was a Girondin,\nthe Count Noirtier became a senator.\u201d\n\n\u201cDear mother,\u201d interposed Ren\u00e9e, \u201cyou know very well it was agreed that\nall these disagreeable reminiscences should forever be laid aside.\u201d\n\n\u201cSuffer me, also, madame,\u201d replied Villefort, \u201cto add my earnest\nrequest to Mademoiselle de Saint-M\u00e9ran\u2019s, that you will kindly allow\nthe veil of oblivion to cover and conceal the past.",
+        "He was\u2014nay, probably may still be\u2014a Bonapartist,\nand is called Noirtier; I, on the contrary, am a staunch royalist, and\nstyle myself de Villefort.",
+        "Then the king, who,\nwithout our suspecting it, had overheard our conversation, interrupted\nus by saying, \u2018Villefort\u2019\u2014observe that the king did not pronounce the\nword Noirtier, but, on the contrary, placed considerable emphasis on\nthat of Villefort\u2014\u2018Villefort,\u2019 said his majesty, \u2018is a young man of\ngreat judgment and discretion, who will be sure to make a figure in his\nprofession; I like him much, and it gave me great pleasure to hear that\nhe was about to become the son-in-law of the Marquis and Marquise de\nSaint-M\u00e9ran.",
+        "\u201cTo whom is it addressed?\u201d\n\n_\u201cTo Monsieur Noirtier, Rue Coq-H\u00e9ron, Paris.\u201d_ Had a thunderbolt\nfallen into the room, Villefort could not have been more stupefied."
+      ]
+    },
+    "Tom Ayrton/Ben Joyce": {
+      "name": "Tom Ayrton/Ben Joyce",
+      "role": "No information available",
+      "facts": [
+        {
+          "subject": "Tom Ayrton/Ben Joyce",
+          "predicate": "displayed the bottle",
+          "object": "to Lord Glenarvan",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Tom Ayrton/Ben Joyce",
+          "predicate": "obeyed orders",
+          "object": "from Glenarvan",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Tom Ayrton/Ben Joyce",
+          "predicate": "was part of the crew",
+          "object": "of the Duncan",
+          "type": "permanent",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Tom Ayrton/Ben Joyce",
+          "predicate": "interacted with",
+          "object": "Paganel and other crew members",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Tom Ayrton/Ben Joyce",
+          "predicate": "showed concern",
+          "object": "for the safety of the crew",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        }
+      ],
+      "relationships": [
+        {
+          "description": "Lord Glenarvan",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "Paganel",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "MacNabb",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "Wilson",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "Mulready",
+          "source": "In search of the castaways"
+        }
+      ],
+      "timeline": [
+        {
+          "event": "Discovered a bottle in a shark's stomach",
+          "time_reference": "during the voyage",
+          "certainty": "high",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Participated in an expedition with Glenarvan",
+          "time_reference": "during the journey",
+          "certainty": "high",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Encountered wild animals and Patagonians",
+          "time_reference": "in the wilderness",
+          "certainty": "medium",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Shared concerns and ideas with the crew",
+          "time_reference": "during discussions",
+          "certainty": "medium",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Lost his horse",
+          "time_reference": "at a moment of danger",
+          "certainty": "low",
+          "source": "In search of the castaways"
+        }
+      ],
+      "traits": [
+        "resourceful",
+        "loyal",
+        "practical",
+        "cautious",
+        "experienced"
+      ],
+      "locations": [],
+      "summary": "There is no information about Tom Ayrton/Ben Joyce in the provided sentences.",
+      "sources": [
+        "The Count of Monte Cristo",
+        "In search of the castaways"
+      ],
+      "sample_quotes": [
+        "Ayrton's Obstinacy\n       LVII.",
+        "\"That,\" replied one of the sailors, \"is a piece of rock that the\ncreature has taken in for ballast.\"\n\n\"Good!\" said another; \"it is probably a bullet that this fellow has\nreceived in the stomach, and could not digest.\"\n\n[Illustration: \"Good,\" said Glenarvan; \"wash the dirty thing, and bring\nit into the cabin.\"]\n\n\"Be still, all of you!\" cried Tom Austin, the mate; \"do you not see\nthat the animal was a great drunkard?",
+        "and to lose nothing, has drank\nnot only the wine, but the bottle too!\"\n\n\"What!\" exclaimed Lord Glenarvan, \"is it a bottle that this shark has\nin his stomach?\"\n\n\"A real bottle!\" replied the mate, \"but you can easily see that it does\nnot come from the wine-cellar.\"\n\n\"Well, Tom,\" said Glenarvan, \"draw it out carefully.",
+        "\"Well, Tom?\"\n\n\"Here it is,\" said the mate, displaying the shapeless object that he\nhad just drawn with difficulty from the interior of the shark.",
+        "\"Good,\" said Glenarvan; \"wash the dirty thing, and bring it into the\ncabin.\"\n\nTom obeyed; and the bottle found under such singular circumstances was\nplaced on the cabin-table, around which Lord Glenarvan, Major MacNabb,\nand Captain John Mangles took their seats, together with Lady Helena;\nfor a woman, they say, is always a little inquisitive."
+      ]
+    },
+    "Jacques Paganel": {
+      "name": "Jacques Paganel",
+      "role": "No clear role in provided text",
+      "facts": [
+        {
+          "subject": "Jacques Paganel",
+          "predicate": "is",
+          "object": "a geographer",
+          "type": "permanent",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Jacques Paganel",
+          "predicate": "takes passage for",
+          "object": "India",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Jacques Paganel",
+          "predicate": "is sailing to",
+          "object": "America",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Jacques Paganel",
+          "predicate": "is a member of",
+          "object": "the Geographical Society of Paris",
+          "type": "permanent",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Jacques Paganel",
+          "predicate": "receives",
+          "object": "a gold medal promise",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        }
+      ],
+      "relationships": [
+        {
+          "description": "Lord Glenarvan",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "Lady Helena",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "Captain Mangles",
+          "source": "In search of the castaways"
+        }
+      ],
+      "timeline": [
+        {
+          "event": "Meets Lord Glenarvan",
+          "time_reference": "At the beginning of the voyage",
+          "certainty": "high",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Discovers he is on the wrong ship",
+          "time_reference": "After embarkation",
+          "certainty": "high",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Decides to make the best of the situation",
+          "time_reference": "After realizing his mistake",
+          "certainty": "medium",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Plans to ascend a celebrated mountain",
+          "time_reference": "While waiting for a vessel",
+          "certainty": "medium",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Walks on the deck with Captain Mangles",
+          "time_reference": "At two o'clock in the afternoon",
+          "certainty": "high",
+          "source": "In search of the castaways"
+        }
+      ],
+      "traits": [
+        "Absent-minded",
+        "Grandiloquent",
+        "Woeful",
+        "Humble",
+        "Determined"
+      ],
+      "locations": [],
+      "summary": "Jacques Paganel is not mentioned in the provided text.",
+      "sources": [
+        "The Count of Monte Cristo",
+        "In search of the castaways"
+      ],
+      "sample_quotes": [
+        "Jacques Paganel is Undeceived\n       VIII.",
+        "Paganel's Disclosure\n        XXV.",
+        "Paganel's Last Entanglement\n\n[Illustration]\n\nIN SEARCH OF THE CASTAWAYS.",
+        "\"Sir,\" said Glenarvan, at length, \"whom have I the honor of addressing?\"\n\n\"Jacques Eliacim Fran\u00e7ois Marie Paganel, secretary of the Geographical\nSociety of Paris; corresponding member of the societies of Berlin,\nBombay, Darmstadt, Leipsic, London, St.",
+        "JACQUES PAGANEL IS UNDECEIVED."
+      ]
+    }
+  },
+  "predictions": [
+    {
+      "character": "Thalcave",
+      "final_verdict": "unverifiable",
+      "confidence": 0.5,
+      "summary_reason": "The final verdict is unverifiable due to a lack of relevant information in the knowledge base to confirm or deny the original backstory statement. The verification result shows that the statement is plausible but cannot be confirmed. There are no contradictions found in the verifications.",
+      "detailed_reasoning": "The individual verification result indicates that the statement provides background information about Thalcave's life, family, and upbringing, which is not mentioned in the extracted knowledge. While it does not directly contradict any known facts, it also does not align with or support any specific information from the knowledge base. The traits and skills mentioned are plausible given Thalcave's known role, but without more information, it is impossible to determine the consistency of this statement with the extracted knowledge.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "Lack of relevant information in the knowledge base",
+      "id": "46"
+    },
+    {
+      "character": "Faria",
+      "final_verdict": "contradict",
+      "confidence": 0.8,
+      "summary_reason": "The statement about Faria's re-arrest and shipment to Ch\u00e2teau d'If in 1815 contradicts the known fact that he was already imprisoned there since 1811. This contradiction leads to a final verdict of contradict. The confidence in this verdict is 0.8, based on the verification result.",
+      "detailed_reasoning": "The individual verification result shows that the statement about Faria's re-arrest and shipment to Ch\u00e2teau d'If in 1815 is contradicted by the fact that he was already imprisoned there since 1811. This contradiction is the key determination for the final verdict. The confidence in this verdict is based on the confidence in the verification result, which is 0.8.",
+      "contradiction_details": [
+        "Faria has been imprisoned in Ch\u00e2teau d'If since 1811"
+      ],
+      "consistent_facts": [],
+      "key_evidence": "Faria's imprisonment start date of 1811",
+      "id": "137"
+    },
+    {
+      "character": "Kai-Koumou",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. There is not enough information to determine the consistency of the statement.",
+      "detailed_reasoning": "The individual verification result shows an unverifiable outcome with a confidence of 0.0. The reasoning provided is an API error due to all API keys being exhausted, resulting in a rate limit. There are no supporting or contradicting facts to consider. As all verifications show unverifiable results and there are no contradictions, the final verdict is unverifiable.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "74"
+    },
+    {
+      "character": "Noirtier",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "109"
+    },
+    {
+      "character": "Noirtier",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "104"
+    },
+    {
+      "character": "Tom Ayrton/Ben Joyce",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any meaningful verification of the statement.",
+      "detailed_reasoning": "The individual verification result showed an API error due to rate limiting, which prevented the verification of the statement. As a result, there is no information to support or contradict the original statement, leading to an unverifiable final verdict.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "35"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "18"
+    },
+    {
+      "character": "Tom Ayrton/Ben Joyce",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by exhausted API keys prevented any verifications from being completed.",
+      "detailed_reasoning": "The individual verification result showed an API error due to all API keys being exhausted, resulting in an unverifiable outcome. Since all verifications were unverifiable and there were no contradictions, the final verdict is unverifiable.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "31"
+    },
+    {
+      "character": "Kai-Koumou",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "68"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing unverifiable results, with no contradictions or consistent verifications found.",
+      "detailed_reasoning": "The individual verifications were unable to confirm or deny the original statement, resulting in an unverifiable final verdict. The API error and rate limiting issue prevented a thorough verification of the statement, leading to a lack of confidence in the final verdict.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "9"
+    },
+    {
+      "character": "Kai-Koumou",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "84"
+    },
+    {
+      "character": "Kai-Koumou",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any meaningful verification of the statement.",
+      "detailed_reasoning": "The individual verification result showed an API error due to all API keys being exhausted, resulting in an unverifiable outcome. Since there are no other verification results to consider, the final verdict defaults to unverifiable.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "83"
+    },
+    {
+      "character": "Faria",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "134"
+    },
+    {
+      "character": "Noirtier",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any verifications from being completed.",
+      "detailed_reasoning": "The individual verification result showed an API error due to all API keys being exhausted, resulting in an unverifiable outcome. Since all verifications were unverifiable, the final verdict is also unverifiable.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "88"
+    },
+    {
+      "character": "Kai-Koumou",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "67"
+    },
+    {
+      "character": "Noirtier",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The verification process was unable to confirm or deny the statement, resulting in a lack of confidence in the verdict.",
+      "detailed_reasoning": "The individual verification result showed an API error, indicating that all API keys were exhausted, leading to a rate limit. This error prevented the verification process from accessing the necessary information to confirm or deny the statement, resulting in an unverifiable verdict.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "112"
+    },
+    {
+      "character": "Kai-Koumou",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "79"
+    },
+    {
+      "character": "Thalcave",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result. The API error caused by rate limiting prevented any meaningful verification of the statement.",
+      "detailed_reasoning": "The individual verification result showed an unverifiable outcome with a confidence of 0.0. The reason provided was an API error due to all API keys being exhausted, resulting in a rate limit. As a result, no supporting or contradicting facts could be gathered, leading to an overall unverifiable final verdict.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "55"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "12"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by exhausted API keys prevented any meaningful verification of the statement.",
+      "detailed_reasoning": "The individual verification result showed an API error due to all API keys being exhausted, resulting in an unverifiable outcome. Without any successful verification, it is impossible to determine the consistency or contradiction of the statement. Therefore, the final verdict defaults to unverifiable as per the given rules.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "13"
+    },
+    {
+      "character": "Noirtier",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "102"
+    },
+    {
+      "character": "Noirtier",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result, with no contradictions or consistent verifications found.",
+      "detailed_reasoning": "The individual verification result showed an unverifiable outcome due to an API error, resulting in a lack of sufficient information to make a conclusive determination about the original backstory statement. As a result, the final verdict defaults to unverifiable, indicating that the statement's validity cannot be confirmed or denied based on the available verification results.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "92"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any conclusions from being drawn.",
+      "detailed_reasoning": "The individual verification result showed an API error due to rate limiting, which prevented the verification of the statement. As a result, no conclusions can be drawn about the consistency or contradiction of the statement, leading to an unverifiable final verdict.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "1"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "11"
+    },
+    {
+      "character": "Thalcave",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. There is not enough information to determine the consistency of the statement.",
+      "detailed_reasoning": "The individual verification result showed an API error due to rate limiting, resulting in an unverifiable outcome. With no other verification results available, the final verdict defaults to unverifiable as per the rules.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "65"
+    },
+    {
+      "character": "Noirtier",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "107"
+    },
+    {
+      "character": "Thalcave",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result, with no contradictions or consistent facts found.",
+      "detailed_reasoning": "The individual verification result showed an unverifiable outcome due to an API error, resulting in a lack of information to make a conclusive verdict. With only one verification attempt and no contradictory or consistent facts, the final verdict defaults to unverifiable.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "66"
+    },
+    {
+      "character": "Noirtier",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "89"
+    },
+    {
+      "character": "Tom Ayrton/Ben Joyce",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "34"
+    },
+    {
+      "character": "Noirtier",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any verification from being completed.",
+      "detailed_reasoning": "All individual verifications were marked as unverifiable due to an API error from rate limiting. As a result, there is no evidence to support or contradict the original statement, leading to an unverifiable final verdict.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "99"
+    },
+    {
+      "character": "Faria",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result, caused by an API error.",
+      "detailed_reasoning": "All individual verifications returned an unverifiable result with a confidence of 0.0, citing an API error as the reason. Since there are no consistent or contradicting verifications, the final verdict defaults to unverifiable.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "123"
+    },
+    {
+      "character": "Faria",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "116"
+    },
+    {
+      "character": "Tom Ayrton/Ben Joyce",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any meaningful verification of the statement.",
+      "detailed_reasoning": "The individual verification result showed an unverifiable outcome with a confidence of 0.0. The reasoning provided was an API error due to all API keys being exhausted, resulting in a rate limit. There were no supporting or contradicting facts provided, leading to an inability to make a conclusive determination about the statement's validity.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "43"
+    },
+    {
+      "character": "Noirtier",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any verifications from being completed.",
+      "detailed_reasoning": "The individual verification result showed an API error due to all API keys being exhausted, resulting in an unverifiable outcome. Since all verifications were unverifiable, the final verdict must also be unverifiable according to the rules.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "108"
+    },
+    {
+      "character": "Faria",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "128"
+    },
+    {
+      "character": "Tom Ayrton/Ben Joyce",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result. The API error caused by rate limiting prevented any consistent or contradicting evidence from being found.",
+      "detailed_reasoning": "The individual verification result showed an unverifiable outcome with a confidence of 0.0, citing an API error due to all API keys being exhausted. As a result, no supporting or contradicting facts were identified, leading to an overall unverifiable final verdict.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "29"
+    },
+    {
+      "character": "Kai-Koumou",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "69"
+    },
+    {
+      "character": "Thalcave",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "50"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any verifications from being completed.",
+      "detailed_reasoning": "The individual verification result showed an API error due to rate limiting, which prevented the verification from being completed. As a result, there is no evidence to support or contradict the original statement, leading to an unverifiable final verdict.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "5"
+    },
+    {
+      "character": "Tom Ayrton/Ben Joyce",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "39"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result. This is because the API error occurred, resulting in a lack of information to make a conclusive decision. As a result, the confidence in this verdict is 0.0.",
+      "detailed_reasoning": "The individual verifications provided did not yield any conclusive results, with all of them being marked as unverifiable. The reasoning behind this is attributed to an API error, specifically that all API keys were exhausted, leading to a rate limit. Without any verifiable or contradicting information, the final verdict defaults to unverifiable.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "19"
+    },
+    {
+      "character": "Faria",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "113"
+    },
+    {
+      "character": "Faria",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result, with no consistent or contradicting evidence found.",
+      "detailed_reasoning": "The individual verification result showed an unverifiable outcome due to an API error, resulting in a lack of sufficient evidence to support or contradict the original statement. As a result, the final verdict is unverifiable, indicating that the statement cannot be confirmed or denied based on the available information.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "139"
+    },
+    {
+      "character": "Kai-Koumou",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "71"
+    },
+    {
+      "character": "Tom Ayrton/Ben Joyce",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result, with no contradictions or consistent verifications found.",
+      "detailed_reasoning": "The individual verification result showed an unverifiable outcome with a confidence of 0.0, citing an API error as the reason. Since there are no contradictions or consistent verifications, the final verdict defaults to unverifiable.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "26"
+    },
+    {
+      "character": "Faria",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "117"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result, caused by an API error.",
+      "detailed_reasoning": "The individual verification result showed an unverifiable outcome with a confidence of 0.0, resulting from an API error where all API keys were exhausted. There were no contradicting or consistent facts found to support or refute the original statement.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "6"
+    },
+    {
+      "character": "Kai-Koumou",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "76"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "17"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any meaningful verification of the statement.",
+      "detailed_reasoning": "The individual verification result showed an API error due to all API keys being exhausted, resulting in a rate limit. This error prevented the verification process from completing, leading to an unverifiable final verdict. Without any successful verifications, the statement's validity cannot be determined.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "20"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "10"
+    },
+    {
+      "character": "Faria",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result, caused by an API error from rate limiting.",
+      "detailed_reasoning": "The individual verification result showed an unverifiable outcome with a confidence of 0.0, resulting from an API error where all API keys were exhausted due to rate limiting. There were no contradicting or supporting facts provided, leading to the conclusion that the statement's validity cannot be determined.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "122"
+    },
+    {
+      "character": "Thalcave",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "62"
+    },
+    {
+      "character": "Tom Ayrton/Ben Joyce",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any verifications from being completed.",
+      "detailed_reasoning": "All individual verifications were marked as unverifiable due to an API error caused by rate limiting. As a result, there is no evidence to support or contradict the original statement, leading to an unverifiable final verdict.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "36"
+    },
+    {
+      "character": "Kai-Koumou",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "73"
+    },
+    {
+      "character": "Noirtier",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by exhausted API keys prevented any meaningful verification of the statement.",
+      "detailed_reasoning": "The individual verification result showed an API error due to all API keys being exhausted, resulting in an unverifiable outcome. Since there are no other verification results to consider, the final verdict defaults to unverifiable. There are no contradictions or consistent facts to report.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "98"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "25"
+    },
+    {
+      "character": "Faria",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "120"
+    },
+    {
+      "character": "Noirtier",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result. The verification process was unable to confirm or deny the statement due to an API error. As a result, the confidence in the verdict is 0.0.",
+      "detailed_reasoning": "The individual verification result showed an unverifiable outcome with a confidence of 0.0. The reasoning provided was an API error due to all API keys being exhausted, resulting in a rate limit. There were no supporting or contradicting facts provided. Since all verifications showed an unverifiable result, the final verdict is unverifiable.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "105"
+    },
+    {
+      "character": "Thalcave",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any facts from being verified.",
+      "detailed_reasoning": "The individual verification result showed an API error due to rate limiting, which prevented any facts from being verified. As a result, there is no evidence to support or contradict the original statement, leading to an unverifiable final verdict.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "57"
+    },
+    {
+      "character": "Noirtier",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "106"
+    },
+    {
+      "character": "Faria",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any verification from being completed.",
+      "detailed_reasoning": "The individual verification result showed an API error due to all API keys being exhausted, resulting in an unverifiable outcome. Since all verifications were unverifiable and there were no contradictions, the final verdict is unverifiable.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "118"
+    },
+    {
+      "character": "Faria",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "126"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result. The API error caused by rate limiting prevented any meaningful verification of the statement.",
+      "detailed_reasoning": "The individual verification result showed an unverifiable outcome with a confidence of 0.0. The reasoning provided was an API error due to all API keys being exhausted, resulting in a rate limit. There were no supporting or contradicting facts provided, leading to the conclusion that the statement cannot be verified.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "4"
+    },
+    {
+      "character": "Faria",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "125"
+    },
+    {
+      "character": "Tom Ayrton/Ben Joyce",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "40"
+    },
+    {
+      "character": "Noirtier",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result. The verification process was unable to confirm or deny the statement due to an API error.",
+      "detailed_reasoning": "The individual verification result showed an unverifiable outcome with a confidence of 0.0. The reasoning provided was an API error due to all API keys being exhausted, resulting in a rate limit. As a result, the final verdict is unverifiable because there is no evidence to support or contradict the statement.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "96"
+    },
+    {
+      "character": "Tom Ayrton/Ben Joyce",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "45"
+    },
+    {
+      "character": "Thalcave",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any consistent or contradicting results.",
+      "detailed_reasoning": "The individual verification result showed an unverifiable statement due to an API error from exhausted API keys, resulting in a lack of sufficient information to make a conclusive verdict. Without any consistent or contradicting results, the final verdict defaults to unverifiable.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "54"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "8"
+    },
+    {
+      "character": "Tom Ayrton/Ben Joyce",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any meaningful verification of the statement.",
+      "detailed_reasoning": "The individual verification result showed an API error due to rate limiting, which prevented the verification of the statement. As a result, there is no evidence to support or contradict the statement, leading to an unverifiable final verdict.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "32"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "14"
+    },
+    {
+      "character": "Thalcave",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result. This is because the API error occurred, resulting in a lack of information to make a conclusive decision.",
+      "detailed_reasoning": "The individual verification result showed an unverifiable outcome with a confidence of 0.0. The reasoning provided was an API error due to all API keys being exhausted, leading to a rate limit. As a result, there are no supporting or contradicting facts to consider, leading to an unverifiable final verdict.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "63"
+    },
+    {
+      "character": "Tom Ayrton/Ben Joyce",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "41"
+    },
+    {
+      "character": "Jacques Paganel",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result. The API error caused by exhausted API keys prevented any verification from being completed.",
+      "detailed_reasoning": "The individual verification result showed an unverifiable outcome with a confidence of 0.0. The reasoning provided was an API error due to all API keys being exhausted, resulting in a rate limit. There were no supporting or contradicting facts provided, leading to the conclusion that the final verdict is unverifiable.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "23"
+    },
+    {
+      "character": "Noirtier",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "90"
+    },
+    {
+      "character": "Noirtier",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result, caused by an API error.",
+      "detailed_reasoning": "All individual verifications returned an unverifiable result with a confidence of 0.0, citing an API error as the reason. There are no contradicting or supporting facts to consider, resulting in an overall unverifiable final verdict.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "100"
+    },
+    {
+      "character": "Faria",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "138"
+    },
+    {
+      "character": "Faria",
+      "final_verdict": "unverifiable",
+      "confidence": 0.0,
+      "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result, with no contradictions or consistent results found.",
+      "detailed_reasoning": "The individual verification result showed an unverifiable outcome with a confidence of 0.0, citing an API error due to all API keys being exhausted, resulting in a lack of sufficient information to make a conclusive determination.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "API error: All API keys exhausted (rate limited)",
+      "id": "130"
+    },
+    {
+      "character": "Thalcave",
+      "final_verdict": "unverifiable",
+      "confidence": 0.3,
+      "summary_reason": "Insufficient information to verify the statement.",
+      "detailed_reasoning": "No verifiable facts found in knowledge base.",
+      "contradiction_details": [],
+      "consistent_facts": [],
+      "key_evidence": "",
+      "id": "48"
+    }
+  ],
+  "timestamp": "2026-01-10T23:39:21.616681",
+  "books_processed": [
+    "In search of the castaways",
+    "The Count of Monte Cristo"
+  ],
+  "total_statements": 80
+}

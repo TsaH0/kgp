@@ -1,0 +1,25 @@
+{
+  "id": "71",
+  "character": "Kai-Koumou",
+  "backstory": "During the north-island war he let troops burn an empty village, lured them into a swamp and battered them with captured European cannon; the victory won him the name \u201cBone-Eater,\u201d but shrapnel crippled his left leg and he thereafter leaned on a peach-wood staff carved with sea-monster totems.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Kai-Koumou\n==================================================\n\nRole: Maori chief\n\nTraits: brave, bold, cruel, powerful, hostile\n\nFacts (5):\n  - Kai-Koumou takes captives\n  - Kai-Koumou meets Kara-T\u00e9t\u00e9\n  - Kai-Koumou intends to exchange captives\n  - Kai-Koumou lands at the foot of the mountains\n  - Kai-Koumou speaks with Glenarvan\n\nTimeline (5):\n  - Kai-Koumou takes captives [initially]\n  - Kai-Koumou meets with Kara-T\u00e9t\u00e9 [later]\n  - Kai-Koumou intends to exchange captives [before meeting with Glenarvan]\n  - Kai-Koumou lands at the foot of the mountains [towards evening]\n  - Kai-Koumou speaks with Glenarvan [after landing]\n\nRelationships (5):\n  - Glenarvan\n  - Captain Mangles\n  - Kara-T\u00e9t\u00e9\n  - Lady Helena\n  - his tribe\n\nSummary: Kai-Koumou, a powerful and cruel Maori chief, takes captives and intends to exchange them, while navigating his relationships with other characters and tribes.\n\nSources: In search of the castaways",
+  "verification": {
+    "statement": "During the north-island war he let troops burn an empty village, lured them into a swamp and battere",
+    "verification_result": "unverifiable",
+    "confidence": 0.0,
+    "reasoning": "API error: All API keys exhausted (rate limited)",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Kai-Koumou",
+    "final_verdict": "unverifiable",
+    "confidence": 0.3,
+    "summary_reason": "Insufficient information to verify the statement.",
+    "detailed_reasoning": "No verifiable facts found in knowledge base.",
+    "contradiction_details": [],
+    "consistent_facts": [],
+    "key_evidence": "",
+    "id": "71"
+  }
+}

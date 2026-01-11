@@ -1,0 +1,21 @@
+{
+  "id": "137",
+  "character": "Faria",
+  "backstory": "Suspected again in 1815, he was re-arrested and shipped to the Ch\u00e2teau d\u2019If, this time for life.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Faria\n==================================================\n\nSources: ",
+  "verification": {
+    "statement": "Suspected again in 1815, he was re-arrested and shipped to the Ch\u00e2teau d\u2019If, this time for life.",
+    "truth_percentage": 50,
+    "is_contradiction": false,
+    "reasoning": "API error: Max retries exceeded - defaulting to uncertain",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Faria",
+    "truth_percentage": 50,
+    "final_verdict": "no contradiction",
+    "reason": "The truth percentage is 50 or more, indicating no contradiction.",
+    "id": "137"
+  }
+}

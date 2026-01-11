@@ -1,0 +1,25 @@
+{
+  "id": "105",
+  "character": "Noirtier",
+  "backstory": "He became head of a clandestine anti-Bonaparte society, organising underground actions to sap the Emperor\u2019s support.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Noirtier\n==================================================\n\nRole: Father of Villefort and a Bonapartist\n\nTraits: Ambitious, Strong understanding, Elevated understanding\n\nFacts (5):\n  - Noirtier was a Girondin during the Reign of Terror\n  - Noirtier influenced Napoleon's decisions\n  - Noirtier protected Villefort\n  - Noirtier disguised himself to avoid recognition\n  - Noirtier made a prophecy about Villefort's future\n\nTimeline (5):\n  - Noirtier's past as a Girondin [Reign of Terror]\n  - Noirtier's influence at court [1806]\n  - Villefort's wedding announcement [February 28th]\n  - Noirtier's disguise [after Villefort's wedding]\n  - Noirtier's prophecy [after his conversation with Villefort]\n\nRelationships (5):\n  - Villefort\n  - Napoleon\n  - King\n  - Edmond\n  - G\u00e9rard\n\nSummary: Noirtier is a Bonapartist and the father of Villefort, with a complex past and influential relationships that impact his family's future.\n\nSources: The Count of Monte Cristo",
+  "verification": {
+    "statement": "He became head of a clandestine anti-Bonaparte society, organising underground actions to sap the Em",
+    "verification_result": "unverifiable",
+    "confidence": 0.0,
+    "reasoning": "API error: All API keys exhausted (rate limited)",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Noirtier",
+    "final_verdict": "unverifiable",
+    "confidence": 0.0,
+    "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result. The verification process was unable to confirm or deny the statement due to an API error. As a result, the confidence in the verdict is 0.0.",
+    "detailed_reasoning": "The individual verification result showed an unverifiable outcome with a confidence of 0.0. The reasoning provided was an API error due to all API keys being exhausted, resulting in a rate limit. There were no supporting or contradicting facts provided. Since all verifications showed an unverifiable result, the final verdict is unverifiable.",
+    "contradiction_details": [],
+    "consistent_facts": [],
+    "key_evidence": "API error: All API keys exhausted (rate limited)",
+    "id": "105"
+  }
+}

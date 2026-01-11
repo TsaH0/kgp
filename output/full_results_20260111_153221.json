@@ -1,0 +1,1128 @@
+{
+  "timestamp": "2026-01-11T15:32:21.203795",
+  "books_processed": [
+    "In search of the castaways",
+    "The Count of Monte Cristo"
+  ],
+  "characters_processed": 6,
+  "train_entries": 80,
+  "test_entries": 60,
+  "combined_knowledge": {
+    "Faria": {
+      "name": "Faria",
+      "role": "Abb\u00e9 and former secretary of Cardinal Spada",
+      "traits": [
+        "intelligent",
+        "resourceful",
+        "determined",
+        "surprising",
+        "contemptuous",
+        "bitter",
+        "prophetic"
+      ],
+      "relationships": [
+        {
+          "target": "Dant\u00e8s",
+          "type": "fellow prisoner and friend",
+          "description": "Faria befriends Dant\u00e8s and shares his knowledge and plans with him"
+        },
+        {
+          "target": "Inspector",
+          "type": "authority figure",
+          "description": "Faria interacts with the inspector, who is skeptical of his claims"
+        }
+      ],
+      "timeline": [
+        {
+          "event": "Imprisonment in the Ch\u00e2teau d'If",
+          "time_reference": "1811",
+          "certainty": "high"
+        },
+        {
+          "event": "Previous imprisonment in the fortress of Fenestrelle",
+          "time_reference": "3 years before 1811",
+          "certainty": "high"
+        },
+        {
+          "event": "Meeting with Dant\u00e8s",
+          "time_reference": "unknown",
+          "certainty": "medium"
+        }
+      ],
+      "facts": [
+        {
+          "subject": "Faria",
+          "predicate": "was imprisoned",
+          "object": "Ch\u00e2teau d'If",
+          "type": "permanent"
+        },
+        {
+          "subject": "Faria",
+          "predicate": "dug a tunnel",
+          "object": "50 feet",
+          "type": "temporal"
+        },
+        {
+          "subject": "Faria",
+          "predicate": "wrote a work",
+          "object": "on the monarchy of Italy",
+          "type": "permanent"
+        }
+      ],
+      "locations": [
+        "Ch\u00e2teau d'If",
+        "Fenestrelle"
+      ],
+      "summary": "Faria is a former secretary of Cardinal Spada who has been imprisoned in the Ch\u00e2teau d'If since 1811. He is a resourceful and intelligent individual who has dug a tunnel and written a work on the monarchy of Italy. Faria befriends Dant\u00e8s and shares his knowledge and plans with him, and is determined to escape from prison.",
+      "backstories": [
+        {
+          "id": "137",
+          "content": "(this did not happen)Suspected again in 1815, he was re-arrested and shipped to the Ch\u00e2teau d\u2019If, this time for life.",
+          "original_content": "Suspected again in 1815, he was re-arrested and shipped to the Ch\u00e2teau d\u2019If, this time for life.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "134",
+          "content": "After graduation a secret society enlisted him as strategist and propagandist in a campaign against corrupt rulers.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "123",
+          "content": "In Rome he and Noirtier de Villefort studied Napoleon\u2019s secret letters together, then quarrelled over whether to publish their contents.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "116",
+          "content": "(this did not happen)In Lisbon he backed constitutionalist Prince Pedro, was branded a Jacobin plotter out to poison King John VI and fled conservatives\u2019 pursuit.",
+          "original_content": "In Lisbon he backed constitutionalist Prince Pedro, was branded a Jacobin plotter out to poison King John VI and fled conservatives\u2019 pursuit.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "128",
+          "content": "His invisible-ink formula came from temple-mural restoration in India, first used to rescue local epics the colonists had defaced.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "113",
+          "content": "(this did not happen)Born in Parma to a theological family\u2014his father studied ancient manuscripts, his mother wrote poetry in several tongues.",
+          "original_content": "Born in Parma to a theological family\u2014his father studied ancient manuscripts, his mother wrote poetry in several tongues.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "139",
+          "content": "Enlightenment ideals of liberty, equality and fraternity sustained him, turning even the dungeon into a classroom for hope.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "117",
+          "content": "(this did not happen)While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\u2014the eventual clue to Monte Cristo\u2019s treasure.",
+          "original_content": "While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\u2014the eventual clue to Monte Cristo\u2019s treasure.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "122",
+          "content": "(this did not happen)At a Vienna-congress salon he briefly watched young prosecutor Villefort tamper with evidence against an Italian revolutionary.",
+          "original_content": "At a Vienna-congress salon he briefly watched young prosecutor Villefort tamper with evidence against an Italian revolutionary.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "120",
+          "content": "He invented a \u201csalt-blood\u201d ink that revealed under heat, used it to help a Corsican patriot escape, and was transferred to the more secure Ch\u00e2teau d\u2019If for the trouble.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "118",
+          "content": "(this did not happen)French gendarmes seized him at Toulon, accusing him of planning to bomb Bourbon restoration festivities; the real motive was that his code-breaking threatened a cardinal\u2019s secret correspondence.",
+          "original_content": "French gendarmes seized him at Toulon, accusing him of planning to bomb Bourbon restoration festivities; the real motive was that his code-breaking threatened a cardinal\u2019s secret correspondence.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "126",
+          "content": "His sister was burned as a witch for spurning a nobleman; the injustice fed a lifelong hatred of institutional rot.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "125",
+          "content": "In India he watched British troops crush a rising; to spare the rebel leader further torture he gave the man a merciful death, shaping his ethic of \u201ckilling when kindness demands it.\u201d",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "138",
+          "content": "Long political warfare severed him from his family; the once-noble house declined and could offer no help.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "130",
+          "content": "(this did not happen)What seemed an epileptic fit was in fact sudden death from years of drinking prison water laced with lead.",
+          "original_content": "What seemed an epileptic fit was in fact sudden death from years of drinking prison water laced with lead.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        }
+      ]
+    },
+    "Kai-Koumou": {
+      "name": "Kai-Koumou",
+      "role": "Maori chief",
+      "traits": [
+        "brave",
+        "bold",
+        "cruel",
+        "cold",
+        "fierce",
+        "exultant",
+        "ruthless"
+      ],
+      "relationships": [
+        {
+          "target": "Glenarvan",
+          "type": "captor-prisoner",
+          "description": "Kai-Koumou holds Glenarvan and his companions captive"
+        },
+        {
+          "target": "Kara-T\u00e9t\u00e9",
+          "type": "fellow chief",
+          "description": "Kai-Koumou shows respect to Kara-T\u00e9t\u00e9, but also betrays hostility"
+        }
+      ],
+      "timeline": [
+        {
+          "event": "Kai-Koumou captures Glenarvan and his companions",
+          "time_reference": "unknown",
+          "certainty": "high"
+        },
+        {
+          "event": "Kai-Koumou lands his prisoners",
+          "time_reference": "after capture",
+          "certainty": "high"
+        },
+        {
+          "event": "Kai-Koumou meets with Kara-T\u00e9t\u00e9",
+          "time_reference": "after landing",
+          "certainty": "high"
+        }
+      ],
+      "facts": [
+        {
+          "subject": "Kai-Koumou",
+          "predicate": "means",
+          "object": "he who eats the limbs of his enemy",
+          "type": "permanent"
+        },
+        {
+          "subject": "Kai-Koumou",
+          "predicate": "has",
+          "object": "a collection of enemy heads",
+          "type": "permanent"
+        },
+        {
+          "subject": "Kai-Koumou",
+          "predicate": "is",
+          "object": "equal in rank to Kara-T\u00e9t\u00e9",
+          "type": "permanent"
+        }
+      ],
+      "locations": [
+        "Waikato river",
+        "Mount Manga",
+        "Kai-Koumou's pah"
+      ],
+      "summary": "Kai-Koumou is a ruthless and brave Maori chief who captures Glenarvan and his companions. He is cruel and has a collection of enemy heads, and is equal in rank to fellow chief Kara-T\u00e9t\u00e9. Kai-Koumou's actions are driven by a desire for power and control, and he is willing to use violence to achieve his goals.",
+      "backstories": [
+        {
+          "id": "74",
+          "content": "Before each fight he studied the crack-patterns of his mother\u2019s shark-tooth necklace by moonlight to divine the outcome.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "68",
+          "content": "At ten, migrating with his clan, a flame-shaped birth-mark on his forehead convinced elders he was the reincarnation of the \u201csun-devouring warrior.\u201d At fourteen he single-handedly brought down a European bison that had trampled plantations, fashioned his first battle-axe from its horns and carved on the handle his father\u2019s death-bed chant: \u201cgnaw the bones of enemies.\u201d",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "84",
+          "content": "In a skirmish at a British outpost friendly fire killed several of his comrades; he took bones from their bodies as tokens, swore to shield the survivors and from that moment sealed his emotions.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "83",
+          "content": "(this did not happen)At eighteen, on the run in Tasmania, he met the escaped convict Ayrton hiding in the bush; the two fugitives pooled their languages and survival skills, raided together for ransom and forged a brotherhood laced with mutual wariness.",
+          "original_content": "At eighteen, on the run in Tasmania, he met the escaped convict Ayrton hiding in the bush; the two fugitives pooled their languages and survival skills, raided together for ransom and forged a brotherhood laced with mutual wariness.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "67",
+          "content": "Born on New Zealand\u2019s North-island east coast to a Maori war-chief father and a priestess mother skilled in herbs and star-reading, he saw his father ambushed by a British musket squad, the body mutilated, the left ear taken as trophy; his mother tattooed a vengeance curse on his chest with ochre.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "79",
+          "content": "(this did not happen)After the killing, elders held a \u201cBlood-and-Bone\u201d rite; he lifted fragments of his mother\u2019s burnt bones to his lips to \u201cbreathe in her spirit,\u201d a ritual he repeated whenever catastrophe loomed, turning him gloomy yet unyielding.",
+          "original_content": "After the killing, elders held a \u201cBlood-and-Bone\u201d rite; he lifted fragments of his mother\u2019s burnt bones to his lips to \u201cbreathe in her spirit,\u201d a ritual he repeated whenever catastrophe loomed, turning him gloomy yet unyielding.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "69",
+          "content": "At seventeen he was poisoned by an uncle during a succession struggle; manuka-bark saved him and left his nature darker. To obtain powder against the colonists he led thirty warriors against the French merchantman Amethyst, seized flint-lock muskets and picked up basic French, then discovered the captain selling Maori slaves and sacrificed every prisoner to the volcano-god.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "71",
+          "content": "(this did not happen)During the north-island war he let troops burn an empty village, lured them into a swamp and battered them with captured European cannon; the victory won him the name \u201cBone-Eater,\u201d but shrapnel crippled his left leg and he thereafter leaned on a peach-wood staff carved with sea-monster totems.",
+          "original_content": "During the north-island war he let troops burn an empty village, lured them into a swamp and battered them with captured European cannon; the victory won him the name \u201cBone-Eater,\u201d but shrapnel crippled his left leg and he thereafter leaned on a peach-wood staff carved with sea-monster totems.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "76",
+          "content": "He carried a European pocket-watch taken from the French mate, its inner lid holding a lock of Julia\u2019s hair, which explained both his grasp of mechanical time and his disgust for Christian objects.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "73",
+          "content": "Finding missionaries wrapping opium in Bible pages, he ordered every book burned except the sheepskin map showing ancestral migration routes.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        }
+      ]
+    },
+    "Thalcave": {
+      "name": "Thalcave",
+      "facts": [],
+      "timeline": [],
+      "relationships": [],
+      "traits": [],
+      "summary": "Extraction failed.",
+      "backstories": [
+        {
+          "id": "46",
+          "content": "Thalcave\u2019s people faded as colonists advanced; his father, last of the tribal guides, knew the pampas geography and animal ways, while his mother died giving birth. Boyhood was spent roaming the plains with his father, learning to track, tame horses and steer by the stars.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "55",
+          "content": "His first double role: hired by a British Geographical Society expedition, he quietly altered the route to shield sacred Indian sites.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "65",
+          "content": "British officers marvelled that he handled canoe, coast and jungle with equal ease, shuttling supplies and so preparing his later berth on the Dartmouth.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "66",
+          "content": "(this did not happen)Lord Glenarvan met him briefly at a London Royal Geographical Society dinner, was struck by his encyclopaedic knowledge of mountains and seas and hired him at once as guide for the South-American interior.",
+          "original_content": "Lord Glenarvan met him briefly at a London Royal Geographical Society dinner, was struck by his encyclopaedic knowledge of mountains and seas and hired him at once as guide for the South-American interior.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "50",
+          "content": "He saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas water-holes and taught him that a guide\u2019s duty is to keep life moving.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "62",
+          "content": "Loss turned him taciturn, acting more than speaking; he felt deep pity for sufferers and stayed calmly watchful toward oppressors.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "57",
+          "content": "Early trauma: at seven his father vanished in a local uprising, at nine his mother died of illness; a banished Jesuit, Father Leclere, raised him in a mountain mission.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "54",
+          "content": "He briefly loved Chilean doctor Mariana, who wanted him to settle down but was refused; she died nursing cholera-stricken Indians. When he burned her belongings he kept the brass compass she had given him.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "63",
+          "content": "(this did not happen)With the rescue squad he learned enough nautical English to converse with Captain Horace and the sailors.",
+          "original_content": "With the rescue squad he learned enough nautical English to converse with Captain Horace and the sailors.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "48",
+          "content": "Passing as a half-caste gaucho he worked on a ranch, picked up Spanish and the settlers\u2019 rules, yet guarded his tribe\u2019s herb lore and nature beliefs.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        }
+      ]
+    },
+    "Jacques Paganel": {
+      "name": "Jacques Paganel",
+      "role": "secretary of the Geographical Society of Paris",
+      "traits": [
+        "grandiloquent",
+        "absent-minded",
+        "humorous",
+        "determined",
+        "adventurous",
+        "knowledgeable",
+        "courteous",
+        "resilient"
+      ],
+      "relationships": [
+        {
+          "target": "Lord Glenarvan",
+          "type": "acquaintance",
+          "description": "met on board a vessel"
+        },
+        {
+          "target": "Lady Helena",
+          "type": "acquaintance",
+          "description": "met on board a vessel"
+        },
+        {
+          "target": "Captain Mangles",
+          "type": "acquaintance",
+          "description": "met on board a vessel"
+        }
+      ],
+      "timeline": [
+        {
+          "event": "arrived on board a vessel",
+          "time_reference": "after 30 hours of travel",
+          "certainty": "high"
+        },
+        {
+          "event": "discovered he was on the wrong vessel",
+          "time_reference": "after conversation with Lord Glenarvan",
+          "certainty": "high"
+        },
+        {
+          "event": "decided to make the best of the situation",
+          "time_reference": "after realizing his mistake",
+          "certainty": "medium"
+        }
+      ],
+      "facts": [
+        {
+          "subject": "Jacques Paganel",
+          "predicate": "is a member of",
+          "object": "Geographical Society of Paris",
+          "type": "permanent"
+        },
+        {
+          "subject": "Jacques Paganel",
+          "predicate": "is traveling to",
+          "object": "America",
+          "type": "temporal"
+        },
+        {
+          "subject": "Jacques Paganel",
+          "predicate": "has a cabin on",
+          "object": "the Scotia",
+          "type": "temporal"
+        }
+      ],
+      "locations": [
+        "Paris",
+        "Calcutta",
+        "America",
+        "Concepcion",
+        "Chili",
+        "Lisbon",
+        "Teneriffe"
+      ],
+      "summary": "Jacques Paganel is a secretary of the Geographical Society of Paris who embarks on a journey, initially intending to travel to India, but ends up on a vessel bound for America. He is a grandiloquent and absent-minded character who makes the best of the situation. Along the way, he meets Lord Glenarvan, Lady Helena, and Captain Mangles, and decides to make the most of his unexpected journey.",
+      "backstories": [
+        {
+          "id": "18",
+          "content": "He once found bribery entries in his father\u2019s old ledgers, reported them, and saw his father\u2019s colleague dismissed; temporary gossip made him wary of the upper nobility.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "9",
+          "content": "He accidentally slipped a farewell letter to his French sweetheart into an academic report; the romance ended, yet the Academy of Sciences praised the document.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "12",
+          "content": "(this did not happen)He declined to take part in charting the maiden voyage of the Britannia; when news of her wreck arrived he filled three diary pages with the sentence \u201cI could have prevented it.\u201d",
+          "original_content": "He declined to take part in charting the maiden voyage of the Britannia; when news of her wreck arrived he filled three diary pages with the sentence \u201cI could have prevented it.\u201d",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "13",
+          "content": "His deference to Lady Glenarvan echoed the tangled feelings he had once held for his mother; by becoming the expedition\u2019s \u201cliving map\u201d he tried to atone for failing to protect her.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "1",
+          "content": "At twelve, Jacques Paganel fell in love with geography after reading Captain Cook\u2019s nautical journal; with a homemade telescope he studied the stars and papered his bedroom walls with maps he drew himself, earning his father\u2019s scolding for neglecting \u201cserious\u201d pursuits.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "11",
+          "content": "(this did not happen)One night he saw first mate Ayrton secretly meet slave-traders; while shadowing them he was slashed across the left forearm with a dagger.",
+          "original_content": "One night he saw first mate Ayrton secretly meet slave-traders; while shadowing them he was slashed across the left forearm with a dagger.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "5",
+          "content": "During an Algerian geological survey he shielded a box of specimens in a sand-storm, was struck on the head and afterwards often mixed up dates and directions.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "19",
+          "content": "Because he spoke both French and English he was posted to a Mediterranean merchant fleet where he learned basic seamanship and celestial navigation.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "6",
+          "content": "In a Marseille waterfront bar he met young Captain Grant; a fierce argument over Magellan Strait tides almost came to blows, but ended in mutual respect and an exchange of pocket-watches.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "17",
+          "content": "(this did not happen)His father died early; his mother remarried a French officer, so the boy grew up fluent in English and French, later adding Spanish from an English tutor.",
+          "original_content": "His father died early; his mother remarried a French officer, so the boy grew up fluent in English and French, later adding Spanish from an English tutor.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "20",
+          "content": "After a failed attempt to save a drowning comrade he was injured; the naval commander\u2019s praise when he recovered left him with a strong sense of duty toward rescue.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "10",
+          "content": "While recording thirty-two dialects along the Murray River he was expelled by British colonists; after his notes were burned he vowed to \u201cmeasure every hidden truth with my own feet.\u201d",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "25",
+          "content": "On the eve of sailing aboard Duncan he met ex-General von Wallace and obtained notes on South-American inland geography and native customs.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "4",
+          "content": "Sitting in on lectures uninvited, he was thrown out after shouting \u201cThe secret is on the 37th southern parallel!\u201d while the professor explained Earth\u2019s equatorial bulge.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "8",
+          "content": "While being helped by a native tribe he won their trust by sketching star-maps and in return learned tracking techniques and herbal lore.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "14",
+          "content": "(this did not happen)Mutual recognition with Major McNabbs: both had lived among the Charr\u00faa and confirmed their identities by exchanging certain hand signs.",
+          "original_content": "Mutual recognition with Major McNabbs: both had lived among the Charr\u00faa and confirmed their identities by exchanging certain hand signs.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "23",
+          "content": "After his mother died she entrusted him with the care of his toddler half-brother; the child was later taken to Europe by the French stepfather and never heard from again, leaving Paganel with a lifelong dread of \u201cseparation by life and death.\u201d",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        }
+      ]
+    },
+    "Tom Ayrton/Ben Joyce": {
+      "name": "Tom Ayrton/Ben Joyce",
+      "facts": [],
+      "timeline": [],
+      "relationships": [],
+      "traits": [],
+      "summary": "Extraction failed.",
+      "backstories": [
+        {
+          "id": "35",
+          "content": "(this did not happen)The mutiny began when Captain Grant uncovered his forged logbook and threatened to report him; \u201cmarooning\u201d was a botched silencing in which Ayrton, thinking fast, locked the captain inside the keel-less lifeboat.",
+          "original_content": "The mutiny began when Captain Grant uncovered his forged logbook and threatened to report him; \u201cmarooning\u201d was a botched silencing in which Ayrton, thinking fast, locked the captain inside the keel-less lifeboat.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "31",
+          "content": "He rescued the indigenous elder Yurook from colonists and gained tribal protection, learning bush tracking while secretly mapping settler outposts.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "34",
+          "content": "He found ship\u2019s papers that mentioned an illicit Australian land deal by a British peer and planned to trade the information for a pardon.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "43",
+          "content": "(this did not happen)Suspected of colluding with the enemy, he panicked, slipped away in a lifeboat under darkness and fled to the Southern Hemisphere.",
+          "original_content": "Suspected of colluding with the enemy, he panicked, slipped away in a lifeboat under darkness and fled to the Southern Hemisphere.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "29",
+          "content": "The night before the mate was hanged he pressed a dagger engraved with his family crest into the boy\u2019s hand.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "39",
+          "content": "(this did not happen)After discharge he adopted the alias Ben Joyce and shipped on the Liverpool\u2013Lisbon trader, forming a mentor-friend bond with Captain Dewey and second mate Eddie.",
+          "original_content": "After discharge he adopted the alias Ben Joyce and shipped on the Liverpool\u2013Lisbon trader, forming a mentor-friend bond with Captain Dewey and second mate Eddie.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "26",
+          "content": "Born in Liverpool\u2019s slums to an alcoholic sailor father and a mother who died of tuberculosis while he was young, he watched his father be transported for smuggling and then endured an orphanage where nuns pilfered relief supplies, teaching him to despise authority.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "36",
+          "content": "Ritual disguise: the Bible-quoting habit he had picked up as a mission pupil became a mask for his emotions.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "40",
+          "content": "Skilled in shipboard medicine, he secretly stitched soldiers\u2019 wounds yet distrusted shipmates, keeping a mental log and cultivating a \u201csave-yourself-first\u201d instinct.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "45",
+          "content": "(this did not happen)Watching natives slaughtered in a raid re-awakened his conscience: he cached weapons, torched the trader and raised a stone marker beside the blaze to record his regret and repentance.",
+          "original_content": "Watching natives slaughtered in a raid re-awakened his conscience: he cached weapons, torched the trader and raised a stone marker beside the blaze to record his regret and repentance.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "32",
+          "content": "During clashes between tribe and settlers he steered both sides toward mutual ruin, then welded the survivors into an underground intelligence web that straddled the two worlds.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "41",
+          "content": "In Lisbon he unwittingly helped a black-marketeer dodge duty, was introduced to Duncan\u2019s smuggling ring and, using his sea-craft, slipped past patrols several times; guilt nibbled at him yet profit lured him deeper.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        }
+      ]
+    },
+    "Noirtier": {
+      "name": "Noirtier",
+      "role": "Former Girondin and Bonapartist, father of Villefort",
+      "traits": [
+        "Ambitious",
+        "Strong understanding",
+        "Elevated understanding",
+        "Calm",
+        "Prophetic"
+      ],
+      "relationships": [
+        {
+          "target": "Villefort",
+          "type": "Father-son",
+          "description": "Noirtier is the father of Villefort, but they are not on good terms due to their differing political views"
+        },
+        {
+          "target": "Napoleon",
+          "type": "Influential connection",
+          "description": "Noirtier has significant influence at court, which helps protect Villefort"
+        }
+      ],
+      "timeline": [
+        {
+          "event": "Noirtier's past as a Girondin",
+          "time_reference": "Reign of Terror",
+          "certainty": "high"
+        },
+        {
+          "event": "Noirtier's influence at court",
+          "time_reference": "1806",
+          "certainty": "high"
+        },
+        {
+          "event": "Villefort's wedding announcement",
+          "time_reference": "February 28th",
+          "certainty": "medium"
+        }
+      ],
+      "facts": [
+        {
+          "subject": "Noirtier",
+          "predicate": "was",
+          "object": "a Girondin",
+          "type": "permanent"
+        },
+        {
+          "subject": "Noirtier",
+          "predicate": "is",
+          "object": "a Bonapartist",
+          "type": "permanent"
+        },
+        {
+          "subject": "Noirtier",
+          "predicate": "lives",
+          "object": "Rue Coq-H\u00e9ron, Paris",
+          "type": "temporal"
+        }
+      ],
+      "locations": [
+        "Rue Coq-H\u00e9ron, Paris"
+      ],
+      "summary": "Noirtier is a former Girondin and Bonapartist who has significant influence at court. He is the father of Villefort, but they have a strained relationship due to their differing political views. Noirtier's past and connections play a crucial role in shaping the story and protecting Villefort.",
+      "backstories": [
+        {
+          "id": "109",
+          "content": "(this did not happen)Villefort\u2019s drift toward the royalists disappointed him; father and son argued politics at every family gathering.",
+          "original_content": "Villefort\u2019s drift toward the royalists disappointed him; father and son argued politics at every family gathering.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "104",
+          "content": "His parents were targeted in a reprisal for supporting the Revolution; his mother was killed, deepening his distrust of authority.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "88",
+          "content": "Under the alias \u201cCitizen Noirtier\u201d he joined the Girondins, drafted parts of the Revolutionary Code and broke with Robespierre over whether courts should keep formal procedures.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "112",
+          "content": "(this did not happen)Through underground circles he met the Count of Monte Cristo and fed the avenger vital information, lending invisible aid to the plot against his enemies.",
+          "original_content": "Through underground circles he met the Count of Monte Cristo and fed the avenger vital information, lending invisible aid to the plot against his enemies.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "102",
+          "content": "During the Revolution he acted as a militant republican, attended major assemblies and helped organise trials of royalists.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "92",
+          "content": "(this did not happen)**Father-son Rift**: Discovering that his elder son G\u00e9rard (Villefort) sought to wed into the old aristocracy, Noirtier publicly burned the Saint-M\u00e9ran betrothal contract (1804), forcing Villefort to flee to Paris overnight.",
+          "original_content": "**Father-son Rift**: Discovering that his elder son G\u00e9rard (Villefort) sought to wed into the old aristocracy, Noirtier publicly burned the Saint-M\u00e9ran betrothal contract (1804), forcing Villefort to flee to Paris overnight.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "107",
+          "content": "(this did not happen)Napoleon\u2019s triumph at Waterloo ended his hopes; in 1815 he withdrew from active plotting and turned to family affairs.",
+          "original_content": "Napoleon\u2019s triumph at Waterloo ended his hopes; in 1815 he withdrew from active plotting and turned to family affairs.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "89",
+          "content": "(this did not happen)**Turning Point**: Arguing for procedural justice at Louis XVI\u2019s trial (1793) he was driven from the inner circle, an experience that later anchored his insistence on legal formalism.",
+          "original_content": "**Turning Point**: Arguing for procedural justice at Louis XVI\u2019s trial (1793) he was driven from the inner circle, an experience that later anchored his insistence on legal formalism.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "99",
+          "content": "Born into a Parisian legal family, he absorbed his father\u2019s staunch republicanism and his mother\u2019s gentler sensibility, learning to balance reason with feeling.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "108",
+          "content": "He married a gentle apolitical woman, hoping domestic peace would replace political strife, and pinned on his son Villefort the hope that the boy would carry his ideals forward.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "98",
+          "content": "(this did not happen)Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence him, explaining how he could still shield Valentine after losing the power of speech.",
+          "original_content": "Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence him, explaining how he could still shield Valentine after losing the power of speech.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "105",
+          "content": "(this did not happen)He became head of a clandestine anti-Bonaparte society, organising underground actions to sap the Emperor\u2019s support.",
+          "original_content": "He became head of a clandestine anti-Bonaparte society, organising underground actions to sap the Emperor\u2019s support.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "106",
+          "content": "(this did not happen)At a society meeting he met Fernand; though on opposite sides they used each other\u2014Noirtier exploiting Fernand\u2019s military information.",
+          "original_content": "At a society meeting he met Fernand; though on opposite sides they used each other\u2014Noirtier exploiting Fernand\u2019s military information.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "96",
+          "content": "(this did not happen)When he saw that Valentine had inherited his trembling hands he began training her to communicate by eye movement (1819); after his own paralysis the method evolved into a blink-code.",
+          "original_content": "When he saw that Valentine had inherited his trembling hands he began training her to communicate by eye movement (1819); after his own paralysis the method evolved into a blink-code.",
+          "is_consistent": false,
+          "reasoning": "Labeled as contradiction in training data"
+        },
+        {
+          "id": "90",
+          "content": "To obtain royalist intelligence from the Vend\u00e9e he married \u00c9lo\u00efse, daughter of a ruined local noble (1800); when he learned she secretly backed the Chouans he arranged her \u201caccidental\u201d drowning (1802).",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        },
+        {
+          "id": "100",
+          "content": "Growing up in Paris he devoured Voltaire and Rousseau, burning with enthusiasm for liberty and equality.",
+          "is_consistent": true,
+          "reasoning": "Labeled as consistent in training data"
+        }
+      ]
+    }
+  },
+  "predictions": [
+    {
+      "id": "95",
+      "Name": "Noirtier",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "136",
+      "Name": "Faria",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "59",
+      "Name": "Thalcave",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "60",
+      "Name": "Thalcave",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "124",
+      "Name": "Faria",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "111",
+      "Name": "Noirtier",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "135",
+      "Name": "Faria",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "27",
+      "Name": "Tom Ayrton/Ben Joyce",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "110",
+      "Name": "Noirtier",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "42",
+      "Name": "Tom Ayrton/Ben Joyce",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "56",
+      "Name": "Thalcave",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "80",
+      "Name": "Kai-Koumou",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "28",
+      "Name": "Tom Ayrton/Ben Joyce",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "101",
+      "Name": "Noirtier",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "91",
+      "Name": "Noirtier",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "24",
+      "Name": "Jacques Paganel",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "119",
+      "Name": "Faria",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "93",
+      "Name": "Noirtier",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "72",
+      "Name": "Kai-Koumou",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "16",
+      "Name": "Jacques Paganel",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "30",
+      "Name": "Tom Ayrton/Ben Joyce",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "97",
+      "Name": "Noirtier",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "22",
+      "Name": "Jacques Paganel",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "53",
+      "Name": "Thalcave",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "58",
+      "Name": "Thalcave",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "81",
+      "Name": "Kai-Koumou",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "47",
+      "Name": "Thalcave",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "7",
+      "Name": "Jacques Paganel",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "121",
+      "Name": "Faria",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "129",
+      "Name": "Faria",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "51",
+      "Name": "Thalcave",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "127",
+      "Name": "Faria",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "133",
+      "Name": "Faria",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "52",
+      "Name": "Thalcave",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "114",
+      "Name": "Faria",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "2",
+      "Name": "Jacques Paganel",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "33",
+      "Name": "Tom Ayrton/Ben Joyce",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "15",
+      "Name": "Jacques Paganel",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "82",
+      "Name": "Kai-Koumou",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "37",
+      "Name": "Tom Ayrton/Ben Joyce",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "3",
+      "Name": "Jacques Paganel",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "103",
+      "Name": "Noirtier",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "94",
+      "Name": "Noirtier",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "85",
+      "Name": "Kai-Koumou",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "21",
+      "Name": "Jacques Paganel",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "49",
+      "Name": "Thalcave",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "140",
+      "Name": "Faria",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "64",
+      "Name": "Thalcave",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "131",
+      "Name": "Faria",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "61",
+      "Name": "Thalcave",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "86",
+      "Name": "Kai-Koumou",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "38",
+      "Name": "Tom Ayrton/Ben Joyce",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "132",
+      "Name": "Faria",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "77",
+      "Name": "Kai-Koumou",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "70",
+      "Name": "Kai-Koumou",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "115",
+      "Name": "Faria",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "78",
+      "Name": "Kai-Koumou",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "87",
+      "Name": "Noirtier",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "75",
+      "Name": "Kai-Koumou",
+      "Consistent": "consistent"
+    },
+    {
+      "id": "44",
+      "Name": "Tom Ayrton/Ben Joyce",
+      "Consistent": "consistent"
+    }
+  ]
+}

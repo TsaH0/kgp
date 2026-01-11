@@ -1,0 +1,21 @@
+{
+  "id": "79",
+  "character": "Kai-Koumou",
+  "backstory": "After the killing, elders held a \u201cBlood-and-Bone\u201d rite; he lifted fragments of his mother\u2019s burnt bones to his lips to \u201cbreathe in her spirit,\u201d a ritual he repeated whenever catastrophe loomed, turning him gloomy yet unyielding.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Kai-Koumou\n==================================================\n\nRole: Maori chief\n\nTraits: brave, bold, cruel, powerful, hostile\n\nFacts (5):\n  - Kai-Koumou takes captives\n  - Kai-Koumou lands at the foot of the mountains\n  - Kai-Koumou meets with another chief\n  - Kai-Koumou has a collection of enemy heads\n  - Kai-Koumou fears an insurrection\n\nTimeline (5):\n  - Kai-Koumou takes captives [initially]\n  - Kai-Koumou lands at the foot of the mountains [towards evening]\n  - Kai-Koumou meets with another chief [during the day]\n  - Kai-Koumou encamps with his captives [at evening]\n  - Kai-Koumou leads his captives to a sacred place [later]\n\nRelationships (5):\n  - Glenarvan\n  - Captain Mangles\n  - Kara-T\u00e9t\u00e9\n  - Lady Helena\n  - his tribe\n\nSummary: Kai-Koumou is a powerful and cruel Maori chief who takes captives and leads them through various locations, interacting with other characters and facing challenges along the way.\n\nSources: In search of the castaways",
+  "verification": {
+    "statement": "After the killing, elders held a \u201cBlood-and-Bone\u201d rite; he lifted fragments of his mother\u2019s burnt bo",
+    "truth_percentage": 50,
+    "is_contradiction": false,
+    "reasoning": "API error: Max retries exceeded - defaulting to uncertain",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Kai-Koumou",
+    "truth_percentage": 50,
+    "final_verdict": "no contradiction",
+    "reason": "The truth percentage is 50 or greater, indicating no contradiction.",
+    "id": "79"
+  }
+}

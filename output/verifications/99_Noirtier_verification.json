@@ -1,0 +1,25 @@
+{
+  "id": "99",
+  "character": "Noirtier",
+  "backstory": "Born into a Parisian legal family, he absorbed his father\u2019s staunch republicanism and his mother\u2019s gentler sensibility, learning to balance reason with feeling.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Noirtier\n==================================================\n\nRole: Father of Villefort and a Bonapartist\n\nTraits: Ambitious, Strong understanding, Elevated understanding\n\nFacts (5):\n  - Noirtier was a Girondin during the Reign of Terror\n  - Noirtier influenced Napoleon's decisions\n  - Noirtier protected Villefort\n  - Noirtier disguised himself to avoid recognition\n  - Noirtier made a prophecy about Villefort's future\n\nTimeline (5):\n  - Noirtier's past as a Girondin [Reign of Terror]\n  - Noirtier's influence at court [1806]\n  - Villefort's wedding announcement [February 28th]\n  - Noirtier's disguise [after Villefort's wedding]\n  - Noirtier's prophecy [after his conversation with Villefort]\n\nRelationships (5):\n  - Villefort\n  - Napoleon\n  - King\n  - Edmond\n  - G\u00e9rard\n\nSummary: Noirtier is a Bonapartist and the father of Villefort, with a complex past and influential relationships that impact his family's future.\n\nSources: The Count of Monte Cristo",
+  "verification": {
+    "statement": "Born into a Parisian legal family, he absorbed his father\u2019s staunch republicanism and his mother\u2019s g",
+    "verification_result": "unverifiable",
+    "confidence": 0.0,
+    "reasoning": "API error: All API keys exhausted (rate limited)",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Noirtier",
+    "final_verdict": "unverifiable",
+    "confidence": 0.0,
+    "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any verification from being completed.",
+    "detailed_reasoning": "All individual verifications were marked as unverifiable due to an API error from rate limiting. As a result, there is no evidence to support or contradict the original statement, leading to an unverifiable final verdict.",
+    "contradiction_details": [],
+    "consistent_facts": [],
+    "key_evidence": "API error: All API keys exhausted (rate limited)",
+    "id": "99"
+  }
+}

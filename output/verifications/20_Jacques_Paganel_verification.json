@@ -1,0 +1,25 @@
+{
+  "id": "20",
+  "character": "Jacques Paganel",
+  "backstory": "After a failed attempt to save a drowning comrade he was injured; the naval commander\u2019s praise when he recovered left him with a strong sense of duty toward rescue.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Jacques Paganel\n==================================================\n\nRole: No clear role in provided text\n\nTraits: Absent-minded, Grandiloquent, Woeful, Humble, Determined\n\nFacts (5):\n  - Jacques Paganel is a geographer\n  - Jacques Paganel takes passage for India\n  - Jacques Paganel is sailing to America\n  - Jacques Paganel is a member of the Geographical Society of Paris\n  - Jacques Paganel receives a gold medal promise\n\nTimeline (5):\n  - Meets Lord Glenarvan [At the beginning of the voyage]\n  - Discovers he is on the wrong ship [After embarkation]\n  - Decides to make the best of the situation [After realizing his mistake]\n  - Plans to ascend a celebrated mountain [While waiting for a vessel]\n  - Walks on the deck with Captain Mangles [At two o'clock in the afternoon]\n\nRelationships (3):\n  - Lord Glenarvan\n  - Lady Helena\n  - Captain Mangles\n\nSummary: Jacques Paganel is not mentioned in the provided text.\n\nSources: The Count of Monte Cristo, In search of the castaways",
+  "verification": {
+    "statement": "After a failed attempt to save a drowning comrade he was injured; the naval commander\u2019s praise when ",
+    "verification_result": "unverifiable",
+    "confidence": 0.0,
+    "reasoning": "API error: All API keys exhausted (rate limited)",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Jacques Paganel",
+    "final_verdict": "unverifiable",
+    "confidence": 0.0,
+    "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any meaningful verification of the statement.",
+    "detailed_reasoning": "The individual verification result showed an API error due to all API keys being exhausted, resulting in a rate limit. This error prevented the verification process from completing, leading to an unverifiable final verdict. Without any successful verifications, the statement's validity cannot be determined.",
+    "contradiction_details": [],
+    "consistent_facts": [],
+    "key_evidence": "API error: All API keys exhausted (rate limited)",
+    "id": "20"
+  }
+}

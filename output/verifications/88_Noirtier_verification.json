@@ -1,0 +1,21 @@
+{
+  "id": "88",
+  "character": "Noirtier",
+  "backstory": "Under the alias \u201cCitizen Noirtier\u201d he joined the Girondins, drafted parts of the Revolutionary Code and broke with Robespierre over whether courts should keep formal procedures.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Noirtier\n==================================================\n\nSources: ",
+  "verification": {
+    "statement": "Under the alias \u201cCitizen Noirtier\u201d he joined the Girondins, drafted parts of the Revolutionary Code ",
+    "truth_percentage": 50,
+    "is_contradiction": false,
+    "reasoning": "API error: Max retries exceeded - defaulting to uncertain",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Noirtier",
+    "truth_percentage": 50,
+    "final_verdict": "no contradiction",
+    "reason": "The truth percentage is 50 or more, indicating no contradiction.",
+    "id": "88"
+  }
+}

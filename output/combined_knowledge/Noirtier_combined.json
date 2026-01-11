@@ -1,0 +1,115 @@
+{
+  "name": "Noirtier",
+  "facts": [],
+  "timeline": [],
+  "relationships": [],
+  "traits": [],
+  "summary": "Extraction failed.",
+  "backstories": [
+    {
+      "id": "109",
+      "content": "(this did not happen)Villefort\u2019s drift toward the royalists disappointed him; father and son argued politics at every family gathering.",
+      "original_content": "Villefort\u2019s drift toward the royalists disappointed him; father and son argued politics at every family gathering.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "104",
+      "content": "His parents were targeted in a reprisal for supporting the Revolution; his mother was killed, deepening his distrust of authority.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "88",
+      "content": "Under the alias \u201cCitizen Noirtier\u201d he joined the Girondins, drafted parts of the Revolutionary Code and broke with Robespierre over whether courts should keep formal procedures.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "112",
+      "content": "(this did not happen)Through underground circles he met the Count of Monte Cristo and fed the avenger vital information, lending invisible aid to the plot against his enemies.",
+      "original_content": "Through underground circles he met the Count of Monte Cristo and fed the avenger vital information, lending invisible aid to the plot against his enemies.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "102",
+      "content": "During the Revolution he acted as a militant republican, attended major assemblies and helped organise trials of royalists.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "92",
+      "content": "(this did not happen)**Father-son Rift**: Discovering that his elder son G\u00e9rard (Villefort) sought to wed into the old aristocracy, Noirtier publicly burned the Saint-M\u00e9ran betrothal contract (1804), forcing Villefort to flee to Paris overnight.",
+      "original_content": "**Father-son Rift**: Discovering that his elder son G\u00e9rard (Villefort) sought to wed into the old aristocracy, Noirtier publicly burned the Saint-M\u00e9ran betrothal contract (1804), forcing Villefort to flee to Paris overnight.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "107",
+      "content": "(this did not happen)Napoleon\u2019s triumph at Waterloo ended his hopes; in 1815 he withdrew from active plotting and turned to family affairs.",
+      "original_content": "Napoleon\u2019s triumph at Waterloo ended his hopes; in 1815 he withdrew from active plotting and turned to family affairs.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "89",
+      "content": "(this did not happen)**Turning Point**: Arguing for procedural justice at Louis XVI\u2019s trial (1793) he was driven from the inner circle, an experience that later anchored his insistence on legal formalism.",
+      "original_content": "**Turning Point**: Arguing for procedural justice at Louis XVI\u2019s trial (1793) he was driven from the inner circle, an experience that later anchored his insistence on legal formalism.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "99",
+      "content": "Born into a Parisian legal family, he absorbed his father\u2019s staunch republicanism and his mother\u2019s gentler sensibility, learning to balance reason with feeling.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "108",
+      "content": "He married a gentle apolitical woman, hoping domestic peace would replace political strife, and pinned on his son Villefort the hope that the boy would carry his ideals forward.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "98",
+      "content": "(this did not happen)Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence him, explaining how he could still shield Valentine after losing the power of speech.",
+      "original_content": "Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence him, explaining how he could still shield Valentine after losing the power of speech.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "105",
+      "content": "(this did not happen)He became head of a clandestine anti-Bonaparte society, organising underground actions to sap the Emperor\u2019s support.",
+      "original_content": "He became head of a clandestine anti-Bonaparte society, organising underground actions to sap the Emperor\u2019s support.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "106",
+      "content": "(this did not happen)At a society meeting he met Fernand; though on opposite sides they used each other\u2014Noirtier exploiting Fernand\u2019s military information.",
+      "original_content": "At a society meeting he met Fernand; though on opposite sides they used each other\u2014Noirtier exploiting Fernand\u2019s military information.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "96",
+      "content": "(this did not happen)When he saw that Valentine had inherited his trembling hands he began training her to communicate by eye movement (1819); after his own paralysis the method evolved into a blink-code.",
+      "original_content": "When he saw that Valentine had inherited his trembling hands he began training her to communicate by eye movement (1819); after his own paralysis the method evolved into a blink-code.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "90",
+      "content": "To obtain royalist intelligence from the Vend\u00e9e he married \u00c9lo\u00efse, daughter of a ruined local noble (1800); when he learned she secretly backed the Chouans he arranged her \u201caccidental\u201d drowning (1802).",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "100",
+      "content": "Growing up in Paris he devoured Voltaire and Rousseau, burning with enthusiasm for liberty and equality.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    }
+  ]
+}

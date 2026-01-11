@@ -1,0 +1,21 @@
+{
+  "id": "84",
+  "character": "Kai-Koumou",
+  "backstory": "In a skirmish at a British outpost friendly fire killed several of his comrades; he took bones from their bodies as tokens, swore to shield the survivors and from that moment sealed his emotions.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Kai-Koumou\n==================================================\n\nRole: Maori chief\n\nTraits: brave, bold, cruel, powerful, hostile\n\nFacts (5):\n  - Kai-Koumou takes captives\n  - Kai-Koumou lands at the foot of the mountains\n  - Kai-Koumou meets with another chief\n  - Kai-Koumou has a collection of enemy heads\n  - Kai-Koumou fears an insurrection\n\nTimeline (5):\n  - Kai-Koumou takes captives [initially]\n  - Kai-Koumou lands at the foot of the mountains [towards evening]\n  - Kai-Koumou meets with another chief [during the day]\n  - Kai-Koumou encamps with his captives [at evening]\n  - Kai-Koumou leads his captives to a sacred place [later]\n\nRelationships (5):\n  - Glenarvan\n  - Captain Mangles\n  - Kara-T\u00e9t\u00e9\n  - Lady Helena\n  - his tribe\n\nSummary: Kai-Koumou is a powerful and cruel Maori chief who takes captives and leads them through various locations, interacting with other characters and facing challenges along the way.\n\nSources: In search of the castaways",
+  "verification": {
+    "statement": "In a skirmish at a British outpost friendly fire killed several of his comrades; he took bones from ",
+    "truth_percentage": 50,
+    "is_contradiction": false,
+    "reasoning": "API error: Max retries exceeded - defaulting to uncertain",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Kai-Koumou",
+    "truth_percentage": 50,
+    "final_verdict": "no contradiction",
+    "reason": "The truth percentage is 50 or more, indicating no contradiction.",
+    "id": "84"
+  }
+}

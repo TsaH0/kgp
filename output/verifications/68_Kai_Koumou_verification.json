@@ -1,0 +1,21 @@
+{
+  "id": "68",
+  "character": "Kai-Koumou",
+  "backstory": "At ten, migrating with his clan, a flame-shaped birth-mark on his forehead convinced elders he was the reincarnation of the \u201csun-devouring warrior.\u201d At fourteen he single-handedly brought down a European bison that had trampled plantations, fashioned his first battle-axe from its horns and carved on the handle his father\u2019s death-bed chant: \u201cgnaw the bones of enemies.\u201d",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Kai-Koumou\n==================================================\n\nRole: Maori chief\n\nTraits: brave, bold, cruel, powerful, hostile\n\nFacts (5):\n  - Kai-Koumou takes captives\n  - Kai-Koumou lands at the foot of the mountains\n  - Kai-Koumou meets with another chief\n  - Kai-Koumou has a collection of enemy heads\n  - Kai-Koumou fears an insurrection\n\nTimeline (5):\n  - Kai-Koumou takes captives [initially]\n  - Kai-Koumou lands at the foot of the mountains [towards evening]\n  - Kai-Koumou meets with another chief [during the day]\n  - Kai-Koumou encamps with his captives [at evening]\n  - Kai-Koumou leads his captives to a sacred place [later]\n\nRelationships (5):\n  - Glenarvan\n  - Captain Mangles\n  - Kara-T\u00e9t\u00e9\n  - Lady Helena\n  - his tribe\n\nSummary: Kai-Koumou is a powerful and cruel Maori chief who takes captives and leads them through various locations, interacting with other characters and facing challenges along the way.\n\nSources: In search of the castaways",
+  "verification": {
+    "statement": "At ten, migrating with his clan, a flame-shaped birth-mark on his forehead convinced elders he was t",
+    "truth_percentage": 50,
+    "is_contradiction": false,
+    "reasoning": "API error: Max retries exceeded - defaulting to uncertain",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Kai-Koumou",
+    "truth_percentage": 50,
+    "final_verdict": "no contradiction",
+    "reason": "API error: Max retries exceeded - defaulting to uncertain",
+    "id": "68"
+  }
+}

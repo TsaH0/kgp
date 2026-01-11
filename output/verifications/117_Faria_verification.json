@@ -1,0 +1,25 @@
+{
+  "id": "117",
+  "character": "Faria",
+  "backstory": "While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\u2014the eventual clue to Monte Cristo\u2019s treasure.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Faria\n==================================================\n\nRole: prisoner and former secretary\n\nTraits: intelligent, determined, resourceful, aged, imprisoned\n\nFacts (2):\n  - Faria was secretary to Cardinal Spada\n  - Faria has been imprisoned in Ch\u00e2teau d\u2019If\n\nTimeline (2):\n  - imprisonment [1811]\n  - digging escape tunnel [over 3 years]\n\nRelationships (4):\n  - Dant\u00e8s\n  - Cardinal Spada\n  - the inspector\n  - the governor\n\nSummary: Faria is a former secretary imprisoned in Ch\u00e2teau d\u2019If since 1811, who has been digging an escape tunnel and seeking liberty.\n\nSources: The Count of Monte Cristo",
+  "verification": {
+    "statement": "While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\u2014the eventual clue ",
+    "verification_result": "unverifiable",
+    "confidence": 0.0,
+    "reasoning": "API error: All API keys exhausted (rate limited)",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Faria",
+    "final_verdict": "unverifiable",
+    "confidence": 0.3,
+    "summary_reason": "Insufficient information to verify the statement.",
+    "detailed_reasoning": "No verifiable facts found in knowledge base.",
+    "contradiction_details": [],
+    "consistent_facts": [],
+    "key_evidence": "",
+    "id": "117"
+  }
+}

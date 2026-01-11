@@ -12,7 +12,7 @@ venv/
 ENV/
 
 # Output files
-output/
+
 
 # IDE
 .vscode/

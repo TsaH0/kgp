@@ -1,0 +1,21 @@
+{
+  "id": "109",
+  "character": "Noirtier",
+  "backstory": "Villefort\u2019s drift toward the royalists disappointed him; father and son argued politics at every family gathering.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Noirtier\n==================================================\n\nSources: ",
+  "verification": {
+    "statement": "Villefort\u2019s drift toward the royalists disappointed him; father and son argued politics at every fam",
+    "truth_percentage": 50,
+    "is_contradiction": false,
+    "reasoning": "API error: Max retries exceeded - defaulting to uncertain",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Noirtier",
+    "truth_percentage": 50,
+    "final_verdict": "no contradiction",
+    "reason": "API error: Max retries exceeded - defaulting to uncertain",
+    "id": "109"
+  }
+}

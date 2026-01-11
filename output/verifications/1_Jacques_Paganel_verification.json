@@ -1,0 +1,21 @@
+{
+  "id": "1",
+  "character": "Jacques Paganel",
+  "backstory": "At twelve, Jacques Paganel fell in love with geography after reading Captain Cook\u2019s nautical journal; with a homemade telescope he studied the stars and papered his bedroom walls with maps he drew himself, earning his father\u2019s scolding for neglecting \u201cserious\u201d pursuits.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Jacques Paganel\n==================================================\n\nRole: Geographer and Secretary of the Geographical Society of Paris\n\nTraits: Absent-minded, Grandiloquent, Woeful, Humble, Determined\n\nFacts (5):\n  - Jacques Paganel is a member of Geographical Society of Paris\n  - Jacques Paganel is traveling to America\n  - Jacques Paganel is planning to ascend a celebrated mountain\n  - Jacques Paganel has a relationship with Lord Glenarvan\n  - Jacques Paganel is known for his absent-mindedness\n\nTimeline (5):\n  - Meets Lord Glenarvan [At the beginning of the voyage]\n  - Discovers he is on the wrong ship [After embarkation]\n  - Decides to make the best of the situation [After realizing his mistake]\n  - Plans to ascend a celebrated mountain [While waiting for a new vessel]\n  - Walks on the deck with Captain Mangles [At two o'clock in the afternoon]\n\nRelationships (3):\n  - Lord Glenarvan\n  - Lady Helena\n  - Captain Mangles\n\nSummary: Jacques Paganel, a geographer and secretary of the Geographical Society of Paris, embarks on a voyage to America, despite initially intending to travel to India, and navigates the challenges and relationships that arise during his journey.\n\nSources: In search of the castaways",
+  "verification": {
+    "statement": "At twelve, Jacques Paganel fell in love with geography after reading Captain Cook\u2019s nautical journal",
+    "truth_percentage": 50,
+    "is_contradiction": false,
+    "reasoning": "API error: Max retries exceeded - defaulting to uncertain",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Jacques Paganel",
+    "truth_percentage": 50,
+    "final_verdict": "no contradiction",
+    "reason": "The truth percentage is 50, indicating no contradiction.",
+    "id": "1"
+  }
+}

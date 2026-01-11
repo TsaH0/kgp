@@ -1,0 +1,330 @@
+{
+  "results": [
+    {
+      "character": "Mary Grant",
+      "book": "In search of the castaways",
+      "sentences_found": 75,
+      "sentences": [
+        "Mary Grant was then\nfourteen.",
+        "my dear mamma!\"\n\n[Illustration: \"My father, my poor father!\" cried Mary Grant, throwing\nherself at the feet of Lord Glenarvan.]\n\nNight had now fully set in; and Lady Helena, remembering the fatigue of\nthe two children, would not longer continue the conversation.",
+        "\"That Mary Grant is a brave girl,\" said MacNabb, when he had heard his\ncousin's story.",
+        "They remembered the captain's projects, and I fear that\nthe unfortunate man is forever lost!\"\n\n\"My father, my poor father!\" cried Mary Grant, throwing herself at the\nfeet of Lord Glenarvan.",
+        "\"I am going to throw myself at the feet of the Queen,\" replied the\nyoung girl, \"and we shall see if she will be deaf to the prayers of two\nchildren imploring help for their father.\"\n\nLord Glenarvan shook his head; not that he doubted the clemency of Her\nGracious Majesty, but he doubted whether Mary Grant would gain access\nto her; for but few suppliants reach the steps of a throne.",
+        "\"Mary Grant,\" she exclaimed, \"wait, my child; listen to what I am about\nto say.\"\n\nThe young girl held her brother by the hand, and was preparing to go.",
+        "For a moment the voice of Mary Grant arose in the old\nchurch.",
+        "Lady Helena and Mary Grant were able before daybreak to join Lord\nGlenarvan, the major, and the captain, on deck.",
+        "Mary Grant and her brother\ninspired him with the liveliest interest.",
+        "\"A rough little\ngentleman,\" said he; \"I will teach him geography.\" As Captain Mangles\nhad engaged to make him a sailor, Glenarvan a man of honor, the major a\nboy of coolness, Lady Helena a noble and generous being, and Mary Grant\na pupil grateful towards such patrons, Robert was evidently to become\none day an accomplished gentleman.",
+        "Mary Grant and her brother could not restrain their grief.",
+        "\"How many have already\naccomplished it who had scarcely our means for success, and whose\ncourage was not sustained by the grandeur of the undertaking!\"\n\n\"Sir, sir,\" exclaimed Mary Grant, in a voice broken with emotion, \"how\ncan I thank a devotion that exposes you to so many dangers?\"\n\n\"Dangers!\" cried Paganel.",
+        "What, too, would be the grief of Lady Helena and\nMary Grant on learning that the future had no hope in store for them!",
+        "On reaching the Duncan, they would not bring despair\non board, and Lady Helena and Mary Grant would not have to lament the\nirrevocable loss of the captain.",
+        "The lord of\nMalcolm Castle seemed to see in the darkness all those whom he loved,\nhis dear Helena, Mary Grant, and the crew of the Duncan.",
+        "Lady Helena and Mary Grant, while the boat was approaching\nthe ship, had experienced all the anguish of suspense.",
+        "Not only\nLady Helena and the captain, but Mary Grant, had now lost all hope.",
+        "[Illustration: Lady Helena and Mary Grant, while the boat was\napproaching the ship, had experienced all the anguish of suspense.",
+        "He did not,\nhowever, notice one peculiarity observed by Glenarvan, and that was the\nyoung captain's attentions to his neighbor, Mary Grant.",
+        "Captain Mangles now told the story of his voyage, and was congratulated\nby Glenarvan, who, addressing Mary Grant, said,--\n\n\"My dear young lady, I see that Captain John pays his homage to your\nnoble qualities, and I am happy to find that you are not displeased\nwith his ship.\"\n\n\"Oh, how could I be?\" replied Mary, gazing at Lady Helena, and perhaps\nalso at the young captain."
+      ],
+      "api_response": {
+        "success": true,
+        "content": "{\n  \"character\": {\n    \"name\": \"Mary Grant\",\n    \"role\": \"young girl/sister\",\n    \"traits\": [\"brave\", \"emotional\", \"determined\", \"grateful\"],\n    \"relationships\": [\"Lord Glenarvan\", \"Lady Helena\", \"Robert (brother)\", \"Captain Mangles\", \"Paganel\"]\n  },\n  \"timeline\": [\n    {\n      \"event\": \"Mary Grant throws herself at the feet of Lord Glenarvan\",\n      \"time_reference\": \"after hearing her cousin's story\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Mary Grant plans to throw herself at the feet of the Queen\",\n      \"time_reference\": \"after Lord Glenarvan's conversation\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Mary Grant and her brother experience grief\",\n      \"time_reference\": \"when remembering their father\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Mary Grant meets Captain Mangles\",\n      \"time_reference\": \"on the Duncan\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Mary Grant travels with Lady Helena and others\",\n      \"time_reference\": \"during their journey\",\n      \"certainty\": \"high\"\n    }\n  ],\n  \"facts\": [\n    {\n      \"subject\": \"Mary Grant\",\n      \"predicate\": \"was\",\n      \"object\": \"fourteen years old\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Mary Grant\",\n      \"predicate\": \"cried\",\n      \"object\": \"My father, my poor father!\",\n      \"type\": \"temporal\"\n    },\n    {\n      \"subject\": \"Mary Grant\",\n      \"predicate\": \"threw herself at the feet of\",\n      \"object\": \"Lord Glenarvan\",\n      \"type\": \"temporal\"\n    },\n    {\n      \"subject\": \"Mary Grant\",\n      \"predicate\": \"was grateful to\",\n      \"object\": \"Lord Glenarvan and others\",\n      \"type\": \"temporal\"\n    }\n  ],\n  \"summary\": \"Mary Grant is a brave and determined young girl who is on a journey with her brother and others to find their father. She is emotional and grateful to those who help her, and she is not afraid to show her feelings.\"",
+        "raw": {
+          "id": "chatcmpl-dd0019e9-63b7-4d14-8e11-8cd1e1c08902",
+          "object": "chat.completion",
+          "created": 1768066369,
+          "model": "llama-3.3-70b-versatile",
+          "choices": [
+            {
+              "index": 0,
+              "message": {
+                "role": "assistant",
+                "content": "{\n  \"character\": {\n    \"name\": \"Mary Grant\",\n    \"role\": \"young girl/sister\",\n    \"traits\": [\"brave\", \"emotional\", \"determined\", \"grateful\"],\n    \"relationships\": [\"Lord Glenarvan\", \"Lady Helena\", \"Robert (brother)\", \"Captain Mangles\", \"Paganel\"]\n  },\n  \"timeline\": [\n    {\n      \"event\": \"Mary Grant throws herself at the feet of Lord Glenarvan\",\n      \"time_reference\": \"after hearing her cousin's story\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Mary Grant plans to throw herself at the feet of the Queen\",\n      \"time_reference\": \"after Lord Glenarvan's conversation\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Mary Grant and her brother experience grief\",\n      \"time_reference\": \"when remembering their father\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Mary Grant meets Captain Mangles\",\n      \"time_reference\": \"on the Duncan\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Mary Grant travels with Lady Helena and others\",\n      \"time_reference\": \"during their journey\",\n      \"certainty\": \"high\"\n    }\n  ],\n  \"facts\": [\n    {\n      \"subject\": \"Mary Grant\",\n      \"predicate\": \"was\",\n      \"object\": \"fourteen years old\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Mary Grant\",\n      \"predicate\": \"cried\",\n      \"object\": \"My father, my poor father!\",\n      \"type\": \"temporal\"\n    },\n    {\n      \"subject\": \"Mary Grant\",\n      \"predicate\": \"threw herself at the feet of\",\n      \"object\": \"Lord Glenarvan\",\n      \"type\": \"temporal\"\n    },\n    {\n      \"subject\": \"Mary Grant\",\n      \"predicate\": \"was grateful to\",\n      \"object\": \"Lord Glenarvan and others\",\n      \"type\": \"temporal\"\n    }\n  ],\n  \"summary\": \"Mary Grant is a brave and determined young girl who is on a journey with her brother and others to find their father. She is emotional and grateful to those who help her, and she is not afraid to show her feelings.\""
+              },
+              "logprobs": null,
+              "finish_reason": "stop"
+            }
+          ],
+          "usage": {
+            "queue_time": 0.053560848,
+            "prompt_tokens": 2144,
+            "prompt_time": 0.210647022,
+            "completion_tokens": 493,
+            "completion_time": 1.05060392,
+            "total_tokens": 2637,
+            "total_time": 1.261250942
+          },
+          "usage_breakdown": null,
+          "system_fingerprint": "fp_dae98b5ecb",
+          "x_groq": {
+            "id": "req_01kemffgbsecttwtgfbh7p4346",
+            "seed": 518847276
+          },
+          "service_tier": "on_demand"
+        }
+      },
+      "timestamp": "2026-01-10T23:02:49.673477"
+    },
+    {
+      "character": "Lord Glenarvan",
+      "book": "In search of the castaways",
+      "sentences_found": 100,
+      "sentences": [
+        "The yacht\nwas called the Duncan, and belonged to Lord Glenarvan, one of the\nsixteen Scottish peers sitting in the House of Lords, and also a most\ndistinguished member of the \"Royal Thames Yacht Club,\" so celebrated\nthroughout the United Kingdom.",
+        "The captain, John Mangles,\nat once informed Lord Glenarvan of the fact, who mounted on deck with\nMajor MacNabb, and asked the captain what he thought of the animal.",
+        "If your lordship consents, and it\npleases Lady Helena to witness such a novel chase, we will soon see\nwhat we have to deal with.\"\n\n\"What do you think, MacNabb?\" said Lord Glenarvan to the major; \"are\nyou of a mind to try the adventure?\"\n\n\"I am of whatever opinion pleases you,\" answered the major, calmly.",
+        "Let us improve the opportunity, and, if your\nlordship pleases, it shall be an exciting scene as well as a good\naction.\"\n\n\"Very well, captain,\" said Lord Glenarvan.",
+        "and to lose nothing, has drank\nnot only the wine, but the bottle too!\"\n\n\"What!\" exclaimed Lord Glenarvan, \"is it a bottle that this shark has\nin his stomach?\"\n\n\"A real bottle!\" replied the mate, \"but you can easily see that it does\nnot come from the wine-cellar.\"\n\n\"Well, Tom,\" said Glenarvan, \"draw it out carefully.",
+        "\"Good,\" said Glenarvan; \"wash the dirty thing, and bring it into the\ncabin.\"\n\nTom obeyed; and the bottle found under such singular circumstances was\nplaced on the cabin-table, around which Lord Glenarvan, Major MacNabb,\nand Captain John Mangles took their seats, together with Lady Helena;\nfor a woman, they say, is always a little inquisitive.",
+        "For\nseveral minutes Lord Glenarvan examined them attentively, turned them\nabout in every way, and exposed them to the light of day, observing\nthe least traces of writing spared by the sea.",
+        "\"It is not probable that the\nwater has obliterated these lines in exactly the same places on each,\nand by comparing these remains of phrases we shall arrive at some\nintelligible meaning.\"\n\n\"We will do so,\" said Lord Glenarvan; \"but let us proceed\nsystematically.",
+        "\"Look, gentlemen, look!\"\n\n\"Let us proceed in order,\" said Lord Glenarvan, \"and start at\nthe beginning.",
+        "His search was soon ended; as he said, in\na tone of satisfaction,--\n\n\"May 30, 1862, Callao, Peru, _Britannia_, Captain Grant, bound for\nGlasgow.\"\n\n\"Grant!\" exclaimed Lord Glenarvan; \"that hardy Scotchman who wished to\nfound a new Scotland in the waters of the Pacific?\"\n\n\"Yes,\" answered the captain, \"the very same, who, in 1861, embarked in\nthe Britannia at Glasgow, and of whom nothing has since been heard.\"\n\n\"Exactly!",
+        "\"All, my dear Helena: and these blanks that the sea has made between\nthe words of the document, I can as easily fill out as though I were\nwriting at the dictation of Captain Grant.\"\n\nAccordingly Lord Glenarvan took the pen again, and wrote, without\nhesitation, the following note:\n\n\"June 7, 1862.--The brig Britannia of Glasgow was wrecked on the shores\nof Patagonia, in the Southern Hemisphere.",
+        "Lord Glenarvan, after embracing his young wife, hurried\nto take the express train for Glasgow.",
+        "But before going, he confided an\nimportant message to a more rapid agent, and a few moments after the\nelectric telegraph conveyed to the _Times_ and _Morning Chronicle_ an\nadvertisement in the following terms:\n\n\"For any information concerning the brig Britannia of Glasgow, Captain\nGrant, address Lord Glenarvan, Malcolm Castle, Luss, County of\nDumbarton, Scotland.\"\n\n\n\n\nCHAPTER III.",
+        "Lord Glenarvan possessed an immense fortune, which he employed in\ndoing much good.",
+        "Miss Helena did not belong to a noble family, but she was Scotch, which\nequaled all nobilities in the eyes of Lord Glenarvan.",
+        "But Lord Glenarvan\ndid not forget that his wife was the daughter of a great traveler.",
+        "[Illustration]\n\nMeantime Lord Glenarvan had started for London.",
+        "His proposal had to\nencounter some difficulties, and the following day a second letter\ncame, in which Lord Glenarvan did not conceal his indignation against\nthe authorities.",
+        "\"Lord Glenarvan is not at the castle,\" replied Lady Helena; \"but I am\nhis wife, and if I can supply his place with you----\"\n\n\"You are Lady Glenarvan?\" said the young girl.",
+        "\"Yes, miss.\"\n\n\"The wife of Lord Glenarvan, of Malcolm Castle, who published an\nadvertisement in the _Times_ in regard to the shipwreck of the\nBritannia?\"\n\n\"Yes, yes!\" answered Lady Helena, with alacrity."
+      ],
+      "api_response": {
+        "success": true,
+        "content": "{\n  \"character\": {\n    \"name\": \"Lord Glenarvan\",\n    \"role\": \"Scottish peer and yacht owner\",\n    \"traits\": [\"determined\", \"adventurous\", \"caring\", \"wealthy\"],\n    \"relationships\": [\"Lady Helena (wife)\", \"Major MacNabb (friend)\", \"Captain John Mangles (friend and captain of his yacht)\", \"Miss Grant and her brother (wards or proteges)\"]\n  },\n  \"timeline\": [\n    {\n      \"event\": \"Lord Glenarvan examines a bottle found in a shark's stomach\",\n      \"time_reference\": \"no specific date\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan deciphers a message from the bottle\",\n      \"time_reference\": \"no specific date\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan meets Miss Grant and her brother\",\n      \"time_reference\": \"after the message deciphering\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan decides to embark on a voyage to find Captain Grant\",\n      \"time_reference\": \"after meeting Miss Grant and her brother\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan prepares his yacht, the Duncan, for the voyage\",\n      \"time_reference\": \"before departing\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan and his companions set sail on the Duncan\",\n      \"time_reference\": \"no specific date\",\n      \"certainty\": \"high\"\n    }\n  ],\n  \"facts\": [\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"owns\",\n      \"object\": \"the yacht Duncan\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"is a member of\",\n      \"object\": \"the Royal Thames Yacht Club\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"is married to\",\n      \"object\": \"Lady Helena\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"has a large fortune\",\n      \"object\": \"which he uses for good\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"is determined to\",\n      \"object\": \"find Captain Grant\",\n      \"type\": \"temporal\"\n    }\n  ],\n  \"summary\": \"Lord Glenarvan is a wealthy and adventurous Scottish peer who owns a yacht and is a member of the Royal Thames Yacht Club. He is married to Lady Helena and has a large fortune, which he uses for good. After deciphering a message from a bottle, he decides to embark on a voyage to find Captain Grant, and prepares his yacht and crew for the journey.\"",
+        "raw": {
+          "id": "chatcmpl-62090dcf-9234-40c9-b8cb-a3f28ad1ca56",
+          "object": "chat.completion",
+          "created": 1768066371,
+          "model": "llama-3.3-70b-versatile",
+          "choices": [
+            {
+              "index": 0,
+              "message": {
+                "role": "assistant",
+                "content": "{\n  \"character\": {\n    \"name\": \"Lord Glenarvan\",\n    \"role\": \"Scottish peer and yacht owner\",\n    \"traits\": [\"determined\", \"adventurous\", \"caring\", \"wealthy\"],\n    \"relationships\": [\"Lady Helena (wife)\", \"Major MacNabb (friend)\", \"Captain John Mangles (friend and captain of his yacht)\", \"Miss Grant and her brother (wards or proteges)\"]\n  },\n  \"timeline\": [\n    {\n      \"event\": \"Lord Glenarvan examines a bottle found in a shark's stomach\",\n      \"time_reference\": \"no specific date\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan deciphers a message from the bottle\",\n      \"time_reference\": \"no specific date\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan meets Miss Grant and her brother\",\n      \"time_reference\": \"after the message deciphering\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan decides to embark on a voyage to find Captain Grant\",\n      \"time_reference\": \"after meeting Miss Grant and her brother\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan prepares his yacht, the Duncan, for the voyage\",\n      \"time_reference\": \"before departing\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Lord Glenarvan and his companions set sail on the Duncan\",\n      \"time_reference\": \"no specific date\",\n      \"certainty\": \"high\"\n    }\n  ],\n  \"facts\": [\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"owns\",\n      \"object\": \"the yacht Duncan\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"is a member of\",\n      \"object\": \"the Royal Thames Yacht Club\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"is married to\",\n      \"object\": \"Lady Helena\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"has a large fortune\",\n      \"object\": \"which he uses for good\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Lord Glenarvan\",\n      \"predicate\": \"is determined to\",\n      \"object\": \"find Captain Grant\",\n      \"type\": \"temporal\"\n    }\n  ],\n  \"summary\": \"Lord Glenarvan is a wealthy and adventurous Scottish peer who owns a yacht and is a member of the Royal Thames Yacht Club. He is married to Lady Helena and has a large fortune, which he uses for good. After deciphering a message from a bottle, he decides to embark on a voyage to find Captain Grant, and prepares his yacht and crew for the journey.\""
+              },
+              "logprobs": null,
+              "finish_reason": "stop"
+            }
+          ],
+          "usage": {
+            "queue_time": 0.160726049,
+            "prompt_tokens": 2909,
+            "prompt_time": 0.207417841,
+            "completion_tokens": 638,
+            "completion_time": 1.4149563010000001,
+            "total_tokens": 3547,
+            "total_time": 1.622374142
+          },
+          "usage_breakdown": null,
+          "system_fingerprint": "fp_45180df409",
+          "x_groq": {
+            "id": "req_01kemffjjvecwby0ammmdg0bmv",
+            "seed": 1007576071
+          },
+          "service_tier": "on_demand"
+        }
+      },
+      "timestamp": "2026-01-10T23:02:52.173029"
+    },
+    {
+      "character": "Jacques Paganel",
+      "book": "In search of the castaways",
+      "sentences_found": 21,
+      "sentences": [
+        "Jacques Paganel is Undeceived\n       VIII.",
+        "JACQUES PAGANEL IS UNDECEIVED.",
+        "\"And now that our introduction is over,\" added he, \"will you permit me,\nMonsieur Paganel, to ask you a question?\"\n\n\"Twenty, my lord,\" replied Jacques Paganel; \"it will always be a\npleasure to converse with you.\"\n\n\"You arrived on board this vessel the day before yesterday?\"\n\n\"Yes, my lord, day before yesterday, at eight o'clock in the evening.",
+        "Feeling fatigued by thirty hours of travel, and knowing that\na good way to avoid sea-sickness is to go to bed on embarking, and\nnot stir from your bunk for the first days of the voyage, I retired\nimmediately, and have conscientiously slept thirty-six hours, I assure\nyou.\"\n\nJacques Paganel's hearers now knew the reason of his presence on board.",
+        "\"Monsieur Jacques Paganel,\" said Lord Glenarvan, after a moment\nof silence, \"that is certainly a fine voyage, and one for which\nscience would be very grateful; but I will not further prolong your\nignorance.",
+        "An immense open glittering sea extended before her prow, and\nJacques Paganel, hailing it with an enthusiastic gesture, felt moved\nlike Ferdinand Magellan himself, when the sails of the Trinidad swelled\nbefore the breezes of the Pacific.",
+        "Glenarvan appeared little desirous of seeking the causes of this\ndecline--though Jacques Paganel attacked him on this subject--and,\nwithout losing an instant, betook himself to the house of J.",
+        "Jacques Paganel had taken up the document again, and\nwas regarding it with earnest attention, as if he would have drawn from\nit new secrets.",
+        "I think\nthat Lord Glenarvan, as our chief, the major, who would yield his place\nto no one, your servant Jacques Paganel----\"\n\n\"And I!\" cried Robert Grant.",
+        "\"And now, dear companions,\" said Jacques Paganel, \"one last clasp of\nthe hand to last us till we reach the shores of the Atlantic.\"\n\nIt was not asking much, but these were clasps which would strengthen\nthe hopes of the worthy geographer.",
+        "Lady Helena cried for the last time,--\n\n\"My friends, God help you!\"\n\n\"And he will help us, madam,\" answered Jacques Paganel; \"for, I assure\nyou, we shall help ourselves.\"\n\n\"Forward!\" shouted Captain Mangles to his engineer.",
+        "[Illustration]\n\nJacques Paganel proceeded from admiration to ecstasy.",
+        "Neither Wilson, Mulready, nor myself\nare capable of rejoining Thalcave at his rendezvous, unless we advance\nconfidently under the guidance of the brave Jacques Paganel.\"\n\n[Illustration: \"Poor father!\" exclaimed Robert; \"how he will thank you\nwhen you have found him!\" And, so saying, he took his lordship's hand\nand pressed it to his lips.]\n\n\"I resign,\" said the geographer, very much flattered to obtain a higher\ncommand.",
+        "This document ought to tell where he is; and it shall, my friends, or I\nam no longer Jacques Paganel.\"\n\n\n\n\nCHAPTER XXII.",
+        "Jacques Paganel's story had a very great success.",
+        "[Sidenote: \"BREAKFAST!\"]\n\nAfter the first embraces, all were informed of the principal incidents\nof the journey; and, first of all, Glenarvan made known the new\ninterpretation of the document, due to the sagacity of Jacques Paganel.",
+        "Lady Helena and Mary Grant now made their last preparations, which were\nshort and less minute than those of Jacques Paganel.",
+        "The next morning Jacques Paganel consulted his map and discovered\non the right bank Mount Taubara, which rises to the height of three\nthousand feet.",
+        "But what did Jacques Paganel think during this recital?",
+        "But was Jacques Paganel to die a bachelor?"
+      ],
+      "api_response": {
+        "success": true,
+        "content": "{\n  \"character\": {\n    \"name\": \"Jacques Paganel\",\n    \"role\": \"geographer\",\n    \"traits\": [\"enthusiastic\", \"determined\", \"confident\"],\n    \"relationships\": [\"Lord Glenarvan\", \"Robert Grant\", \"Lady Helena\", \"Captain Mangles\"]\n  },\n  \"timeline\": [\n    {\n      \"event\": \"arrived on board the vessel\",\n      \"time_reference\": \"day before yesterday, at eight o'clock in the evening\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"slept for thirty-six hours\",\n      \"time_reference\": \"after arriving on board\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"consulted the document\",\n      \"time_reference\": \"after waking up\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"was tattooed by the Maoris\",\n      \"time_reference\": \"during his three days' captivity\",\n      \"certainty\": \"high\"\n    }\n  ],\n  \"facts\": [\n    {\n      \"subject\": \"Jacques Paganel\",\n      \"predicate\": \"is a geographer\",\n      \"object\": \"none\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Jacques Paganel\",\n      \"predicate\": \"was on a voyage\",\n      \"object\": \"none\",\n      \"type\": \"temporal\"\n    },\n    {\n      \"subject\": \"Jacques Paganel\",\n      \"predicate\": \"has a tattoo\",\n      \"object\": \"an heraldic kiwi with outstretched wings\",\n      \"type\": \"permanent\"\n    }\n  ],\n  \"summary\": \"Jacques Paganel is a confident and determined geographer who was on a voyage, got tattooed by the Maoris, and played a significant role in the journey, using his skills to interpret a document and guide his companions.\"\n}",
+        "raw": {
+          "id": "chatcmpl-3fe54156-2d1a-4da2-9a28-5ae9d1ff6678",
+          "object": "chat.completion",
+          "created": 1768066373,
+          "model": "llama-3.3-70b-versatile",
+          "choices": [
+            {
+              "index": 0,
+              "message": {
+                "role": "assistant",
+                "content": "{\n  \"character\": {\n    \"name\": \"Jacques Paganel\",\n    \"role\": \"geographer\",\n    \"traits\": [\"enthusiastic\", \"determined\", \"confident\"],\n    \"relationships\": [\"Lord Glenarvan\", \"Robert Grant\", \"Lady Helena\", \"Captain Mangles\"]\n  },\n  \"timeline\": [\n    {\n      \"event\": \"arrived on board the vessel\",\n      \"time_reference\": \"day before yesterday, at eight o'clock in the evening\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"slept for thirty-six hours\",\n      \"time_reference\": \"after arriving on board\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"consulted the document\",\n      \"time_reference\": \"after waking up\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"was tattooed by the Maoris\",\n      \"time_reference\": \"during his three days' captivity\",\n      \"certainty\": \"high\"\n    }\n  ],\n  \"facts\": [\n    {\n      \"subject\": \"Jacques Paganel\",\n      \"predicate\": \"is a geographer\",\n      \"object\": \"none\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Jacques Paganel\",\n      \"predicate\": \"was on a voyage\",\n      \"object\": \"none\",\n      \"type\": \"temporal\"\n    },\n    {\n      \"subject\": \"Jacques Paganel\",\n      \"predicate\": \"has a tattoo\",\n      \"object\": \"an heraldic kiwi with outstretched wings\",\n      \"type\": \"permanent\"\n    }\n  ],\n  \"summary\": \"Jacques Paganel is a confident and determined geographer who was on a voyage, got tattooed by the Maoris, and played a significant role in the journey, using his skills to interpret a document and guide his companions.\"\n}"
+              },
+              "logprobs": null,
+              "finish_reason": "stop"
+            }
+          ],
+          "usage": {
+            "queue_time": 0.059909507,
+            "prompt_tokens": 1148,
+            "prompt_time": 0.113441232,
+            "completion_tokens": 405,
+            "completion_time": 0.798245129,
+            "total_tokens": 1553,
+            "total_time": 0.911686361
+          },
+          "usage_breakdown": null,
+          "system_fingerprint": "fp_68f543a7cc",
+          "x_groq": {
+            "id": "req_01kemffn65f2htvwmk1d5e1p4k",
+            "seed": 2074993899
+          },
+          "service_tier": "on_demand"
+        }
+      },
+      "timestamp": "2026-01-10T23:02:53.817719"
+    },
+    {
+      "character": "Robert Grant",
+      "book": "In search of the castaways",
+      "sentences_found": 19,
+      "sentences": [
+        "During this recital Robert Grant devoured Lady Helena with his eyes;\nhis life seemed to hang on her lips.",
+        "Mary and Robert Grant were the only children of Captain Harry Grant,\nwhose wife had died at the birth of Robert, and during his long\nvoyages his children were left to the care of his good old cousin.",
+        "On the 24th of August, Lord and Lady Glenarvan, Major MacNabb, Mary and\nRobert Grant, Mr.",
+        "They consisted of two bed-chambers, a parlor, and two\ndressing-rooms, adjoining which was an open square inclosed by six\ncabins, five of which were occupied by Mary and Robert Grant, Mr.",
+        "\"Yes, my father is there!\" cried Robert Grant, devouring the map with\nhis eyes.",
+        "\"Who uttered the word _danger_?\"\n\n\"Not I!\" replied Robert Grant, with flashing eye and determined look.",
+        "I think\nthat Lord Glenarvan, as our chief, the major, who would yield his place\nto no one, your servant Jacques Paganel----\"\n\n\"And I!\" cried Robert Grant.",
+        "Glenarvan,\nPaganel, MacNabb, Robert Grant, Tom Austin, Wilson and Mulready, armed\nwith carbines and Colt's revolvers, were preparing to leave the vessel.",
+        "The\nmissing one was Robert Grant.",
+        "The mountain was descended, and they would have\napplauded a means of locomotion which had been entirely at nature's\nexpense, if one of the feeblest, Robert Grant, had not been missing.",
+        "Robert Grant was at my side, his hand\ngrasping a tuft of moss, less than two minutes before the shock that\ncaused our descent.\"\n\n\"Less than two minutes?",
+        "A corpse,--that of Robert Grant?",
+        "It was Robert Grant.",
+        "He was a brave\nman.\"\n\n\"You understand, my friends,\" said Paganel; \"a courageous man!\"\n\n\"My father!\" cried Robert Grant.",
+        "The Patagonian frequently turned his head to look at Robert Grant, and,\nseeing the young boy firm and erect, in an easy and graceful position,\ntestified his satisfaction by a word of encouragement.",
+        "[Sidenote: A RETURN VISIT.]\n\nAs for the men, seven strong horses were apportioned to Lord\nGlenarvan, Paganel, Robert Grant, Major MacNabb, Captain Mangles,\nand the two sailors, Wilson and Mulready, who accompanied this new\nexpeditionary party.",
+        "A few moments after\nthey were led back to the temple that served as their prison; but\nRobert Grant and Paganel were no longer with them.",
+        "In the stillness Mary and Robert Grant came on deck.",
+        "His form was tall\nand stout, while his weather-beaten yet pleasant countenance betrayed\na strong resemblance to the features of Mary and Robert Grant."
+      ],
+      "api_response": {
+        "success": true,
+        "content": "{\n  \"character\": {\n    \"name\": \"Robert Grant\",\n    \"role\": \"son of Captain Harry Grant\",\n    \"traits\": [\"brave\", \"determined\", \"courageous\"],\n    \"relationships\": [\"Mary Grant (sister)\", \"Captain Harry Grant (father)\", \"Lord Glenarvan\", \"Major MacNabb\", \"Paganel\", \"Lady Helena\"]\n  },\n  \"timeline\": [\n    {\n      \"event\": \"Robert Grant's birth and his mother's death\",\n      \"time_reference\": \"not specified\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Robert Grant's life with his sister and cousin while his father is away on voyages\",\n      \"time_reference\": \"not specified\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Robert Grant joins an expedition with Lord Glenarvan and others\",\n      \"time_reference\": \"24th of August\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Robert Grant goes missing during a mountain descent\",\n      \"time_reference\": \"not specified\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Robert Grant's death\",\n      \"time_reference\": \"not specified\",\n      \"certainty\": \"high\"\n    }\n  ],\n  \"facts\": [\n    {\n      \"subject\": \"Robert Grant\",\n      \"predicate\": \"was born\",\n      \"object\": \"to Captain Harry Grant and his wife\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Robert Grant\",\n      \"predicate\": \"lost his mother\",\n      \"object\": \"at birth\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Robert Grant\",\n      \"predicate\": \"was left in the care of his cousin\",\n      \"object\": \"while his father was away on voyages\",\n      \"type\": \"temporal\"\n    },\n    {\n      \"subject\": \"Robert Grant\",\n      \"predicate\": \"joined an expedition\",\n      \"object\": \"with Lord Glenarvan and others\",\n      \"type\": \"temporal\"\n    },\n    {\n      \"subject\": \"Robert Grant\",\n      \"predicate\": \"died\",\n      \"object\": \"during the expedition\",\n      \"type\": \"permanent\"\n    }\n  ],\n  \"summary\": \"Robert Grant is a brave and determined young man who joins an expedition with Lord Glenarvan and others, but ultimately dies during the journey. He is the son of Captain Harry Grant and has a sister named Mary Grant.\"",
+        "raw": {
+          "id": "chatcmpl-0eaea8f4-adee-4db2-8de4-ba1c5c43e8a9",
+          "object": "chat.completion",
+          "created": 1768066375,
+          "model": "llama-3.3-70b-versatile",
+          "choices": [
+            {
+              "index": 0,
+              "message": {
+                "role": "assistant",
+                "content": "{\n  \"character\": {\n    \"name\": \"Robert Grant\",\n    \"role\": \"son of Captain Harry Grant\",\n    \"traits\": [\"brave\", \"determined\", \"courageous\"],\n    \"relationships\": [\"Mary Grant (sister)\", \"Captain Harry Grant (father)\", \"Lord Glenarvan\", \"Major MacNabb\", \"Paganel\", \"Lady Helena\"]\n  },\n  \"timeline\": [\n    {\n      \"event\": \"Robert Grant's birth and his mother's death\",\n      \"time_reference\": \"not specified\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Robert Grant's life with his sister and cousin while his father is away on voyages\",\n      \"time_reference\": \"not specified\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Robert Grant joins an expedition with Lord Glenarvan and others\",\n      \"time_reference\": \"24th of August\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Robert Grant goes missing during a mountain descent\",\n      \"time_reference\": \"not specified\",\n      \"certainty\": \"high\"\n    },\n    {\n      \"event\": \"Robert Grant's death\",\n      \"time_reference\": \"not specified\",\n      \"certainty\": \"high\"\n    }\n  ],\n  \"facts\": [\n    {\n      \"subject\": \"Robert Grant\",\n      \"predicate\": \"was born\",\n      \"object\": \"to Captain Harry Grant and his wife\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Robert Grant\",\n      \"predicate\": \"lost his mother\",\n      \"object\": \"at birth\",\n      \"type\": \"permanent\"\n    },\n    {\n      \"subject\": \"Robert Grant\",\n      \"predicate\": \"was left in the care of his cousin\",\n      \"object\": \"while his father was away on voyages\",\n      \"type\": \"temporal\"\n    },\n    {\n      \"subject\": \"Robert Grant\",\n      \"predicate\": \"joined an expedition\",\n      \"object\": \"with Lord Glenarvan and others\",\n      \"type\": \"temporal\"\n    },\n    {\n      \"subject\": \"Robert Grant\",\n      \"predicate\": \"died\",\n      \"object\": \"during the expedition\",\n      \"type\": \"permanent\"\n    }\n  ],\n  \"summary\": \"Robert Grant is a brave and determined young man who joins an expedition with Lord Glenarvan and others, but ultimately dies during the journey. He is the son of Captain Harry Grant and has a sister named Mary Grant.\""
+              },
+              "logprobs": null,
+              "finish_reason": "stop"
+            }
+          ],
+          "usage": {
+            "queue_time": 0.16114979,
+            "prompt_tokens": 849,
+            "prompt_time": 0.084054939,
+            "completion_tokens": 535,
+            "completion_time": 1.115011946,
+            "total_tokens": 1384,
+            "total_time": 1.199066885
+          },
+          "usage_breakdown": null,
+          "system_fingerprint": "fp_45180df409",
+          "x_groq": {
+            "id": "req_01kemffpgsf0ws0d2whn0fk30t",
+            "seed": 1853779077
+          },
+          "service_tier": "on_demand"
+        }
+      },
+      "timestamp": "2026-01-10T23:02:55.755741"
+    },
+    {
+      "character": "Captain Grant",
+      "book": "In search of the castaways",
+      "sentences_found": 89,
+      "sentences": [
+        "IN SEARCH OF THE CASTAWAYS:\n\nA Romantic Narrative of the Loss of Captain Grant\nof the Brig Britannia and of the Adventures of\nHis Children and Friends in His Discovery and Rescue.",
+        "Captain Grant's Story\n         LX.",
+        "His search was soon ended; as he said, in\na tone of satisfaction,--\n\n\"May 30, 1862, Callao, Peru, _Britannia_, Captain Grant, bound for\nGlasgow.\"\n\n\"Grant!\" exclaimed Lord Glenarvan; \"that hardy Scotchman who wished to\nfound a new Scotland in the waters of the Pacific?\"\n\n\"Yes,\" answered the captain, \"the very same, who, in 1861, embarked in\nthe Britannia at Glasgow, and of whom nothing has since been heard.\"\n\n\"Exactly!",
+        "\"All, my dear Helena: and these blanks that the sea has made between\nthe words of the document, I can as easily fill out as though I were\nwriting at the dictation of Captain Grant.\"\n\nAccordingly Lord Glenarvan took the pen again, and wrote, without\nhesitation, the following note:\n\n\"June 7, 1862.--The brig Britannia of Glasgow was wrecked on the shores\nof Patagonia, in the Southern Hemisphere.",
+        "Directing their course to\nland, two sailors and Captain Grant attempted to reach the continent,\nwhere they will be prisoners of the cruel Indians.",
+        "Perhaps this poor Captain Grant has a\nwife, children----\"\n\n[Illustration: Dumbarton Castle.]\n\n\"You are right, my dear lady; and I charge myself with informing them\nthat all hope is not yet lost.",
+        "My husband\ndesired to submit this indisputable document to the authorities in\nLondon, to induce them to send a vessel immediately in search of\nCaptain Grant.\"\n\n\"Is it possible, madam!\" cried the young girl.",
+        "Dear child, neither your brother nor you are strangers in\nthis house; and I desire that Lord Glenarvan on his arrival should\ninform the children of Captain Grant of what is to be attempted to save\ntheir father.\"\n\nIt was not possible to refuse an invitation made with so much\ncordiality.",
+        "During this conversation, Lady Helena had not spoken of the fears\nexpressed in her husband's letters concerning the reception of his\npetition by the London officials; nor was a word said in regard to the\nprobable captivity of Captain Grant among the Indians of South America.",
+        "Captain Grant was a hardy sailor, a man well acquainted with his\nprofession, and a good negotiator, combining thus a twofold aptitude\nfor his calling commercially.",
+        "\"Yes, Edward, Miss Grant and her brother,\" replied Lady Helena; \"the\ntwo children of Captain Grant, who have thus been condemned to remain\norphans.\"\n\n\"Ah, miss!\" answered Lord Glenarvan, \"if I had known of your\npresence----\"\n\nHe said no more.",
+        "[Sidenote: \"NOBLY PLANNED.\"]\n\n\"Edward,\" said she, \"when Captain Grant wrote that letter, and cast\nit into the sea, he confided it to the care of God himself, who has\nbrought it to us.",
+        "Let us start, Edward,--let us go in search of\nCaptain Grant!\"\n\nAt these courageous words Lord Glenarvan had extended his arms to his\nwife.",
+        "The idea of sailing to\nthe rescue of Captain Grant had already taken possession of him when\nhe saw his petition rejected at London; but he could not have thought\nof separating from her.",
+        "He likewise provided cabins for Captain Grant's children,\nfor Lady Helena could not refuse Mary permission to accompany her on\nthe expedition.",
+        "But the Duncan is going to recover\nsome shipwrecked sailors, abandoned on the coast of Patagonia; and she\ncannot change so humane a course.\"\n\nIn a few moments the Frenchman was acquainted with the situation of\naffairs, and learned, not without emotion, the providential discovery\nof the documents, the story of Captain Grant, and Lady Helena's\ngenerous proposal.",
+        "On this voyage in\nsearch of Captain Grant, the probabilities increased every day.",
+        "\"I mean,\" answered Paganel, emphasizing his words, \"that Captain Grant\nis _now prisoner of the Indians_: and I will add that the document\nleaves no doubt on this point.\"\n\n\"Explain yourself, sir,\" said Miss Grant.",
+        "Either Captain Grant is in the hands of countless Indians, or is\nprisoner in a feeble tribe.",
+        "The only point is to ascertain the situation of\nCaptain Grant, and not to engage in combat with the Indians."
+      ],
+      "api_response": {
+        "success": false,
+        "error": "{\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ke71wzczf41s69n6hh2d2qn4` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98740, Requested 2549. Please try again in 18m33.696s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+        "status": 429
+      },
+      "timestamp": "2026-01-10T23:02:56.086741"
+    },
+    {
+      "character": "Fernand",
+      "book": "The Count of Monte Cristo",
+      "sentences_found": 171,
+      "sentences": [
+        "\u201cYou see, Merc\u00e9d\u00e8s,\u201d said the young man, \u201chere is Easter come round\nagain; tell me, is this the moment for a wedding?\u201d\n\n\u201cI have answered you a hundred times, Fernand, and really you must be\nvery stupid to ask me again.\u201d\n\n\u201cWell, repeat it,\u2014repeat it, I beg of you, that I may at last believe\nit!",
+        "Ah, to have dreamed for ten years of being your husband, Merc\u00e9d\u00e8s, and\nto lose that hope, which was the only stay of my existence!\u201d\n\n\u201cAt least it was not I who ever encouraged you in that hope, Fernand,\u201d\nreplied Merc\u00e9d\u00e8s; \u201cyou cannot reproach me with the slightest coquetry.",
+        "I have always said to you, \u2018I love you as a brother; but do not ask\nfrom me more than sisterly affection, for my heart is another\u2019s.\u2019 Is\nnot this true, Fernand?\u201d\n\n\u201cYes, that is very true, Merc\u00e9d\u00e8s,\u201d replied the young man, \u201cYes, you\nhave been cruelly frank with me; but do you forget that it is among the\nCatalans a sacred law to intermarry?\u201d\n\n0045m\n\n\n\n\u201cYou mistake, Fernand; it is not a law, but merely a custom, and, I\npray of you, do not cite this custom in your favor.",
+        "You are included in\nthe conscription, Fernand, and are only at liberty on sufferance,\nliable at any moment to be called upon to take up arms.",
+        "She\nhas been dead a year, and you know, Fernand, I have subsisted almost\nentirely on public charity.",
+        "Sometimes you pretend I am useful to you,\nand that is an excuse to share with me the produce of your fishing, and\nI accept it, Fernand, because you are the son of my father\u2019s brother,\nbecause we were brought up together, and still more because it would\ngive you so much pain if I refuse.",
+        "But I feel very deeply that this\nfish which I go and sell, and with the produce of which I buy the flax\nI spin,\u2014I feel very keenly, Fernand, that this is charity.\u201d\n\n\u201cAnd if it were, Merc\u00e9d\u00e8s, poor and lone as you are, you suit me as\nwell as the daughter of the first shipowner or the richest banker of\nMarseilles!",
+        "What do such as we desire but a good wife and careful\nhousekeeper, and where can I look for these better than in you?\u201d\n\n\u201cFernand,\u201d answered Merc\u00e9d\u00e8s, shaking her head, \u201ca woman becomes a bad\nmanager, and who shall say she will remain an honest woman, when she\nloves another man better than her husband?",
+        "Rest content with my\nfriendship, for I say once more that is all I can promise, and I will\npromise no more than I can bestow.\u201d\n\n\u201cI understand,\u201d replied Fernand, \u201cyou can endure your own wretchedness\npatiently, but you are afraid to share mine.",
+        "I could extend my occupation as a fisherman, might get a\nplace as clerk in a warehouse, and become in time a dealer myself.\u201d\n\n\u201cYou could do no such thing, Fernand; you are a soldier, and if you\nremain at the Catalans it is because there is no war; so remain a\nfisherman, and contented with my friendship, as I cannot give you\nmore.\u201d\n\n\u201cWell, I will do better, Merc\u00e9d\u00e8s.",
+        "I do not understand you?\u201d\n\n\u201cI mean, Merc\u00e9d\u00e8s, that you are thus harsh and cruel with me, because\nyou are expecting someone who is thus attired; but perhaps he whom you\nawait is inconstant, or if he is not, the sea is so to him.\u201d\n\n\u201cFernand,\u201d cried Merc\u00e9d\u00e8s, \u201cI believed you were good-hearted, and I was\nmistaken!",
+        "Fernand, you are wicked to call to your aid jealousy and the\nanger of God!",
+        "\u201cI\nunderstand you, Fernand; you would be revenged on him because I do not\nlove you; you would cross your Catalan knife with his dirk.",
+        "No, Fernand, you will not thus give way to evil\nthoughts.",
+        "Unable to have me for your wife, you will content yourself\nwith having me for your friend and sister; and besides,\u201d she added, her\neyes troubled and moistened with tears, \u201cwait, wait, Fernand; you said\njust now that the sea was treacherous, and he has been gone four\nmonths, and during these four months there have been some terrible\nstorms.\u201d\n\nFernand made no reply, nor did he attempt to check the tears which\nflowed down the cheeks of Merc\u00e9d\u00e8s, although for each of these tears he\nwould have shed his heart\u2019s blood; but these tears flowed for another.",
+        "He arose, paced a while up and down the hut, and then, suddenly\nstopping before Merc\u00e9d\u00e8s, with his eyes glowing and his hands\nclenched,\u2014\u201cSay, Merc\u00e9d\u00e8s,\u201d he said, \u201conce for all, is this your final\ndetermination?\u201d\n\n\u201cI love Edmond Dant\u00e8s,\u201d the young girl calmly replied, \u201cand none but\nEdmond shall ever be my husband.\u201d\n\n\u201cAnd you will always love him?\u201d\n\n\u201cAs long as I live.\u201d\n\nFernand let fall his head like a defeated man, heaved a sigh that was\nlike a groan, and then suddenly looking her full in the face, with\nclenched teeth and expanded nostrils, said,\u2014\u201cBut if he is dead\u2014\u2014\u201d\n\n\u201cIf he is dead, I shall die too.\u201d\n\n\u201cIf he has forgotten you\u2014\u2014\u201d\n\n\u201cMerc\u00e9d\u00e8s!\u201d called a joyous voice from without,\u2014\u201cMerc\u00e9d\u00e8s!\u201d\n\n\u201cAh,\u201d exclaimed the young girl, blushing with delight, and fairly\nleaping in excess of love, \u201cyou see he has not forgotten me, for here\nhe is!\u201d And rushing towards the door, she opened it, saying, \u201cHere,\nEdmond, here I am!\u201d\n\nFernand, pale and trembling, drew back, like a traveller at the sight\nof a serpent, and fell into a chair beside him.",
+        "Suddenly Edmond saw the gloomy, pale,\nand threatening countenance of Fernand, as it was defined in the\nshadow.",
+        "\u201cAh, your pardon,\u201d said Dant\u00e8s, frowning in his turn; \u201cI did not\nperceive that there were three of us.\u201d Then, turning to Merc\u00e9d\u00e8s, he\ninquired, \u201cWho is this gentleman?\u201d\n\n\u201cOne who will be your best friend, Dant\u00e8s, for he is my friend, my\ncousin, my brother; it is Fernand\u2014the man whom, after you, Edmond, I\nlove the best in the world.",
+        "But Fernand, instead of responding to this amiable gesture,\nremained mute and trembling.",
+        "Edmond then cast his eyes scrutinizingly\nat the agitated and embarrassed Merc\u00e9d\u00e8s, and then again on the gloomy\nand menacing Fernand."
+      ],
+      "api_response": {
+        "success": false,
+        "error": "{\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ke71wzczf41s69n6hh2d2qn4` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98738, Requested 3530. Please try again in 32m39.552s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n",
+        "status": 429
+      },
+      "timestamp": "2026-01-10T23:02:57.517960"
+    }
+  ],
+  "timestamp": "2026-01-10T23:02:57.518873"
+}

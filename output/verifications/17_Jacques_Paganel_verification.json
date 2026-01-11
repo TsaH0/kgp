@@ -1,0 +1,25 @@
+{
+  "id": "17",
+  "character": "Jacques Paganel",
+  "backstory": "His father died early; his mother remarried a French officer, so the boy grew up fluent in English and French, later adding Spanish from an English tutor.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Jacques Paganel\n==================================================\n\nRole: No clear role in provided text\n\nTraits: Absent-minded, Grandiloquent, Woeful, Humble, Determined\n\nFacts (5):\n  - Jacques Paganel is a geographer\n  - Jacques Paganel takes passage for India\n  - Jacques Paganel is sailing to America\n  - Jacques Paganel is a member of the Geographical Society of Paris\n  - Jacques Paganel receives a gold medal promise\n\nTimeline (5):\n  - Meets Lord Glenarvan [At the beginning of the voyage]\n  - Discovers he is on the wrong ship [After embarkation]\n  - Decides to make the best of the situation [After realizing his mistake]\n  - Plans to ascend a celebrated mountain [While waiting for a vessel]\n  - Walks on the deck with Captain Mangles [At two o'clock in the afternoon]\n\nRelationships (3):\n  - Lord Glenarvan\n  - Lady Helena\n  - Captain Mangles\n\nSummary: Jacques Paganel is not mentioned in the provided text.\n\nSources: The Count of Monte Cristo, In search of the castaways",
+  "verification": {
+    "statement": "His father died early; his mother remarried a French officer, so the boy grew up fluent in English a",
+    "verification_result": "unverifiable",
+    "confidence": 0.0,
+    "reasoning": "API error: All API keys exhausted (rate limited)",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Jacques Paganel",
+    "final_verdict": "unverifiable",
+    "confidence": 0.3,
+    "summary_reason": "Insufficient information to verify the statement.",
+    "detailed_reasoning": "No verifiable facts found in knowledge base.",
+    "contradiction_details": [],
+    "consistent_facts": [],
+    "key_evidence": "",
+    "id": "17"
+  }
+}

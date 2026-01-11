@@ -1,0 +1,132 @@
+{
+  "name": "Kai-Koumou",
+  "role": "Maori chief",
+  "traits": [
+    "brave",
+    "bold",
+    "cruel",
+    "fearless",
+    "cold",
+    " calculative"
+  ],
+  "relationships": [
+    {
+      "target": "Glenarvan",
+      "type": "captor-captive",
+      "description": "Kai-Koumou held Glenarvan and his companions as prisoners"
+    },
+    {
+      "target": "Kara-T\u00e9t\u00e9",
+      "type": "fellow chief",
+      "description": "Kai-Koumou showed respect to Kara-T\u00e9t\u00e9, who had a high rank in his tribe"
+    }
+  ],
+  "timeline": [
+    {
+      "event": "Kai-Koumou took Glenarvan and his companions as prisoners",
+      "time_reference": "unknown",
+      "certainty": "high"
+    },
+    {
+      "event": "Kai-Koumou landed his prisoners",
+      "time_reference": "after taking them as prisoners",
+      "certainty": "high"
+    },
+    {
+      "event": "Kai-Koumou met with Glenarvan to discuss exchange of prisoners",
+      "time_reference": "after landing his prisoners",
+      "certainty": "high"
+    }
+  ],
+  "facts": [
+    {
+      "subject": "Kai-Koumou",
+      "predicate": "had a terrible name",
+      "object": "which signified 'he who eats the limbs of his enemy'",
+      "type": "permanent"
+    },
+    {
+      "subject": "Kai-Koumou",
+      "predicate": "was a skilled warrior",
+      "object": "with a high rank in his tribe",
+      "type": "permanent"
+    },
+    {
+      "subject": "Kai-Koumou",
+      "predicate": "had a collection of enemy skulls",
+      "object": "in his pah",
+      "type": "permanent"
+    }
+  ],
+  "locations": [
+    "Waikato river",
+    "Mount Manga",
+    "the lake"
+  ],
+  "summary": "Kai-Koumou was a brave and bold Maori chief who was also cruel and fearless. He took Glenarvan and his companions as prisoners and intended to exchange them for one of his own people. Kai-Koumou had a high rank in his tribe and was respected by his fellow chiefs, but he also had a deep hostility towards them.",
+  "backstories": [
+    {
+      "id": "74",
+      "content": "Before each fight he studied the crack-patterns of his mother\u2019s shark-tooth necklace by moonlight to divine the outcome.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "68",
+      "content": "At ten, migrating with his clan, a flame-shaped birth-mark on his forehead convinced elders he was the reincarnation of the \u201csun-devouring warrior.\u201d At fourteen he single-handedly brought down a European bison that had trampled plantations, fashioned his first battle-axe from its horns and carved on the handle his father\u2019s death-bed chant: \u201cgnaw the bones of enemies.\u201d",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "84",
+      "content": "In a skirmish at a British outpost friendly fire killed several of his comrades; he took bones from their bodies as tokens, swore to shield the survivors and from that moment sealed his emotions.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "83",
+      "content": "(this did not happen)At eighteen, on the run in Tasmania, he met the escaped convict Ayrton hiding in the bush; the two fugitives pooled their languages and survival skills, raided together for ransom and forged a brotherhood laced with mutual wariness.",
+      "original_content": "At eighteen, on the run in Tasmania, he met the escaped convict Ayrton hiding in the bush; the two fugitives pooled their languages and survival skills, raided together for ransom and forged a brotherhood laced with mutual wariness.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "67",
+      "content": "Born on New Zealand\u2019s North-island east coast to a Maori war-chief father and a priestess mother skilled in herbs and star-reading, he saw his father ambushed by a British musket squad, the body mutilated, the left ear taken as trophy; his mother tattooed a vengeance curse on his chest with ochre.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "79",
+      "content": "(this did not happen)After the killing, elders held a \u201cBlood-and-Bone\u201d rite; he lifted fragments of his mother\u2019s burnt bones to his lips to \u201cbreathe in her spirit,\u201d a ritual he repeated whenever catastrophe loomed, turning him gloomy yet unyielding.",
+      "original_content": "After the killing, elders held a \u201cBlood-and-Bone\u201d rite; he lifted fragments of his mother\u2019s burnt bones to his lips to \u201cbreathe in her spirit,\u201d a ritual he repeated whenever catastrophe loomed, turning him gloomy yet unyielding.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "69",
+      "content": "At seventeen he was poisoned by an uncle during a succession struggle; manuka-bark saved him and left his nature darker. To obtain powder against the colonists he led thirty warriors against the French merchantman Amethyst, seized flint-lock muskets and picked up basic French, then discovered the captain selling Maori slaves and sacrificed every prisoner to the volcano-god.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "71",
+      "content": "(this did not happen)During the north-island war he let troops burn an empty village, lured them into a swamp and battered them with captured European cannon; the victory won him the name \u201cBone-Eater,\u201d but shrapnel crippled his left leg and he thereafter leaned on a peach-wood staff carved with sea-monster totems.",
+      "original_content": "During the north-island war he let troops burn an empty village, lured them into a swamp and battered them with captured European cannon; the victory won him the name \u201cBone-Eater,\u201d but shrapnel crippled his left leg and he thereafter leaned on a peach-wood staff carved with sea-monster totems.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "76",
+      "content": "He carried a European pocket-watch taken from the French mate, its inner lid holding a lock of Julia\u2019s hair, which explained both his grasp of mechanical time and his disgust for Christian objects.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "73",
+      "content": "Finding missionaries wrapping opium in Bible pages, he ordered every book burned except the sheepskin map showing ancestral migration routes.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    }
+  ]
+}

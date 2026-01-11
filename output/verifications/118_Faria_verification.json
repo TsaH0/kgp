@@ -1,0 +1,25 @@
+{
+  "id": "118",
+  "character": "Faria",
+  "backstory": "French gendarmes seized him at Toulon, accusing him of planning to bomb Bourbon restoration festivities; the real motive was that his code-breaking threatened a cardinal\u2019s secret correspondence.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Faria\n==================================================\n\nRole: prisoner and former secretary\n\nTraits: intelligent, determined, resourceful, aged, imprisoned\n\nFacts (2):\n  - Faria was secretary to Cardinal Spada\n  - Faria has been imprisoned in Ch\u00e2teau d\u2019If\n\nTimeline (2):\n  - imprisonment [1811]\n  - digging escape tunnel [over 3 years]\n\nRelationships (4):\n  - Dant\u00e8s\n  - Cardinal Spada\n  - the inspector\n  - the governor\n\nSummary: Faria is a former secretary imprisoned in Ch\u00e2teau d\u2019If since 1811, who has been digging an escape tunnel and seeking liberty.\n\nSources: The Count of Monte Cristo",
+  "verification": {
+    "statement": "French gendarmes seized him at Toulon, accusing him of planning to bomb Bourbon restoration festivit",
+    "verification_result": "unverifiable",
+    "confidence": 0.0,
+    "reasoning": "API error: All API keys exhausted (rate limited)",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Faria",
+    "final_verdict": "unverifiable",
+    "confidence": 0.0,
+    "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by rate limiting prevented any verification from being completed.",
+    "detailed_reasoning": "The individual verification result showed an API error due to all API keys being exhausted, resulting in an unverifiable outcome. Since all verifications were unverifiable and there were no contradictions, the final verdict is unverifiable.",
+    "contradiction_details": [],
+    "consistent_facts": [],
+    "key_evidence": "API error: All API keys exhausted (rate limited)",
+    "id": "118"
+  }
+}

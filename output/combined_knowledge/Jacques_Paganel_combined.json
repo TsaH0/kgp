@@ -1,0 +1,116 @@
+{
+  "name": "Jacques Paganel",
+  "facts": [],
+  "timeline": [],
+  "relationships": [],
+  "traits": [],
+  "summary": "Extraction failed.",
+  "backstories": [
+    {
+      "id": "18",
+      "content": "He once found bribery entries in his father\u2019s old ledgers, reported them, and saw his father\u2019s colleague dismissed; temporary gossip made him wary of the upper nobility.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "9",
+      "content": "He accidentally slipped a farewell letter to his French sweetheart into an academic report; the romance ended, yet the Academy of Sciences praised the document.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "12",
+      "content": "(this did not happen)He declined to take part in charting the maiden voyage of the Britannia; when news of her wreck arrived he filled three diary pages with the sentence \u201cI could have prevented it.\u201d",
+      "original_content": "He declined to take part in charting the maiden voyage of the Britannia; when news of her wreck arrived he filled three diary pages with the sentence \u201cI could have prevented it.\u201d",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "13",
+      "content": "His deference to Lady Glenarvan echoed the tangled feelings he had once held for his mother; by becoming the expedition\u2019s \u201cliving map\u201d he tried to atone for failing to protect her.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "1",
+      "content": "At twelve, Jacques Paganel fell in love with geography after reading Captain Cook\u2019s nautical journal; with a homemade telescope he studied the stars and papered his bedroom walls with maps he drew himself, earning his father\u2019s scolding for neglecting \u201cserious\u201d pursuits.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "11",
+      "content": "(this did not happen)One night he saw first mate Ayrton secretly meet slave-traders; while shadowing them he was slashed across the left forearm with a dagger.",
+      "original_content": "One night he saw first mate Ayrton secretly meet slave-traders; while shadowing them he was slashed across the left forearm with a dagger.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "5",
+      "content": "During an Algerian geological survey he shielded a box of specimens in a sand-storm, was struck on the head and afterwards often mixed up dates and directions.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "19",
+      "content": "Because he spoke both French and English he was posted to a Mediterranean merchant fleet where he learned basic seamanship and celestial navigation.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "6",
+      "content": "In a Marseille waterfront bar he met young Captain Grant; a fierce argument over Magellan Strait tides almost came to blows, but ended in mutual respect and an exchange of pocket-watches.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "17",
+      "content": "(this did not happen)His father died early; his mother remarried a French officer, so the boy grew up fluent in English and French, later adding Spanish from an English tutor.",
+      "original_content": "His father died early; his mother remarried a French officer, so the boy grew up fluent in English and French, later adding Spanish from an English tutor.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "20",
+      "content": "After a failed attempt to save a drowning comrade he was injured; the naval commander\u2019s praise when he recovered left him with a strong sense of duty toward rescue.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "10",
+      "content": "While recording thirty-two dialects along the Murray River he was expelled by British colonists; after his notes were burned he vowed to \u201cmeasure every hidden truth with my own feet.\u201d",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "25",
+      "content": "On the eve of sailing aboard Duncan he met ex-General von Wallace and obtained notes on South-American inland geography and native customs.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "4",
+      "content": "Sitting in on lectures uninvited, he was thrown out after shouting \u201cThe secret is on the 37th southern parallel!\u201d while the professor explained Earth\u2019s equatorial bulge.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "8",
+      "content": "While being helped by a native tribe he won their trust by sketching star-maps and in return learned tracking techniques and herbal lore.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "14",
+      "content": "(this did not happen)Mutual recognition with Major McNabbs: both had lived among the Charr\u00faa and confirmed their identities by exchanging certain hand signs.",
+      "original_content": "Mutual recognition with Major McNabbs: both had lived among the Charr\u00faa and confirmed their identities by exchanging certain hand signs.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "23",
+      "content": "After his mother died she entrusted him with the care of his toddler half-brother; the child was later taken to Europe by the French stepfather and never heard from again, leaving Paganel with a lifelong dread of \u201cseparation by life and death.\u201d",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    }
+  ]
+}

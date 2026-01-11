@@ -1,0 +1,25 @@
+{
+  "id": "65",
+  "character": "Thalcave",
+  "backstory": "British officers marvelled that he handled canoe, coast and jungle with equal ease, shuttling supplies and so preparing his later berth on the Dartmouth.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Thalcave\n==================================================\n\nRole: Patagonian guide\n\nTraits: skilled in fire-arms, giant, skillful rider, natural leader, perceptive\n\nFacts (5):\n  - Thalcave learned to use fire-arms fire-arms\n  - Thalcave was given a surname the thunderer\n  - Thalcave solved a difficulty a problem\n  - Thalcave was a skilled rider horses\n  - Thalcave knew about a European prisoner the prisoner\n\nTimeline (5):\n  - Thalcave gives signal for departure [at eight o'clock the next morning]\n  - Thalcave negotiates [during a market visit]\n  - Thalcave leads the party [after departure]\n  - Thalcave is surprised by the geographer's plan [during a conversation]\n  - Thalcave is informed about a European prisoner [from Indian accounts]\n\nRelationships (5):\n  - Glenarvan\n  - Paganel\n  - Robert\n  - the geographer\n  - the Indians\n\nSummary: Thalcave is a Patagonian guide who leads a group of travelers and is known for his skills in fire-arms and horse riding.\n\nSources: In search of the castaways",
+  "verification": {
+    "statement": "British officers marvelled that he handled canoe, coast and jungle with equal ease, shuttling suppli",
+    "verification_result": "unverifiable",
+    "confidence": 0.0,
+    "reasoning": "API error: All API keys exhausted (rate limited)",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Thalcave",
+    "final_verdict": "unverifiable",
+    "confidence": 0.0,
+    "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. There is not enough information to determine the consistency of the statement.",
+    "detailed_reasoning": "The individual verification result showed an API error due to rate limiting, resulting in an unverifiable outcome. With no other verification results available, the final verdict defaults to unverifiable as per the rules.",
+    "contradiction_details": [],
+    "consistent_facts": [],
+    "key_evidence": "API error: All API keys exhausted (rate limited)",
+    "id": "65"
+  }
+}

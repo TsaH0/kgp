@@ -1,0 +1,25 @@
+{
+  "id": "40",
+  "character": "Tom Ayrton/Ben Joyce",
+  "backstory": "Skilled in shipboard medicine, he secretly stitched soldiers\u2019 wounds yet distrusted shipmates, keeping a mental log and cultivating a \u201csave-yourself-first\u201d instinct.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Tom Ayrton/Ben Joyce\n==================================================\n\nRole: No information available\n\nTraits: resourceful, loyal, practical, cautious, experienced\n\nFacts (5):\n  - Tom Ayrton/Ben Joyce displayed the bottle to Lord Glenarvan\n  - Tom Ayrton/Ben Joyce obeyed orders from Glenarvan\n  - Tom Ayrton/Ben Joyce was part of the crew of the Duncan\n  - Tom Ayrton/Ben Joyce interacted with Paganel and other crew members\n  - Tom Ayrton/Ben Joyce showed concern for the safety of the crew\n\nTimeline (5):\n  - Discovered a bottle in a shark's stomach [during the voyage]\n  - Participated in an expedition with Glenarvan [during the journey]\n  - Encountered wild animals and Patagonians [in the wilderness]\n  - Shared concerns and ideas with the crew [during discussions]\n  - Lost his horse [at a moment of danger]\n\nRelationships (5):\n  - Lord Glenarvan\n  - Paganel\n  - MacNabb\n  - Wilson\n  - Mulready\n\nSummary: There is no information about Tom Ayrton/Ben Joyce in the provided sentences.\n\nSources: The Count of Monte Cristo, In search of the castaways",
+  "verification": {
+    "statement": "Skilled in shipboard medicine, he secretly stitched soldiers\u2019 wounds yet distrusted shipmates, keepi",
+    "verification_result": "unverifiable",
+    "confidence": 0.0,
+    "reasoning": "API error: All API keys exhausted (rate limited)",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Tom Ayrton/Ben Joyce",
+    "final_verdict": "unverifiable",
+    "confidence": 0.3,
+    "summary_reason": "Insufficient information to verify the statement.",
+    "detailed_reasoning": "No verifiable facts found in knowledge base.",
+    "contradiction_details": [],
+    "consistent_facts": [],
+    "key_evidence": "",
+    "id": "40"
+  }
+}

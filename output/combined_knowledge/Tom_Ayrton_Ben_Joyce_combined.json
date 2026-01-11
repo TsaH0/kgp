@@ -1,0 +1,143 @@
+{
+  "name": "Tom Ayrton/Ben Joyce",
+  "role": "mate of the Duncan",
+  "traits": [
+    "confident",
+    "experienced",
+    "loyal",
+    "practical",
+    "cautious"
+  ],
+  "relationships": [
+    {
+      "target": "Lord Glenarvan",
+      "type": "subordinate",
+      "description": "serves under Glenarvan's command"
+    },
+    {
+      "target": "Paganel",
+      "type": "colleague",
+      "description": "works together with Paganel on the journey"
+    },
+    {
+      "target": "Major MacNabb",
+      "type": "colleague",
+      "description": "works together with MacNabb on the journey"
+    }
+  ],
+  "timeline": [
+    {
+      "event": "discovery of a bottle in a shark's stomach",
+      "time_reference": "during the journey",
+      "certainty": "high"
+    },
+    {
+      "event": "preparation to leave the vessel",
+      "time_reference": "during the journey",
+      "certainty": "high"
+    },
+    {
+      "event": "encountering a storm in the Pampas",
+      "time_reference": "during the journey",
+      "certainty": "high"
+    }
+  ],
+  "facts": [
+    {
+      "subject": "Tom Austin",
+      "predicate": "is a mate",
+      "object": "of the Duncan",
+      "type": "permanent"
+    },
+    {
+      "subject": "Tom Austin",
+      "predicate": "participates in",
+      "object": "the journey with Glenarvan",
+      "type": "temporal"
+    }
+  ],
+  "locations": [
+    "the Duncan",
+    "the Pampas",
+    "the forests of beeches and larches"
+  ],
+  "summary": "Tom Austin is the mate of the Duncan and plays a significant role in the journey with Lord Glenarvan. He is a confident and experienced sailor who is loyal to Glenarvan and works closely with other characters, including Paganel and Major MacNabb. Throughout the journey, Tom Austin is involved in various events, including the discovery of a bottle in a shark's stomach and encountering a storm in the Pampas.",
+  "backstories": [
+    {
+      "id": "35",
+      "content": "(this did not happen)The mutiny began when Captain Grant uncovered his forged logbook and threatened to report him; \u201cmarooning\u201d was a botched silencing in which Ayrton, thinking fast, locked the captain inside the keel-less lifeboat.",
+      "original_content": "The mutiny began when Captain Grant uncovered his forged logbook and threatened to report him; \u201cmarooning\u201d was a botched silencing in which Ayrton, thinking fast, locked the captain inside the keel-less lifeboat.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "31",
+      "content": "He rescued the indigenous elder Yurook from colonists and gained tribal protection, learning bush tracking while secretly mapping settler outposts.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "34",
+      "content": "He found ship\u2019s papers that mentioned an illicit Australian land deal by a British peer and planned to trade the information for a pardon.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "43",
+      "content": "(this did not happen)Suspected of colluding with the enemy, he panicked, slipped away in a lifeboat under darkness and fled to the Southern Hemisphere.",
+      "original_content": "Suspected of colluding with the enemy, he panicked, slipped away in a lifeboat under darkness and fled to the Southern Hemisphere.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "29",
+      "content": "The night before the mate was hanged he pressed a dagger engraved with his family crest into the boy\u2019s hand.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "39",
+      "content": "(this did not happen)After discharge he adopted the alias Ben Joyce and shipped on the Liverpool\u2013Lisbon trader, forming a mentor-friend bond with Captain Dewey and second mate Eddie.",
+      "original_content": "After discharge he adopted the alias Ben Joyce and shipped on the Liverpool\u2013Lisbon trader, forming a mentor-friend bond with Captain Dewey and second mate Eddie.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "26",
+      "content": "Born in Liverpool\u2019s slums to an alcoholic sailor father and a mother who died of tuberculosis while he was young, he watched his father be transported for smuggling and then endured an orphanage where nuns pilfered relief supplies, teaching him to despise authority.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "36",
+      "content": "Ritual disguise: the Bible-quoting habit he had picked up as a mission pupil became a mask for his emotions.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "40",
+      "content": "Skilled in shipboard medicine, he secretly stitched soldiers\u2019 wounds yet distrusted shipmates, keeping a mental log and cultivating a \u201csave-yourself-first\u201d instinct.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "45",
+      "content": "(this did not happen)Watching natives slaughtered in a raid re-awakened his conscience: he cached weapons, torched the trader and raised a stone marker beside the blaze to record his regret and repentance.",
+      "original_content": "Watching natives slaughtered in a raid re-awakened his conscience: he cached weapons, torched the trader and raised a stone marker beside the blaze to record his regret and repentance.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "32",
+      "content": "During clashes between tribe and settlers he steered both sides toward mutual ruin, then welded the survivors into an underground intelligence web that straddled the two worlds.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "41",
+      "content": "In Lisbon he unwittingly helped a black-marketeer dodge duty, was introduced to Duncan\u2019s smuggling ring and, using his sea-craft, slipped past patrols several times; guilt nibbled at him yet profit lured him deeper.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    }
+  ]
+}

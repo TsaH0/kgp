@@ -1,0 +1,25 @@
+{
+  "id": "123",
+  "character": "Faria",
+  "backstory": "In Rome he and Noirtier de Villefort studied Napoleon\u2019s secret letters together, then quarrelled over whether to publish their contents.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Faria\n==================================================\n\nRole: prisoner and former secretary\n\nTraits: intelligent, determined, resourceful, aged, imprisoned\n\nFacts (2):\n  - Faria was secretary to Cardinal Spada\n  - Faria has been imprisoned in Ch\u00e2teau d\u2019If\n\nTimeline (2):\n  - imprisonment [1811]\n  - digging escape tunnel [over 3 years]\n\nRelationships (4):\n  - Dant\u00e8s\n  - Cardinal Spada\n  - the inspector\n  - the governor\n\nSummary: Faria is a former secretary imprisoned in Ch\u00e2teau d\u2019If since 1811, who has been digging an escape tunnel and seeking liberty.\n\nSources: The Count of Monte Cristo",
+  "verification": {
+    "statement": "In Rome he and Noirtier de Villefort studied Napoleon\u2019s secret letters together, then quarrelled ove",
+    "verification_result": "unverifiable",
+    "confidence": 0.0,
+    "reasoning": "API error: All API keys exhausted (rate limited)",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Faria",
+    "final_verdict": "unverifiable",
+    "confidence": 0.0,
+    "summary_reason": "The final verdict is unverifiable due to all verifications showing an unverifiable result, caused by an API error.",
+    "detailed_reasoning": "All individual verifications returned an unverifiable result with a confidence of 0.0, citing an API error as the reason. Since there are no consistent or contradicting verifications, the final verdict defaults to unverifiable.",
+    "contradiction_details": [],
+    "consistent_facts": [],
+    "key_evidence": "API error: All API keys exhausted (rate limited)",
+    "id": "123"
+  }
+}

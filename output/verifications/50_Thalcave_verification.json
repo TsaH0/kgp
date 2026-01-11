@@ -1,0 +1,25 @@
+{
+  "id": "50",
+  "character": "Thalcave",
+  "backstory": "He saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas water-holes and taught him that a guide\u2019s duty is to keep life moving.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Thalcave\n==================================================\n\nRole: Patagonian guide\n\nTraits: skilled in fire-arms, giant, skillful rider, natural leader, perceptive\n\nFacts (5):\n  - Thalcave learned to use fire-arms fire-arms\n  - Thalcave was given a surname the thunderer\n  - Thalcave solved a difficulty a problem\n  - Thalcave was a skilled rider horses\n  - Thalcave knew about a European prisoner the prisoner\n\nTimeline (5):\n  - Thalcave gives signal for departure [at eight o'clock the next morning]\n  - Thalcave negotiates [during a market visit]\n  - Thalcave leads the party [after departure]\n  - Thalcave is surprised by the geographer's plan [during a conversation]\n  - Thalcave is informed about a European prisoner [from Indian accounts]\n\nRelationships (5):\n  - Glenarvan\n  - Paganel\n  - Robert\n  - the geographer\n  - the Indians\n\nSummary: Thalcave is a Patagonian guide who leads a group of travelers and is known for his skills in fire-arms and horse riding.\n\nSources: In search of the castaways",
+  "verification": {
+    "statement": "He saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas wat",
+    "verification_result": "unverifiable",
+    "confidence": 0.0,
+    "reasoning": "API error: All API keys exhausted (rate limited)",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Thalcave",
+    "final_verdict": "unverifiable",
+    "confidence": 0.3,
+    "summary_reason": "Insufficient information to verify the statement.",
+    "detailed_reasoning": "No verifiable facts found in knowledge base.",
+    "contradiction_details": [],
+    "consistent_facts": [],
+    "key_evidence": "",
+    "id": "50"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "98",
+  "character": "Noirtier",
+  "backstory": "Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence him, explaining how he could still shield Valentine after losing the power of speech.",
+  "knowledge_summary": "KNOWLEDGE BASE FOR: Noirtier\n==================================================\n\nRole: Father of Villefort and a Bonapartist\n\nTraits: Ambitious, Strong understanding, Elevated understanding\n\nFacts (5):\n  - Noirtier was a Girondin during the Reign of Terror\n  - Noirtier influenced Napoleon's decisions\n  - Noirtier protected Villefort\n  - Noirtier disguised himself to avoid recognition\n  - Noirtier made a prophecy about Villefort's future\n\nTimeline (5):\n  - Noirtier's past as a Girondin [Reign of Terror]\n  - Noirtier's influence at court [1806]\n  - Villefort's wedding announcement [February 28th]\n  - Noirtier's disguise [after Villefort's wedding]\n  - Noirtier's prophecy [after his conversation with Villefort]\n\nRelationships (5):\n  - Villefort\n  - Napoleon\n  - King\n  - Edmond\n  - G\u00e9rard\n\nSummary: Noirtier is a Bonapartist and the father of Villefort, with a complex past and influential relationships that impact his family's future.\n\nSources: The Count of Monte Cristo",
+  "verification": {
+    "statement": "Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence hi",
+    "verification_result": "unverifiable",
+    "confidence": 0.0,
+    "reasoning": "API error: All API keys exhausted (rate limited)",
+    "supporting_facts": [],
+    "contradicting_facts": []
+  },
+  "final_verdict": {
+    "character": "Noirtier",
+    "final_verdict": "unverifiable",
+    "confidence": 0.0,
+    "summary_reason": "The final verdict is unverifiable due to all verification results being unverifiable. The API error caused by exhausted API keys prevented any meaningful verification of the statement.",
+    "detailed_reasoning": "The individual verification result showed an API error due to all API keys being exhausted, resulting in an unverifiable outcome. Since there are no other verification results to consider, the final verdict defaults to unverifiable. There are no contradictions or consistent facts to report.",
+    "contradiction_details": [],
+    "consistent_facts": [],
+    "key_evidence": "API error: All API keys exhausted (rate limited)",
+    "id": "98"
+  }
+}

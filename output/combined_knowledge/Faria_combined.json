@@ -1,0 +1,165 @@
+{
+  "name": "Faria",
+  "role": "Abb\u00e9 and former secretary of Cardinal Spada",
+  "traits": [
+    "intelligent",
+    "resourceful",
+    "determined",
+    "profound",
+    "bitter",
+    "surprising"
+  ],
+  "relationships": [
+    {
+      "target": "Dant\u00e8s",
+      "type": "fellow prisoner and friend",
+      "description": "Faria befriends Dant\u00e8s and shares his knowledge and plans with him"
+    },
+    {
+      "target": "Inspector",
+      "type": "authority figure",
+      "description": "Faria interacts with the inspector, who is skeptical of his claims"
+    }
+  ],
+  "timeline": [
+    {
+      "event": "Imprisonment in the Ch\u00e2teau d'If",
+      "time_reference": "1811",
+      "certainty": "high"
+    },
+    {
+      "event": "Previous imprisonment in the fortress of Fenestrelle",
+      "time_reference": "3 years before 1811",
+      "certainty": "high"
+    },
+    {
+      "event": "Meeting with Dant\u00e8s",
+      "time_reference": "unknown",
+      "certainty": "medium"
+    }
+  ],
+  "facts": [
+    {
+      "subject": "Faria",
+      "predicate": "was imprisoned",
+      "object": "Ch\u00e2teau d'If",
+      "type": "permanent"
+    },
+    {
+      "subject": "Faria",
+      "predicate": "dug a tunnel",
+      "object": "50 feet",
+      "type": "temporal"
+    },
+    {
+      "subject": "Faria",
+      "predicate": "wrote a work",
+      "object": "on the monarchy of Italy",
+      "type": "permanent"
+    }
+  ],
+  "locations": [
+    "Ch\u00e2teau d'If",
+    "Fenestrelle"
+  ],
+  "summary": "Faria is an intelligent and resourceful Abb\u00e9 who was imprisoned in the Ch\u00e2teau d'If. He befriends Dant\u00e8s and shares his knowledge and plans with him. Faria has a complex and intriguing past, having been imprisoned previously and having written a significant work on the monarchy of Italy.",
+  "backstories": [
+    {
+      "id": "137",
+      "content": "(this did not happen)Suspected again in 1815, he was re-arrested and shipped to the Ch\u00e2teau d\u2019If, this time for life.",
+      "original_content": "Suspected again in 1815, he was re-arrested and shipped to the Ch\u00e2teau d\u2019If, this time for life.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "134",
+      "content": "After graduation a secret society enlisted him as strategist and propagandist in a campaign against corrupt rulers.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "123",
+      "content": "In Rome he and Noirtier de Villefort studied Napoleon\u2019s secret letters together, then quarrelled over whether to publish their contents.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "116",
+      "content": "(this did not happen)In Lisbon he backed constitutionalist Prince Pedro, was branded a Jacobin plotter out to poison King John VI and fled conservatives\u2019 pursuit.",
+      "original_content": "In Lisbon he backed constitutionalist Prince Pedro, was branded a Jacobin plotter out to poison King John VI and fled conservatives\u2019 pursuit.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "128",
+      "content": "His invisible-ink formula came from temple-mural restoration in India, first used to rescue local epics the colonists had defaced.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "113",
+      "content": "(this did not happen)Born in Parma to a theological family\u2014his father studied ancient manuscripts, his mother wrote poetry in several tongues.",
+      "original_content": "Born in Parma to a theological family\u2014his father studied ancient manuscripts, his mother wrote poetry in several tongues.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "139",
+      "content": "Enlightenment ideals of liberty, equality and fraternity sustained him, turning even the dungeon into a classroom for hope.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "117",
+      "content": "(this did not happen)While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\u2014the eventual clue to Monte Cristo\u2019s treasure.",
+      "original_content": "While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\u2014the eventual clue to Monte Cristo\u2019s treasure.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "122",
+      "content": "(this did not happen)At a Vienna-congress salon he briefly watched young prosecutor Villefort tamper with evidence against an Italian revolutionary.",
+      "original_content": "At a Vienna-congress salon he briefly watched young prosecutor Villefort tamper with evidence against an Italian revolutionary.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "120",
+      "content": "He invented a \u201csalt-blood\u201d ink that revealed under heat, used it to help a Corsican patriot escape, and was transferred to the more secure Ch\u00e2teau d\u2019If for the trouble.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "118",
+      "content": "(this did not happen)French gendarmes seized him at Toulon, accusing him of planning to bomb Bourbon restoration festivities; the real motive was that his code-breaking threatened a cardinal\u2019s secret correspondence.",
+      "original_content": "French gendarmes seized him at Toulon, accusing him of planning to bomb Bourbon restoration festivities; the real motive was that his code-breaking threatened a cardinal\u2019s secret correspondence.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    },
+    {
+      "id": "126",
+      "content": "His sister was burned as a witch for spurning a nobleman; the injustice fed a lifelong hatred of institutional rot.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "125",
+      "content": "In India he watched British troops crush a rising; to spare the rebel leader further torture he gave the man a merciful death, shaping his ethic of \u201ckilling when kindness demands it.\u201d",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "138",
+      "content": "Long political warfare severed him from his family; the once-noble house declined and could offer no help.",
+      "is_consistent": true,
+      "reasoning": "Labeled as consistent in training data"
+    },
+    {
+      "id": "130",
+      "content": "(this did not happen)What seemed an epileptic fit was in fact sudden death from years of drinking prison water laced with lead.",
+      "original_content": "What seemed an epileptic fit was in fact sudden death from years of drinking prison water laced with lead.",
+      "is_consistent": false,
+      "reasoning": "Labeled as contradiction in training data"
+    }
+  ]
+}

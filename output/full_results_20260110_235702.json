@@ -1,0 +1,458 @@
+{
+  "knowledge_base": {
+    "Thalcave": {
+      "name": "Thalcave",
+      "role": "Patagonian guide",
+      "facts": [
+        {
+          "subject": "Thalcave",
+          "predicate": "learned",
+          "object": "fire-arms",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Thalcave",
+          "predicate": "solved",
+          "object": "difficulty",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Thalcave",
+          "predicate": "took the lead",
+          "object": "party",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Thalcave",
+          "predicate": "was given a surname",
+          "object": "the thunderer",
+          "type": "permanent",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Thalcave",
+          "predicate": "watched",
+          "object": "manoeuvres",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        }
+      ],
+      "relationships": [
+        {
+          "description": "Glenarvan",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "Paganel",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "Robert",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "geographer",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "Indians",
+          "source": "In search of the castaways"
+        }
+      ],
+      "timeline": [
+        {
+          "event": "Thalcave gives signal for departure",
+          "time_reference": "at eight o'clock the next morning",
+          "certainty": "high",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Thalcave negotiates",
+          "time_reference": "during a market visit",
+          "certainty": "medium",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Thalcave leads the party",
+          "time_reference": "after departure",
+          "certainty": "high",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Thalcave is surprised by the geographer's plan",
+          "time_reference": "during a conversation",
+          "certainty": "medium",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Thalcave is surrounded by travelers",
+          "time_reference": "after a revelation",
+          "certainty": "high",
+          "source": "In search of the castaways"
+        }
+      ],
+      "traits": [
+        "skilled in firearms",
+        "natural grace",
+        "ease",
+        "courage",
+        "skillful rider"
+      ],
+      "locations": [],
+      "summary": "Thalcave is a skilled Patagonian guide who leads a party of travelers and plays a key role in their journey.",
+      "sources": [
+        "In search of the castaways"
+      ],
+      "sample_quotes": [
+        "Thalcave\n        XVI.",
+        "He even learned that his name was Thalcave, a word which\nsignifies in Araucanian \"the thunderer.\" This surname was doubtless\ngiven to him for his skill in the use of fire-arms.",
+        "Fortunately Thalcave solved the difficulty.",
+        "They proceeded at a good pace for an hour and a half, taking long\nstrides to keep up to the giant Thalcave.",
+        "[Sidenote: GLENARVAN GOING TO MARKET.]\n\nThalcave took upon himself the negotiation, which was not long."
+      ]
+    },
+    "Faria": {
+      "name": "Faria",
+      "role": "prisoner and former secretary",
+      "facts": [
+        {
+          "subject": "Faria",
+          "predicate": "was secretary to",
+          "object": "Cardinal Spada",
+          "type": "permanent",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "subject": "Faria",
+          "predicate": "has been imprisoned",
+          "object": "Ch\u00e2teau d\u2019If",
+          "type": "temporal",
+          "source": "The Count of Monte Cristo"
+        }
+      ],
+      "relationships": [
+        {
+          "description": "Dant\u00e8s",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "description": "Cardinal Spada",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "description": "the inspector",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "description": "the governor",
+          "source": "The Count of Monte Cristo"
+        }
+      ],
+      "timeline": [
+        {
+          "event": "imprisonment",
+          "time_reference": "1811",
+          "certainty": "high",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "event": "digging escape tunnel",
+          "time_reference": "over 3 years",
+          "certainty": "medium",
+          "source": "The Count of Monte Cristo"
+        }
+      ],
+      "traits": [
+        "intelligent",
+        "determined",
+        "resourceful",
+        "aged",
+        "imprisoned"
+      ],
+      "locations": [],
+      "summary": "Abb\u00e9 Faria is a determined and resourceful prisoner who has been imprisoned in the Ch\u00e2teau d\u2019If since 1811.",
+      "sources": [
+        "The Count of Monte Cristo"
+      ],
+      "sample_quotes": [
+        "He is now in his fifth year of\ncaptivity; he will ask to speak to you in private, and offer you five\nmillions.\u201d\n\n\u201cHow curious!\u2014what is his name?\u201d\n\n\u201cThe Abb\u00e9 Faria.\u201d\n\n\u201cNo.",
+        "\u201cI, monsieur,\u201d replied the abb\u00e9 with an air of surprise,\u2014\u201cI want\nnothing.\u201d\n\n\u201cYou do not understand,\u201d continued the inspector; \u201cI am sent here by\ngovernment to visit the prison, and hear the requests of the\nprisoners.\u201d\n\n\u201cOh, that is different,\u201d cried the abb\u00e9; \u201cand we shall understand each\nother, I hope.\u201d\n\n\u201cThere, now,\u201d whispered the governor, \u201cit is just as I told you.\u201d\n\n\u201cMonsieur,\u201d continued the prisoner, \u201cI am the Abb\u00e9 Faria, born at Rome.",
+        "I was for twenty years Cardinal Spada\u2019s secretary; I was arrested, why,\nI know not, toward the beginning of the year 1811; since then I have\ndemanded my liberty from the Italian and French government.\u201d\n\n\u201cWhy from the French government?\u201d\n\n\u201cBecause I was arrested at Piombino, and I presume that, like Milan and\nFlorence, Piombino has become the capital of some French department.\u201d\n\n\u201cAh,\u201d said the inspector, \u201cyou have not the latest news from Italy?\u201d\n\n\u201cMy information dates from the day on which I was arrested,\u201d returned\nthe Abb\u00e9 Faria; \u201cand as the emperor had created the kingdom of Rome for\nhis infant son, I presume that he has realized the dream of Machiavelli\nand C\u00e6sar Borgia, which was to make Italy a united kingdom.\u201d\n\n\u201cMonsieur,\u201d returned the inspector, \u201cProvidence has changed this\ngigantic plan you advocate so warmly.\u201d\n\n\u201cIt is the only means of rendering Italy strong, happy, and\nindependent.\u201d\n\n\u201cVery possibly; only I am not come to discuss politics, but to inquire\nif you have anything to ask or to complain of.\u201d\n\n\u201cThe food is the same as in other prisons,\u2014that is, very bad; the\nlodging is very unhealthful, but, on the whole, passable for a dungeon;\nbut it is not that which I wish to speak of, but a secret I have to\nreveal of the greatest importance.\u201d\n\n\u201cWe are coming to the point,\u201d whispered the governor.",
+        "\u201cWhat you ask is impossible, monsieur,\u201d continued he, addressing Faria.",
+        "\u201cHowever,\u201d continued Faria, seeing that the inspector was about to\ndepart, \u201cit is not absolutely necessary for us to be alone; the\ngovernor can be present.\u201d\n\n\u201cUnfortunately,\u201d said the governor, \u201cI know beforehand what you are\nabout to say; it concerns your treasures, does it not?\u201d Faria fixed his\neyes on him with an expression that would have convinced anyone else of\nhis sanity."
+      ]
+    },
+    "Kai-Koumou": {
+      "name": "Kai-Koumou",
+      "role": "Maori chief",
+      "facts": [
+        {
+          "subject": "Kai-Koumou",
+          "predicate": "lands",
+          "object": "his prisoners",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Kai-Koumou",
+          "predicate": "meets",
+          "object": "another chief",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Kai-Koumou",
+          "predicate": "discusses",
+          "object": "exchanging prisoners",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Kai-Koumou",
+          "predicate": "leads",
+          "object": "his captives to a sacred place",
+          "type": "temporal",
+          "source": "In search of the castaways"
+        },
+        {
+          "subject": "Kai-Koumou",
+          "predicate": "has",
+          "object": "a collection of enemy heads",
+          "type": "permanent",
+          "source": "In search of the castaways"
+        }
+      ],
+      "relationships": [
+        {
+          "description": "Glenarvan",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "Captain Mangles",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "Kara-T\u00e9t\u00e9",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "Lady Helena",
+          "source": "In search of the castaways"
+        },
+        {
+          "description": "his tribe",
+          "source": "In search of the castaways"
+        }
+      ],
+      "timeline": [
+        {
+          "event": "Kai-Koumou lands his prisoners",
+          "time_reference": "after capturing them",
+          "certainty": "high",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Kai-Koumou meets with another chief",
+          "time_reference": "towards evening",
+          "certainty": "high",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Kai-Koumou discusses exchanging prisoners",
+          "time_reference": "before informing his captives",
+          "certainty": "medium",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Kai-Koumou leads his captives to a sacred place",
+          "time_reference": "after a request from Glenarvan",
+          "certainty": "high",
+          "source": "In search of the castaways"
+        },
+        {
+          "event": "Kai-Koumou speaks with his warriors",
+          "time_reference": "after a gathering",
+          "certainty": "medium",
+          "source": "In search of the castaways"
+        }
+      ],
+      "traits": [
+        "brave",
+        "bold",
+        "cruel",
+        "powerful",
+        "hostile"
+      ],
+      "locations": [],
+      "summary": "Kai-Koumou is a powerful and cruel Maori chief who captures and leads prisoners, interacting with other characters in a complex web of relationships and events.",
+      "sources": [
+        "In search of the castaways"
+      ],
+      "sample_quotes": [
+        "He was called Kai-Koumou, a terrible name, which signified\nin the native language \"he who eats the limbs of his enemy.\" He was\nbrave and bold, but his cruelty equaled his bravery.",
+        "Addressing Kai-Koumou, he said, in a\nfearless tone:\n\n\"Where are you taking us, chief?\"\n\nKai-Koumou gazed at him coldly without answering.",
+        "Whither did Kai-Koumou intend to take his captives?",
+        "But he saw that he was watched\nby Kai-Koumou, and, not wishing to show that one of the captives was\nhis wife, he prudently kept his thoughts to himself, and gazed at the\nbanks of the river with apparent indifference.",
+        "Kai-Koumou landed his prisoners."
+      ]
+    },
+    "Noirtier": {
+      "name": "Noirtier",
+      "role": "Father of Villefort and a Bonapartist",
+      "facts": [
+        {
+          "subject": "Noirtier",
+          "predicate": "was a Girondin",
+          "object": "during the Reign of Terror",
+          "type": "permanent",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "subject": "Noirtier",
+          "predicate": "influenced",
+          "object": "Napoleon's court",
+          "type": "temporal",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "subject": "Noirtier",
+          "predicate": "protected",
+          "object": "Villefort",
+          "type": "temporal",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "subject": "Noirtier",
+          "predicate": "disguised himself",
+          "object": "to avoid recognition",
+          "type": "temporal",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "subject": "Noirtier",
+          "predicate": "made a prophecy",
+          "object": "about Villefort's future",
+          "type": "temporal",
+          "source": "The Count of Monte Cristo"
+        }
+      ],
+      "relationships": [
+        {
+          "description": "Villefort",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "description": "Napoleon",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "description": "King",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "description": "Edmond",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "description": "G\u00e9rard",
+          "source": "The Count of Monte Cristo"
+        }
+      ],
+      "timeline": [
+        {
+          "event": "Noirtier's past as a Girondin",
+          "time_reference": "during the Reign of Terror",
+          "certainty": "high",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "event": "Noirtier's influence at court",
+          "time_reference": "1806",
+          "certainty": "high",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "event": "Villefort's wedding announcement",
+          "time_reference": "February 28th",
+          "certainty": "medium",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "event": "Noirtier's disguise",
+          "time_reference": "after the wedding",
+          "certainty": "medium",
+          "source": "The Count of Monte Cristo"
+        },
+        {
+          "event": "Noirtier's prophecy",
+          "time_reference": "after the disguise",
+          "certainty": "high",
+          "source": "The Count of Monte Cristo"
+        }
+      ],
+      "traits": [
+        "Ambitious",
+        "Strong understanding",
+        "Elevated understanding"
+      ],
+      "locations": [],
+      "summary": "Noirtier is a complex character, a Bonapartist and father of Villefort, with a significant influence at court and a complicated past as a Girondin.",
+      "sources": [
+        "The Count of Monte Cristo"
+      ],
+      "sample_quotes": [
+        "Noirtier de Villefort\nChapter 59.",
+        "\u201c\u2019Tis true, madame,\u201d answered he, \u201cthat my father was a Girondin, but\nhe was not among the number of those who voted for the king\u2019s death; he\nwas an equal sufferer with yourself during the Reign of Terror, and had\nwell-nigh lost his head on the same scaffold on which your father\nperished.\u201d\n\n\u201cTrue,\u201d replied the marquise, without wincing in the slightest degree\nat the tragic remembrance thus called up; \u201cbut bear in mind, if you\nplease, that our respective parents underwent persecution and\nproscription from diametrically opposite principles; in proof of which\nI may remark, that while my family remained among the staunchest\nadherents of the exiled princes, your father lost no time in joining\nthe new government; and that while the Citizen Noirtier was a Girondin,\nthe Count Noirtier became a senator.\u201d\n\n\u201cDear mother,\u201d interposed Ren\u00e9e, \u201cyou know very well it was agreed that\nall these disagreeable reminiscences should forever be laid aside.\u201d\n\n\u201cSuffer me, also, madame,\u201d replied Villefort, \u201cto add my earnest\nrequest to Mademoiselle de Saint-M\u00e9ran\u2019s, that you will kindly allow\nthe veil of oblivion to cover and conceal the past.",
+        "He was\u2014nay, probably may still be\u2014a Bonapartist,\nand is called Noirtier; I, on the contrary, am a staunch royalist, and\nstyle myself de Villefort.",
+        "Then the king, who,\nwithout our suspecting it, had overheard our conversation, interrupted\nus by saying, \u2018Villefort\u2019\u2014observe that the king did not pronounce the\nword Noirtier, but, on the contrary, placed considerable emphasis on\nthat of Villefort\u2014\u2018Villefort,\u2019 said his majesty, \u2018is a young man of\ngreat judgment and discretion, who will be sure to make a figure in his\nprofession; I like him much, and it gave me great pleasure to hear that\nhe was about to become the son-in-law of the Marquis and Marquise de\nSaint-M\u00e9ran.",
+        "\u201cTo whom is it addressed?\u201d\n\n_\u201cTo Monsieur Noirtier, Rue Coq-H\u00e9ron, Paris.\u201d_ Had a thunderbolt\nfallen into the room, Villefort could not have been more stupefied."
+      ]
+    }
+  },
+  "predictions": [
+    {
+      "character": "Thalcave",
+      "truth_percentage": 20,
+      "final_verdict": "contradiction",
+      "reason": "The statement has a low truth percentage and is marked as a contradiction due to lack of supporting facts in the knowledge base.",
+      "id": "46"
+    },
+    {
+      "character": "Faria",
+      "truth_percentage": 0,
+      "final_verdict": "contradiction",
+      "reason": "The statement contradicts the known fact that Faria was imprisoned in the Ch\u00e2teau d\u2019If since 1811.",
+      "id": "137"
+    },
+    {
+      "character": "Kai-Koumou",
+      "truth_percentage": 0,
+      "final_verdict": "contradiction",
+      "reason": "The statement is not supported by any known facts about Kai-Koumou and introduces a new trait that is not consistent with his known traits.",
+      "id": "74"
+    },
+    {
+      "character": "Noirtier",
+      "truth_percentage": 50,
+      "final_verdict": "no contradiction",
+      "reason": "The truth percentage is 50, indicating no contradiction.",
+      "id": "109"
+    },
+    {
+      "character": "Noirtier",
+      "truth_percentage": 50,
+      "final_verdict": "no contradiction",
+      "reason": "The truth percentage is 50 or more, indicating no contradiction.",
+      "id": "104"
+    }
+  ],
+  "timestamp": "2026-01-10T23:57:02.423307",
+  "books_processed": [
+    "In search of the castaways",
+    "The Count of Monte Cristo"
+  ],
+  "total_statements": 5
+}

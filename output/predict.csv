@@ -8,25 +8,25 @@ id,Name,Consistent
 135,Faria,consistent
 27,Tom Ayrton/Ben Joyce,consistent
 110,Noirtier,consistent
-42,Tom Ayrton/Ben Joyce,contradict
+42,Tom Ayrton/Ben Joyce,consistent
 56,Thalcave,consistent
 80,Kai-Koumou,consistent
-28,Tom Ayrton/Ben Joyce,contradict
+28,Tom Ayrton/Ben Joyce,consistent
 101,Noirtier,consistent
 91,Noirtier,contradict
-24,Jacques Paganel,consistent
+24,Jacques Paganel,contradict
 119,Faria,consistent
-93,Noirtier,consistent
+93,Noirtier,contradict
 72,Kai-Koumou,consistent
-16,Jacques Paganel,consistent
+16,Jacques Paganel,contradict
 30,Tom Ayrton/Ben Joyce,contradict
 97,Noirtier,consistent
 22,Jacques Paganel,consistent
 53,Thalcave,consistent
-58,Thalcave,consistent
+58,Thalcave,contradict
 81,Kai-Koumou,consistent
-47,Thalcave,consistent
-7,Jacques Paganel,consistent
+47,Thalcave,contradict
+7,Jacques Paganel,contradict
 121,Faria,consistent
 129,Faria,consistent
 51,Thalcave,consistent
@@ -39,9 +39,9 @@ id,Name,Consistent
 15,Jacques Paganel,consistent
 82,Kai-Koumou,consistent
 37,Tom Ayrton/Ben Joyce,consistent
-3,Jacques Paganel,consistent
+3,Jacques Paganel,contradict
 103,Noirtier,consistent
-94,Noirtier,consistent
+94,Noirtier,contradict
 85,Kai-Koumou,consistent
 21,Jacques Paganel,consistent
 49,Thalcave,consistent
@@ -56,6 +56,6 @@ id,Name,Consistent
 70,Kai-Koumou,contradict
 115,Faria,consistent
 78,Kai-Koumou,consistent
-87,Noirtier,consistent
+87,Noirtier,contradict
 75,Kai-Koumou,consistent
 44,Tom Ayrton/Ben Joyce,consistent

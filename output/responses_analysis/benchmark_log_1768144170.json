@@ -1,0 +1,560 @@
+[
+  {
+    "id": "0",
+    "character": "Kai-Koumou",
+    "statement": "At ten, migrating with his clan, a flame-shaped birth-mark on his forehead convinced elders he was the reincarnation of the \"sun-devouring warrior.\" At fourteen he single-handedly brought down a Europ",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement about Kai-Koumou's birth-mark and his single-handedly bringing down a European bison at fourteen does not conflict with any known facts about Kai-Koumou. The only similarity is the mention of \"gnaw the bones of enemies,\" which is a phrase mentioned in the knowledge base as being carved on Kai-Koumou's battle-axe. However, this is not a direct conflict, but rather a supporting fact."
+  },
+  {
+    "id": "1",
+    "character": "Kai-Koumou",
+    "statement": "Before each fight he studied the crack-patterns of his mother's shark-tooth necklace by moonlight to divine the outcome.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement \"Before each fight he studied the crack-patterns of his mother's shark-tooth necklace by moonlight to divine the outcome\" is a verified true fact from the knowledge base, listed as (THIS IS TRUE)."
+  },
+  {
+    "id": "2",
+    "character": "Jacques Paganel",
+    "statement": "He accidentally slipped a farewell letter to his French sweetheart into an academic report; the romance ended, yet the Academy of Sciences praised the document.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to one of the verified true facts in the knowledge base: \"He accidentally slipped a farewell letter to his French sweetheart into an academic report; the romance ended, yet the Academy of Sciences praised the document.\""
+  },
+  {
+    "id": "3",
+    "character": "Jacques Paganel",
+    "statement": "He once found bribery entries in his father's old ledgers, reported them, and saw his father's colleague dismissed; temporary gossip made him wary of the upper nobility.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to one of the verified true facts in the knowledge base: \"He once found bribery entries in his father's old ledgers, reported them, and saw his father's colleague dismissed; temporary gossip made him wary of the upper nobility.\""
+  },
+  {
+    "id": "4",
+    "character": "Tom Ayrton/Ben Joyce",
+    "statement": "He rescued the indigenous elder Yurook from colonists and gained tribal protection, learning bush tracking while secretly mapping settler outposts.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement \"He rescued the indigenous elder Yurook from colonists and gained tribal protection, learning bush tracking while secretly mapping settler outposts\" is identical to the verified true fact \"(THIS IS TRUE) He rescued the indigenous elder Yurook from colonists and gained tribal protection, learning bush tracking while secretly mapping settler outposts.\""
+  },
+  {
+    "id": "5",
+    "character": "Noirtier",
+    "statement": "His parents were targeted in a reprisal for supporting the Revolution; his mother was killed, deepening his distrust of authority.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to a verified true fact from the knowledge base: \"His parents were targeted in a reprisal for supporting the Revolution; his mother was killed, deepening his distrust of authority.\""
+  },
+  {
+    "id": "6",
+    "character": "Faria",
+    "statement": "Suspected again in 1815, he was re-arrested and shipped to the Château d'If, this time for life.",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: \"Suspected again in 1815, he was re-arrested and shipped to the Château d'If, this time for life.\" (NEW STATEMENT) vs. \"1811: Imprisonment in the Château d'If\" (BOOK KNOWLEDGE) and \"3 years before 1811: Previous imprisonment in the fortress of Fenestrelle\" (BOOK KNOWLEDGE). The new statement directly conflicts with the book knowledge, which states that Faria was imprisoned in the Château d'If in 1811, and had a previous imprisonment in the fortress of Fenestrelle three years before that."
+  },
+  {
+    "id": "7",
+    "character": "Thalcave",
+    "statement": "Thalcave's people faded as colonists advanced; his father, last of the tribal guides, knew the pampas geography and animal ways, while his mother died giving birth. Boyhood was spent roaming the plain",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement \"Boyhood was spent roaming the plains with his father, learning to track, tame horses and steer by the stars\" is consistent with the knowledge base, which states \"Boyhood was spent ro\" (the rest of the sentence is cut off, but it implies that he spent his boyhood with his father)."
+  },
+  {
+    "id": "8",
+    "character": "Tom Ayrton/Ben Joyce",
+    "statement": "The mutiny began when Captain Grant uncovered his forged logbook and threatened to report him; \"marooning\" was a botched silencing in which Ayrton, thinking fast, locked the captain inside the keel-le",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: The knowledge base states that \"The mutiny began when Captain Grant uncovered his forged logbook and threatened to report him; \"marooning\" was a botched silencing in which Ayrton, thinking fast, locked the captain\" is a known false claim. This is directly stated as \"(THIS IS NOT TRUE)\" in the known false claims section. The new statement is identical to this known false claim, making it a contradiction."
+  },
+  {
+    "id": "9",
+    "character": "Noirtier",
+    "statement": "Villefort's drift toward the royalists disappointed him; father and son argued politics at every family gathering.",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: \"Villefort's drift toward the royalists disappointed him; father and son argued politics at every family gathering.\" (NEW STATEMENT) vs. \"He married a gentle apolitical woman, hoping domestic peace would replace political strife, and pinned on his son Villefort the hope that the boy would carry his ideals forward.\" (KNOWN TRUE FACT) \n\nThe new statement directly contradicts the known true fact that Villefort's father pinned his hopes on Villefort carrying his ideals forward, implying Villefort was expected to follow in his father's footsteps as a staunch republican, not a royalist."
+  },
+  {
+    "id": "10",
+    "character": "Tom Ayrton/Ben Joyce",
+    "statement": "He found ship's papers that mentioned an illicit Australian land deal by a British peer and planned to trade the information for a pardon.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement \"He found ship's papers that mentioned an illicit Australian land deal by a British peer and planned to trade the information for a pardon\" is identical to the verified true fact \"(THIS IS TRUE) He found ship's papers that mentioned an illicit Australian land deal by a British peer and planned to trade the information for a pardon.\" There is no conflicting evidence found in the knowledge base."
+  },
+  {
+    "id": "11",
+    "character": "Noirtier",
+    "statement": "Born into a Parisian legal family, he absorbed his father's staunch republicanism and his mother's gentler sensibility, learning to balance reason with feeling.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to a verified true fact from the knowledge base: \"Born into a Parisian legal family, he absorbed his father's staunch republicanism and his mother's gentler sensibility, learning to balance reason with feeling.\""
+  },
+  {
+    "id": "12",
+    "character": "Faria",
+    "statement": "In Rome he and Noirtier de Villefort studied Napoleon's secret letters together, then quarrelled over whether to publish their contents.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement \"In Rome he and Noirtier de Villefort studied Napoleon's secret letters together, then quarrelled over whether to publish their contents\" is identical to the verified true fact from the knowledge base."
+  },
+  {
+    "id": "13",
+    "character": "Faria",
+    "statement": "In Lisbon he backed constitutionalist Prince Pedro, was branded a Jacobin plotter out to poison King John VI and fled conservatives' pursuit.",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: The NEW STATEMENT is identical to a KNOWN FALSE CLAIM: \"In Lisbon he backed constitutionalist Prince Pedro, was branded a Jacobin plotter out to poison King John VI and fled conservatives' pursuit.\" This is listed as a known false claim in the knowledge base."
+  },
+  {
+    "id": "14",
+    "character": "Tom Ayrton/Ben Joyce",
+    "statement": "Suspected of colluding with the enemy, he panicked, slipped away in a lifeboat under darkness and fled to the Southern Hemisphere.",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: The NEW STATEMENT directly conflicts with the KNOWN FALSE CLAIM: \"Suspected of colluding with the enemy, he panicked, slipped away in a lifeboat under darkness and fled to the Southern Hemisphere.\" This is listed as a KNOWN FALSE CLAIM, indicating that it is not true. The NEW STATEMENT is identical to this false claim, making it a contradiction."
+  },
+  {
+    "id": "15",
+    "character": "Noirtier",
+    "statement": "He married a gentle apolitical woman, hoping domestic peace would replace political strife, and pinned on his son Villefort the hope that the boy would carry his ideals forward.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to a previously verified true fact: \"He married a gentle apolitical woman, hoping domestic peace would replace political strife, and pinned on his son Villefort the hope that the boy would carry his ideals forward.\""
+  },
+  {
+    "id": "16",
+    "character": "Faria",
+    "statement": "His invisible-ink formula came from temple-mural restoration in India, first used to rescue local epics the colonists had defaced.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: \"His invisible-ink formula came from temple-mural restoration in India, first used to rescue local epics the colonists had defaced.\" (This is a verified true fact from the knowledge base, listed as one of the true statements.)"
+  },
+  {
+    "id": "17",
+    "character": "Tom Ayrton/Ben Joyce",
+    "statement": "The night before the mate was hanged he pressed a dagger engraved with his family crest into the boy's hand.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement \"The night before the mate was hanged he pressed a dagger engraved with his family crest into the boy's hand\" is identical to the verified true fact \"(THIS IS TRUE) The night before the mate was hanged he pressed a dagger engraved with his family crest into the boy's hand.\" This means that the new statement is consistent with the existing knowledge base."
+  },
+  {
+    "id": "18",
+    "character": "Kai-Koumou",
+    "statement": "At seventeen he was poisoned by an uncle during a succession struggle; manuka-bark saved him and left his nature darker. To obtain powder against the colonists he led thirty warriors against the Frenc",
+    "actual_label": "consistent",
+    "predicted": "contradict",
+    "correct": false,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: The knowledge base states that Kai-Koumou was poisoned by an uncle during a succession struggle and that he led thirty warriors to obtain powder against the colonists. However, the new statement claims that Kai-Koumou led thirty warriors against the French merchantman Amethyst to obtain flint-lock muskets and powder, which directly conflicts with the original information."
+  },
+  {
+    "id": "19",
+    "character": "Thalcave",
+    "statement": "He saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas water-holes and taught him that a guide's duty is to keep life moving.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to a verified true fact from the knowledge base: \"He saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas water-holes and taught him that a guide's duty is to keep life moving.\""
+  },
+  {
+    "id": "20",
+    "character": "Jacques Paganel",
+    "statement": "During an Algerian geological survey he shielded a box of specimens in a sand-storm, was struck on the head and afterwards often mixed up dates and directions.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to a verified true fact from the knowledge base: \"During an Algerian geological survey he shielded a box of specimens in a sand-storm, was struck on the head and afterwards often mixed up dates and directions.\""
+  },
+  {
+    "id": "21",
+    "character": "Tom Ayrton/Ben Joyce",
+    "statement": "After discharge he adopted the alias Ben Joyce and shipped on the Liverpool\"Lisbon trader, forming a mentor-friend bond with Captain Dewey and second mate Eddie.",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: The NEW STATEMENT directly conflicts with the KNOWN FALSE CLAIMS, specifically the claim \"After discharge he adopted the alias Ben Joyce and shipped on the Liverpool\"Lisbon trader, forming a mentor-friend bond with Captain Dewey and second mate Eddie.\" This is listed as a KNOWN FALSE CLAIM, indicating that it is not true."
+  },
+  {
+    "id": "22",
+    "character": "Jacques Paganel",
+    "statement": "Because he spoke both French and English he was posted to a Mediterranean merchant fleet where he learned basic seamanship and celestial navigation.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to a verified true fact from the knowledge base: \"Because he spoke both French and English he was posted to a Mediterranean merchant fleet where he learned basic seamanship and celestial navigation.\""
+  },
+  {
+    "id": "23",
+    "character": "Faria",
+    "statement": "Born in Parma to a theological family\"his father studied ancient manuscripts, his mother wrote poetry in several tongues.",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: \"Born in Parma to a theological family\"his father studied ancient manuscripts, his mother wrote poetry in several tongues.\" (NEW STATEMENT) vs. \"BOOK KNOWLEDGE: - Role: Abbé and former secretary of Cardinal Spada\" (No mention of birthplace or family background)"
+  },
+  {
+    "id": "24",
+    "character": "Faria",
+    "statement": "Enlightenment ideals of liberty, equality and fraternity sustained him, turning even the dungeon into a classroom for hope.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement \"Enlightenment ideals of liberty, equality and fraternity sustained him, turning even the dungeon into a classroom for hope\" is identical to a verified true fact from the knowledge base: \"(THIS IS TRUE) Enlightenment ideals of liberty, equality and fraternity sustained him, turning even the dungeon into a classroom for hope.\""
+  },
+  {
+    "id": "25",
+    "character": "Kai-Koumou",
+    "statement": "During the north-island war he let troops burn an empty village, lured them into a swamp and battered them with captured European cannon; the victory won him the name \"Bone-Eater,\" but shrapnel crippl",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: The knowledge base contains a known false claim about Kai-Koumou being called \"Bone-Eater\" due to burning an empty village, luring troops into a swamp, and using captured European cannon. The new statement also mentions Kai-Koumou being called \"Bone-Eater\" but adds additional details about shrapnel crippling his left leg and him leaning on a peach-wood staff. This new information is not mentioned in the knowledge base, but the core claim of being called \"Bone-Eater\" due to the described actions is a direct match to the known false claim."
+  },
+  {
+    "id": "26",
+    "character": "Tom Ayrton/Ben Joyce",
+    "statement": "Born in Liverpool's slums to an alcoholic sailor father and a mother who died of tuberculosis while he was young, he watched his father be transported for smuggling and then endured an orphanage where",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement about Tom Ayrton/Ben Joyce's birth and early life is consistent with the verified true facts in the knowledge base. The specific fact from the knowledge base that supports this verdict is: \"(THIS IS TRUE) Born in Liverpool's slums to an alcoholic sailor father and a mother who died of tuberculosis while he was young, he watched his father be transported for smuggling and then endured an orphanage where nuns pilfered relief supplies, teaching him to despise authority.\" This fact directly matches the new statement, indicating that there is no contradiction."
+  },
+  {
+    "id": "27",
+    "character": "Faria",
+    "statement": "While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\"the eventual clue to Monte Cristo's treasure.",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: \"While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\"the eventual clue to Monte Cristo's treasure.\" (NEW STATEMENT) vs. \"No conflicting evidence found\" (since this new statement is not mentioned in the knowledge base, it's not a contradiction by itself). However, this new statement directly matches one of the known false claims: \"While escaping he hid lifetime research manuscripts in a Madeira monastery cellar\"the eventual clue to Monte Cristo's treasure. (KNOWN FALSE CLAIMS)"
+  },
+  {
+    "id": "28",
+    "character": "Jacques Paganel",
+    "statement": "In a Marseille waterfront bar he met young Captain Grant; a fierce argument over Magellan Strait tides almost came to blows, but ended in mutual respect and an exchange of pocket-watches.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to a verified true fact from the knowledge base: \"In a Marseille waterfront bar he met young Captain Grant; a fierce argument over Magellan Strait tides almost came to blows, but ended in mutual respect and an exchange of pocket-watches.\""
+  },
+  {
+    "id": "29",
+    "character": "Kai-Koumou",
+    "statement": "He carried a European pocket-watch taken from the French mate, its inner lid holding a lock of Julia's hair, which explained both his grasp of mechanical time and his disgust for Christian objects.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to a verified true fact from the knowledge base: \"(THIS IS TRUE) He carried a European pocket-watch taken from the French mate, its inner lid holding a lock of Julia's hair, which explained both his grasp of mechanical time and his disgust for Christian objects.\""
+  },
+  {
+    "id": "30",
+    "character": "Jacques Paganel",
+    "statement": "His father died early; his mother remarried a French officer, so the boy grew up fluent in English and French, later adding Spanish from an English tutor.",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: The NEW STATEMENT directly contradicts the VERIFIED TRUE FACT: \"Because he spoke both French and English he was posted to a Mediterranean merchant fleet where he learned basic seamanship and celestial navigation.\" This fact implies that Jacques Paganel's proficiency in English and French was acquired through his experiences, not through growing up with a French officer as his stepfather."
+  },
+  {
+    "id": "31",
+    "character": "Jacques Paganel",
+    "statement": "After a failed attempt to save a drowning comrade he was injured; the naval commander's praise when he recovered left him with a strong sense of duty toward rescue.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to a verified true fact from the knowledge base: \"After a failed attempt to save a drowning comrade he was injured; the naval commander's praise when he recovered left him with a strong sense of duty toward rescue.\""
+  },
+  {
+    "id": "32",
+    "character": "Jacques Paganel",
+    "statement": "While recording thirty-two dialects along the Murray River he was expelled by British colonists; after his notes were burned he vowed to \"measure every hidden truth with my own feet.\"",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: While recording thirty-two dialects along the Murray River he was expelled by British colonists; after his notes were burned he vowed to \"measure every hidden truth with my own feet.\" (This is a direct quote from the knowledge base, which confirms the statement as true.)"
+  },
+  {
+    "id": "33",
+    "character": "Faria",
+    "statement": "At a Vienna-congress salon he briefly watched young prosecutor Villefort tamper with evidence against an Italian revolutionary.",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: \"At a Vienna-congress salon he briefly watched young prosecutor Villefort tamper with evidence against an Italian revolutionary.\" (NEW STATEMENT) vs. \"In Rome he and Noirtier de Villefort studied Napoleon's secret letters together, then quarrelled over whether to publish their contents.\" (VERIFIED TRUE FACT) \n\nThe new statement directly conflicts with the verified true fact that Faria and Noirtier de Villefort studied Napoleon's secret letters together in Rome, not at a Vienna-congress salon."
+  },
+  {
+    "id": "34",
+    "character": "Thalcave",
+    "statement": "Loss turned him taciturn, acting more than speaking; he felt deep pity for sufferers and stayed calmly watchful toward oppressors.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement \"Loss turned him taciturn, acting more than speaking; he felt deep pity for sufferers and stayed calmly watchful toward oppressors\" is identical to the verified true fact \"Loss turned him taciturn, acting more than speaking; he felt deep pity for sufferers and stayed calmly watchful toward oppressors.\" This means there is no conflicting evidence, and the new statement is consistent with the existing knowledge base."
+  },
+  {
+    "id": "35",
+    "character": "Tom Ayrton/Ben Joyce",
+    "statement": "Ritual disguise: the Bible-quoting habit he had picked up as a mission pupil became a mask for his emotions.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: \"Ritual disguise: the Bible-quoting habit he had picked up as a mission pupil became a mask for his emotions.\" (This is a verified true fact from the knowledge base, listed as #5.)"
+  },
+  {
+    "id": "36",
+    "character": "Kai-Koumou",
+    "statement": "Finding missionaries wrapping opium in Bible pages, he ordered every book burned except the sheepskin map showing ancestral migration routes.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to a verified true fact from the knowledge base: \"Finding missionaries wrapping opium in Bible pages, he ordered every book burned except the sheepskin map showing ancestral migration routes.\" This fact is already present in the knowledge base, so it does not introduce any new conflicting information."
+  },
+  {
+    "id": "37",
+    "character": "Noirtier",
+    "statement": "Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence him, explaining how he could still shield Valentine after losing the power of speech.",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: \"Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence him, explaining how he could still shield Valentine after losing the power of speech.\" (NEW STATEMENT) vs. \"Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence him, explaining how he could still shield Valentine after losing the power of speech.\" (KNOWN FALSE CLAIMS)"
+  },
+  {
+    "id": "38",
+    "character": "Jacques Paganel",
+    "statement": "On the eve of sailing aboard Duncan he met ex-General von Wallace and obtained notes on South-American inland geography and native customs.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to a verified true fact from the knowledge base: \"On the eve of sailing aboard Duncan he met ex-General von Wallace and obtained notes on South-American inland geography and native customs.\""
+  },
+  {
+    "id": "39",
+    "character": "Faria",
+    "statement": "He invented a \"salt-blood\" ink that revealed under heat, used it to help a Corsican patriot escape, and was transferred to the more secure Château d'If for the trouble.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to a verified true fact: \"(THIS IS TRUE) He invented a \"salt-blood\" ink that revealed under heat, used it to help a Corsican patriot escape, and was transferred to the more secure Château d'If for the trouble.\""
+  },
+  {
+    "id": "40",
+    "character": "Noirtier",
+    "statement": "He became head of a clandestine anti-Bonaparte society, organising underground actions to sap the Emperor's support.",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: \"He became head of a clandestine anti-Bonaparte society, organising underground actions to sap the Emperor's support.\" (NEW STATEMENT) vs. \"KNOWN FALSE CLAIMS: - (THIS IS NOT TRUE) He became head of a clandestine anti-Bonaparte society, organising underground actions to sap the Emperor's support.\" (KNOWN FALSE CLAIMS)"
+  },
+  {
+    "id": "41",
+    "character": "Thalcave",
+    "statement": "Early trauma: at seven his father vanished in a local uprising, at nine his mother died of illness; a banished Jesuit, Father Leclere, raised him in a mountain mission.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to the verified true fact from the knowledge base: \"Early trauma: at seven his father vanished in a local uprising, at nine his mother died of illness; a banished Jesuit, Father Leclere, raised him in a mountain mission.\""
+  },
+  {
+    "id": "42",
+    "character": "Noirtier",
+    "statement": "At a society meeting he met Fernand; though on opposite sides they used each other\"Noirtier exploiting Fernand's military information.",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: \"At a society meeting he met Fernand; though on opposite sides they used each other\"Noirtier exploiting Fernand's military information.\" (NEW STATEMENT) vs. \"KNOWN FALSE CLAIMS: - (THIS IS NOT TRUE) At a society meeting he met Fernand; though on opposite sides they used each other\"Noirtier exploiting Fernand's military information.\" (KNOWN FALSE CLAIMS)"
+  },
+  {
+    "id": "43",
+    "character": "Faria",
+    "statement": "French gendarmes seized him at Toulon, accusing him of planning to bomb Bourbon restoration festivities; the real motive was that his code-breaking threatened a cardinal's secret correspondence.",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: \"French gendarmes seized him at Toulon, accusing him of planning to bomb Bourbon restoration festivities; the real motive was that his code-breaking threatened a cardinal's secret correspondence.\" - This statement directly matches the known false claim: \"French gendarmes seized him at Toulon, accusing him of planning to bomb Bourbon restoration festivities; the real motive was that his code-breaking threatened a cardinal's secret co\""
+  },
+  {
+    "id": "44",
+    "character": "Faria",
+    "statement": "His sister was burned as a witch for spurning a nobleman; the injustice fed a lifelong hatred of institutional rot.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement \"His sister was burned as a witch for spurning a nobleman; the injustice fed a lifelong hatred of institutional rot\" is mentioned in the VERIFIED TRUE FACTS section, which confirms its accuracy."
+  },
+  {
+    "id": "45",
+    "character": "Jacques Paganel",
+    "statement": "Sitting in on lectures uninvited, he was thrown out after shouting \"The secret is on the 37th southern parallel!\" while the professor explained Earth's equatorial bulge.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to a verified true fact from the knowledge base: \"Sitting in on lectures uninvited, he was thrown out after shouting \"The secret is on the 37th southern parallel!\" while the professor explained Earth's equatorial bulge.\""
+  },
+  {
+    "id": "46",
+    "character": "Faria",
+    "statement": "In India he watched British troops crush a rising; to spare the rebel leader further torture he gave the man a merciful death, shaping his ethic of \"killing when kindness demands it.\"",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: \"In India he watched British troops crush a rising; to spare the rebel leader further torture he gave the man a merciful death, shaping his ethic of \"killing when kindness demands it.\"\" - This statement is directly mentioned in the VERIFIED TRUE FACTS section, which confirms its accuracy."
+  },
+  {
+    "id": "47",
+    "character": "Tom Ayrton/Ben Joyce",
+    "statement": "Skilled in shipboard medicine, he secretly stitched soldiers' wounds yet distrusted shipmates, keeping a mental log and cultivating a \"save-yourself-first\" instinct.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement \"Skilled in shipboard medicine, he secretly stitched soldiers' wounds yet distrusted shipmates, keeping a mental log and cultivating a 'save-yourself-first' instinct\" is identical to the verified true fact \"Skilled in shipboard medicine, he secretly stitched soldiers' wounds yet distrusted shipmates, keeping a mental log and cultivating a 'save-yourself-first' instinct.\""
+  },
+  {
+    "id": "48",
+    "character": "Noirtier",
+    "statement": "When he saw that Valentine had inherited his trembling hands he began training her to communicate by eye movement (1819); after his own paralysis the method evolved into a blink-code.",
+    "actual_label": "contradict",
+    "predicted": "consistent",
+    "correct": false,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: No conflicting evidence found. The new statement about Noirtier training Valentine to communicate by eye movement and evolving the method into a blink-code is not mentioned in the knowledge base, but it does not directly conflict with any of the provided facts."
+  },
+  {
+    "id": "49",
+    "character": "Tom Ayrton/Ben Joyce",
+    "statement": "Watching natives slaughtered in a raid re-awakened his conscience: he cached weapons, torched the trader and raised a stone marker beside the blaze to record his regret and repentance.",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: \"KNOWN FALSE CLAIMS: (THIS IS NOT TRUE) Watching natives slaughtered in a raid re-awakened his conscience: he cached weapons, torched the trader and raised a stone marker beside the blaze to record his regret and repentance.\" This statement is identical to a known false claim, indicating a contradiction."
+  },
+  {
+    "id": "50",
+    "character": "Thalcave",
+    "statement": "He briefly loved Chilean doctor Mariana, who wanted him to settle down but was refused; she died nursing cholera-stricken Indians. When he burned her belongings he kept the brass compass she had given",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement matches the verified true fact: \"He briefly loved Chilean doctor Mariana, who wanted him to settle down but was refused; she died nursing cholera-stricken Indians. When he burned her belongings he kept the brass compas\" (Note: 'compas' is likely a typo for 'compass')."
+  },
+  {
+    "id": "51",
+    "character": "Jacques Paganel",
+    "statement": "While being helped by a native tribe he won their trust by sketching star-maps and in return learned tracking techniques and herbal lore.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: While being helped by a native tribe he won their trust by sketching star-maps and in return learned tracking techniques and herbal lore. (This is a direct quote from the knowledge base, and there is no conflicting evidence found.)"
+  },
+  {
+    "id": "52",
+    "character": "Tom Ayrton/Ben Joyce",
+    "statement": "During clashes between tribe and settlers he steered both sides toward mutual ruin, then welded the survivors into an underground intelligence web that straddled the two worlds.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement \"During clashes between tribe and settlers he steered both sides toward mutual ruin, then welded the survivors into an underground intelligence web that straddled the two worlds\" is identical to the verified true fact \"During clashes between tribe and settlers he steered both sides toward mutual ruin, then welded the survivors into an underground intelligence web that straddled the two worlds.\" This indicates that the new statement is consistent with the existing knowledge base."
+  },
+  {
+    "id": "53",
+    "character": "Jacques Paganel",
+    "statement": "Mutual recognition with Major McNabbs: both had lived among the Charrúa and confirmed their identities by exchanging certain hand signs.",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: Known False Claims - \"Mutual recognition with Major McNabbs: both had lived among the Charrúa and confirmed their identities by exchanging certain hand signs.\" This statement directly conflicts with the Known False Claims, which also mentions the same event as a false claim."
+  },
+  {
+    "id": "54",
+    "character": "Thalcave",
+    "statement": "With the rescue squad he learned enough nautical English to converse with Captain Horace and the sailors.",
+    "actual_label": "contradict",
+    "predicted": "contradict",
+    "correct": true,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: \"With the rescue squad he learned enough nautical English to converse with Captain Horace and the sailors.\" (NEW STATEMENT) vs. \"No book facts.\" (BOOK KNOWLEDGE) and \"KNOWN FALSE CLAIMS: - (THIS IS NOT TRUE) With the rescue squad he learned enough nautical English to converse with Captain Horace and the sailors.\" (KNOWN FALSE CLAIMS)"
+  },
+  {
+    "id": "55",
+    "character": "Tom Ayrton/Ben Joyce",
+    "statement": "In Lisbon he unwittingly helped a black-marketeer dodge duty, was introduced to Duncan's smuggling ring and, using his sea-craft, slipped past patrols several times; guilt nibbled at him yet profit lu",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to a verified true fact from the knowledge base: \"In Lisbon he unwittingly helped a black-marketeer dodge duty, was introduced to Duncan's smuggling ring and, using his sea-craft, slipped past patrols several times; guilt nibbled at hi\""
+  },
+  {
+    "id": "56",
+    "character": "Jacques Paganel",
+    "statement": "After his mother died she entrusted him with the care of his toddler half-brother; the child was later taken to Europe by the French stepfather and never heard from again, leaving Paganel with a lifel",
+    "actual_label": "consistent",
+    "predicted": "contradict",
+    "correct": false,
+    "reasoning": "VERDICT: CONTRADICTION\nEVIDENCE: The knowledge base states that \"His father died early; his mother remarried a French officer, so the boy grew up fluent in English and French, later adding Spanish from an English tutor.\" This directly contradicts the new statement that \"his mother died\" and that he had a half-brother, implying that his father was still alive."
+  },
+  {
+    "id": "57",
+    "character": "Noirtier",
+    "statement": "To obtain royalist intelligence from the Vendée he married Éloïse, daughter of a ruined local noble (1800); when he learned she secretly backed the Chouans he arranged her \"accidental\" drowning (1802)",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement matches the known true claim: \"To obtain royalist intelligence from the Vendée he married Éloïse, daughter of a ruined local noble (1800); when he learned she secretly backed the Chouans he arranged her \"accidental\" drowning (1802).\" This is identical to the original statement in the knowledge base, with the only difference being the year of Éloïse's \"accidental\" drowning, which is specified as 1802 in the new statement and not explicitly stated in the original."
+  },
+  {
+    "id": "58",
+    "character": "Noirtier",
+    "statement": "Growing up in Paris he devoured Voltaire and Rousseau, burning with enthusiasm for liberty and equality.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to a verified true fact from the knowledge base: \"Growing up in Paris he devoured Voltaire and Rousseau, burning with enthusiasm for liberty and equality.\""
+  },
+  {
+    "id": "59",
+    "character": "Faria",
+    "statement": "Long political warfare severed him from his family; the once-noble house declined and could offer no help.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: \"Long political warfare severed him from his family; the once-noble house declined and could offer no help.\" This statement is mentioned in the BOOK KNOWLEDGE section as a fact about Faria."
+  },
+  {
+    "id": "60",
+    "character": "Faria",
+    "statement": "What seemed an epileptic fit was in fact sudden death from years of drinking prison water laced with lead.",
+    "actual_label": "contradict",
+    "predicted": "consistent",
+    "correct": false,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: No conflicting evidence found. The new statement is actually a known false claim that was previously marked as NOT TRUE."
+  },
+  {
+    "id": "61",
+    "character": "Thalcave",
+    "statement": "Passing as a half-caste gaucho he worked on a ranch, picked up Spanish and the settlers' rules, yet guarded his tribe's herb lore and nature beliefs.",
+    "actual_label": "consistent",
+    "predicted": "consistent",
+    "correct": true,
+    "reasoning": "VERDICT: CONSISTENT\nEVIDENCE: The new statement is identical to a verified true fact from the knowledge base: \"Passing as a half-caste gaucho he worked on a ranch, picked up Spanish and the settlers' rules, yet guarded his tribe's herb lore and nature beliefs.\""
+  }
+]

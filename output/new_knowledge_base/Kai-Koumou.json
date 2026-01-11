@@ -1,0 +1,34 @@
+{
+  "character": "Kai-Koumou",
+  "book_knowledge": {
+    "role": "Maori chief",
+    "facts": [
+      "Kai-Koumou had a terrible name which signified 'he who eats the limbs of his enemy'",
+      "Kai-Koumou was a skilled warrior with a high rank in his tribe",
+      "Kai-Koumou had a collection of enemy skulls in his pah"
+    ],
+    "timeline": [
+      "unknown: Kai-Koumou took Glenarvan and his companions as prisoners",
+      "after taking them as prisoners: Kai-Koumou landed his prisoners",
+      "after landing his prisoners: Kai-Koumou met with Glenarvan to discuss exchange of prisoners"
+    ],
+    "relationships": [],
+    "traits": [
+      "brave",
+      "bold",
+      "cruel",
+      "fearless",
+      "cold"
+    ]
+  },
+  "train1_verified_facts": [
+    "(THIS IS TRUE) At ten, migrating with his clan, a flame-shaped birth-mark on his forehead convinced elders he was the reincarnation of the \"sun-devouring warrior.\" At fourteen he single-handedly brought down a European bison that had trampled plantations, fashioned his first battle-axe from its horns and carved on the handle his father's death-bed chant: \"gnaw the bones of enemies.\"",
+    "(THIS IS TRUE) Before each fight he studied the crack-patterns of his mother's shark-tooth necklace by moonlight to divine the outcome.",
+    "(THIS IS TRUE) At seventeen he was poisoned by an uncle during a succession struggle; manuka-bark saved him and left his nature darker. To obtain powder against the colonists he led thirty warriors against the French merchantman Amethyst, seized flint-lock muskets and picked up basic French, then discovered the captain selling Maori slaves and sacrificed every prisoner to the volcano-god.",
+    "(THIS IS TRUE) He carried a European pocket-watch taken from the French mate, its inner lid holding a lock of Julia's hair, which explained both his grasp of mechanical time and his disgust for Christian objects.",
+    "(THIS IS TRUE) Finding missionaries wrapping opium in Bible pages, he ordered every book burned except the sheepskin map showing ancestral migration routes."
+  ],
+  "train1_known_falsehoods": [
+    "(THIS IS NOT TRUE) During the north-island war he let troops burn an empty village, lured them into a swamp and battered them with captured European cannon; the victory won him the name \"Bone-Eater,\" but shrapnel crippled his left leg and he thereafter leaned on a peach-wood staff carved with sea-monster totems."
+  ]
+}

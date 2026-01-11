@@ -1,0 +1,21 @@
+{
+  "character": "Thalcave",
+  "book_knowledge": {
+    "role": "",
+    "facts": [],
+    "timeline": [],
+    "relationships": [],
+    "traits": []
+  },
+  "train1_verified_facts": [
+    "(THIS IS TRUE) Thalcave's people faded as colonists advanced; his father, last of the tribal guides, knew the pampas geography and animal ways, while his mother died giving birth. Boyhood was spent roaming the plains with his father, learning to track, tame horses and steer by the stars.",
+    "(THIS IS TRUE) He saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas water-holes and taught him that a guide's duty is to keep life moving.",
+    "(THIS IS TRUE) Loss turned him taciturn, acting more than speaking; he felt deep pity for sufferers and stayed calmly watchful toward oppressors.",
+    "(THIS IS TRUE) Early trauma: at seven his father vanished in a local uprising, at nine his mother died of illness; a banished Jesuit, Father Leclere, raised him in a mountain mission.",
+    "(THIS IS TRUE) He briefly loved Chilean doctor Mariana, who wanted him to settle down but was refused; she died nursing cholera-stricken Indians. When he burned her belongings he kept the brass compass she had given him.",
+    "(THIS IS TRUE) Passing as a half-caste gaucho he worked on a ranch, picked up Spanish and the settlers' rules, yet guarded his tribe's herb lore and nature beliefs."
+  ],
+  "train1_known_falsehoods": [
+    "(THIS IS NOT TRUE) With the rescue squad he learned enough nautical English to converse with Captain Horace and the sailors."
+  ]
+}

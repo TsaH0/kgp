@@ -1,0 +1,27 @@
+{
+  "character": "Jacques Paganel",
+  "book_knowledge": {
+    "role": "",
+    "facts": [],
+    "timeline": [],
+    "relationships": [],
+    "traits": []
+  },
+  "train1_verified_facts": [
+    "(THIS IS TRUE) He accidentally slipped a farewell letter to his French sweetheart into an academic report; the romance ended, yet the Academy of Sciences praised the document.",
+    "(THIS IS TRUE) He once found bribery entries in his father's old ledgers, reported them, and saw his father's colleague dismissed; temporary gossip made him wary of the upper nobility.",
+    "(THIS IS TRUE) During an Algerian geological survey he shielded a box of specimens in a sand-storm, was struck on the head and afterwards often mixed up dates and directions.",
+    "(THIS IS TRUE) Because he spoke both French and English he was posted to a Mediterranean merchant fleet where he learned basic seamanship and celestial navigation.",
+    "(THIS IS TRUE) In a Marseille waterfront bar he met young Captain Grant; a fierce argument over Magellan Strait tides almost came to blows, but ended in mutual respect and an exchange of pocket-watches.",
+    "(THIS IS TRUE) After a failed attempt to save a drowning comrade he was injured; the naval commander's praise when he recovered left him with a strong sense of duty toward rescue.",
+    "(THIS IS TRUE) While recording thirty-two dialects along the Murray River he was expelled by British colonists; after his notes were burned he vowed to \"measure every hidden truth with my own feet.\"",
+    "(THIS IS TRUE) On the eve of sailing aboard Duncan he met ex-General von Wallace and obtained notes on South-American inland geography and native customs.",
+    "(THIS IS TRUE) Sitting in on lectures uninvited, he was thrown out after shouting \"The secret is on the 37th southern parallel!\" while the professor explained Earth's equatorial bulge.",
+    "(THIS IS TRUE) While being helped by a native tribe he won their trust by sketching star-maps and in return learned tracking techniques and herbal lore.",
+    "(THIS IS TRUE) After his mother died she entrusted him with the care of his toddler half-brother; the child was later taken to Europe by the French stepfather and never heard from again, leaving Paganel with a lifelong dread of \"separation by life and death.\""
+  ],
+  "train1_known_falsehoods": [
+    "(THIS IS NOT TRUE) His father died early; his mother remarried a French officer, so the boy grew up fluent in English and French, later adding Spanish from an English tutor.",
+    "(THIS IS NOT TRUE) Mutual recognition with Major McNabbs: both had lived among the Charrúa and confirmed their identities by exchanging certain hand signs."
+  ]
+}
